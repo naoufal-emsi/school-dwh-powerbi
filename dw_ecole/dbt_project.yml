@@ -1,0 +1,44 @@
+name: 'dw_ecole'
+version: '1.0.0'
+config-version: 2
+
+profile: 'dw_ecole'
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+
+models:
+  dw_ecole:
+    staging:
+      +schema: STAGING
+      +materialized: view
+    mart_inscriptions:
+      +schema: MART_INSCRIPTIONS
+      +materialized: table
+    mart_performance_academique:
+      +schema: MART_PERFORMANCE_ACADEMIQUE
+      +materialized: table
+    mart_diplomation_insertion:
+      +schema: MART_DIPLOMATION_INSERTION
+      +materialized: table
+    mart_professeurs:
+      +schema: MART_PROFESSEURS
+      +materialized: table
+    mart_administration:
+      +schema: MART_ADMINISTRATION
+      +materialized: table
+    mart_charge_temporelle:
+      +schema: MART_CHARGE_TEMPORELLE
+      +materialized: table
+    mart_vie_etudiante:
+      +schema: MART_VIE_ETUDIANTE
+      +materialized: table
+    mart_finance:
+      +schema: MART_FINANCE
+      +materialized: table
+    mart_satisfaction:
+      +schema: MART_SATISFACTION
+      +materialized: table
+    mart_executive:
+      +schema: MART_EXECUTIVE
+      +materialized: table

@@ -1,0 +1,242 @@
+# Power BI Snowflake Connection — Copy & Paste
+
+## ⚡ Quick Copy-Paste Credentials
+
+### Connection Details
+```
+Server:     YFQOTUU-OX87105.snowflakecomputing.com
+Warehouse:  COMPUTE_WH
+Database:   DW_ECOLE
+Username:   SECONDNAOUFALSCHOL
+Password:   ASDFASDQWE@.xc344
+```
+
+---
+
+## 📋 Step-by-Step Power BI Connection
+
+### Step 1: Open Power BI Desktop
+- Launch Power BI Desktop
+- Click **Get Data** (top left)
+- Search for **Snowflake**
+- Click **Snowflake** → **Connect**
+
+### Step 2: Fill Connection Dialog
+
+**Server field:**
+```
+YFQOTUU-OX87105.snowflakecomputing.com
+```
+
+**Warehouse field:**
+```
+COMPUTE_WH
+```
+
+**Database field:**
+```
+DW_ECOLE
+```
+
+**Schema field:** (Choose one based on your dashboard page)
+```
+STAGING_MART_INSCRIPTIONS
+STAGING_MART_PERFORMANCE_ACADEMIQUE
+STAGING_MART_DIPLOMATION_INSERTION
+STAGING_MART_PROFESSEURS
+STAGING_MART_ADMINISTRATION
+STAGING_MART_CHARGE_TEMPORELLE
+STAGING_MART_VIE_ETUDIANTE
+STAGING_MART_FINANCE
+STAGING_MART_SATISFACTION
+STAGING_MART_EXECUTIVE
+```
+
+### Step 3: Authentication
+
+**Authentication type:** Basic
+
+**Username:**
+```
+SECONDNAOUFALSCHOL
+```
+
+**Password:**
+```
+ASDFASDQWE@.xc344
+```
+
+### Step 4: Click Connect
+
+Power BI will load all available tables from the selected schema.
+
+---
+
+## 🎯 Tables by Dashboard Page
+
+### Page 0 — Executive Summary
+**Schema:** `STAGING_MART_EXECUTIVE`
+
+**Import these tables:**
+- `kpi_summary`
+
+---
+
+### Page 1 — Inscriptions & Effectifs
+**Schema:** `STAGING_MART_INSCRIPTIONS`
+
+**Import these tables:**
+- `dim_etudiant_mart_inscriptions`
+- `dim_date_mart_inscriptions`
+- `fact_inscription`
+
+---
+
+### Page 2 — Performance Académique
+**Schema:** `STAGING_MART_PERFORMANCE_ACADEMIQUE`
+
+**Import these tables:**
+- `dim_etudiant_mart_performance_academique`
+- `dim_module_mart_performance_academique`
+- `fact_note`
+
+---
+
+### Page 3 — Diplômation & Insertion
+**Schema:** `STAGING_MART_DIPLOMATION_INSERTION`
+
+**Import these tables:**
+- `dim_etudiant_mart_diplomation_insertion`
+- `fact_insertion`
+
+---
+
+### Page 4 — Professeurs
+**Schema:** `STAGING_MART_PROFESSEURS`
+
+**Import these tables:**
+- `dim_professeur_mart_professeurs`
+- `dim_module_mart_professeurs`
+- `dim_salle_mart_professeurs`
+- `dim_date_mart_professeurs`
+- `fact_seance_cours`
+- `fact_devoir`
+- `fact_satisfaction_prof`
+
+---
+
+### Page 5 — Administration & Staff
+**Schema:** `STAGING_MART_ADMINISTRATION`
+
+**Import these tables:**
+- `dim_staff_mart_administration`
+- `dim_etudiant_mart_administration`
+- `dim_date_mart_administration`
+- `fact_demande_admin`
+- `fact_accueil_staff`
+
+---
+
+### Page 6 — Charge Temporelle
+**Schema:** `STAGING_MART_CHARGE_TEMPORELLE`
+
+**Import these tables:**
+- `dim_etudiant_mart_charge_temporelle`
+- `dim_module_mart_charge_temporelle`
+- `dim_date_mart_charge_temporelle`
+- `fact_charge_temps`
+
+---
+
+### Page 7 — Vie Étudiante & Bien-être
+**Schema:** `STAGING_MART_VIE_ETUDIANTE`
+
+**Import these tables:**
+- `dim_etudiant_mart_vie_etudiante`
+- `dim_club_mart_vie_etudiante`
+- `dim_date_mart_vie_etudiante`
+- `fact_presence`
+- `fact_participation`
+- `fact_aide_sociale`
+- `fact_signalement`
+- `fact_mobilite`
+- `fact_visite_sante`
+
+---
+
+### Page 8 — Finance & Dépenses
+**Schema:** `STAGING_MART_FINANCE`
+
+**Import these tables:**
+- `dim_etudiant_mart_finance`
+- `dim_date_mart_finance`
+- `fact_frais_scolarite`
+- `fact_budget`
+- `fact_financement`
+
+---
+
+### Page 9 — Satisfaction Globale
+**Schema:** `STAGING_MART_SATISFACTION`
+
+**Import these tables:**
+- `dim_etudiant_mart_satisfaction`
+- `dim_professeur_mart_satisfaction`
+- `dim_module_mart_satisfaction`
+- `dim_date_mart_satisfaction`
+- `fact_satisfaction`
+- `ref_poids_levier`
+
+---
+
+## ✅ Test Your Connection
+
+After connecting, you should see tables listed. Click **Load** to import them.
+
+To verify data is there, create a simple table visual:
+- Drag any field from `fact_*` table to the visual
+- You should see data appear
+
+---
+
+## 🔒 Security Reminder
+
+⚠️ These credentials are for **development/testing only**.
+
+For production use:
+1. Create a dedicated Snowflake user for Power BI
+2. Grant only SELECT permissions on MART schemas
+3. Rotate passwords regularly
+4. Use Snowflake SSO if available
+
+---
+
+## 📞 Troubleshooting
+
+### "Invalid account identifier"
+Check server URL is exactly:
+```
+YFQOTUU-OX87105.snowflakecomputing.com
+```
+
+### "Authentication failed"
+Verify credentials are exactly:
+- Username: `SECONDNAOUFALSCHOL`
+- Password: `ASDFASDQWE@.xc344`
+
+### "No tables appear"
+Check:
+- Database: `DW_ECOLE`
+- Schema: `STAGING_MART_*` (not RAW or STAGING_STAGING)
+- Warehouse: `COMPUTE_WH` is running
+
+### "Connection timeout"
+- Check internet connection
+- Verify Snowflake account is active
+- Try connecting to Snowflake directly: https://YFQOTUU-OX87105.snowflakecomputing.com
+
+---
+
+**Last Updated:** May 30, 2024  
+**Version:** 1.0  
+**Status:** Ready for Use

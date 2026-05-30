@@ -1,0 +1,33 @@
+version: 2
+
+sources:
+  - name: raw
+    database: DW_ECOLE
+    schema: RAW
+    tables:
+      - name: ETUDIANT
+      - name: INSCRIPTION
+      - name: MODULE
+      - name: NOTE
+      - name: PRESENCE_ETUDIANT
+      - name: PROFESSEUR
+      - name: SEANCE_COURS
+      - name: SALLE
+      - name: DEVOIR
+      - name: SATISFACTION_ENQUETE
+      - name: INSERTION_PROFESSIONNELLE
+      - name: STAFF_ADMINISTRATIF
+      - name: DEMANDE_ADMINISTRATIVE
+      - name: ACCUEIL_STAFF
+      - name: BUDGET_DEPARTEMENT
+      - name: FRAIS_SCOLARITE
+      - name: CHARGE_TEMPS_ETUDIANT
+      - name: CLUB_ASSOCIATION
+      - name: PARTICIPATION_CLUB
+      - name: AIDE_SOCIALE
+      - name: SIGNALEMENT_DISCIPLINAIRE
+      - name: MOBILITE_INTERNATIONALE
+      - name: VISITE_SANTE
+      - name: FINANCEMENT_EXTERNE
+      - name: POIDS_LEVIER_SATISFACTION
+      - name: SEUIL_ALERTE

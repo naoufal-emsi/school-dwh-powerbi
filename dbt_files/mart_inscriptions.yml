@@ -1,0 +1,61 @@
+version: 2
+
+models:
+
+  - name: dim_etudiant
+    description: "Dimension étudiant — profil complet pour le mart inscriptions"
+    columns:
+      - name: id_etudiant
+        description: "Clé primaire"
+        tests:
+          - unique
+          - not_null
+      - name: sexe
+        tests:
+          - accepted_values:
+              values: ['M', 'F']
+      - name: statut
+        tests:
+          - accepted_values:
+              values: ['Actif', 'Diplômé', 'Abandon']
+      - name: boursier
+        tests:
+          - not_null
+
+  - name: dim_date
+    description: "Dimension date — couvre 2020 à 2030"
+    columns:
+      - name: id_date
+        tests:
+          - unique
+          - not_null
+      - name: annee_universitaire
+        description: "Format YYYY-YYYY ex: 2023-2024"
+
+  - name: fact_inscription
+    description: "Fact table inscriptions avec indicateurs calculés"
+    columns:
+      - name: id_inscription
+        tests:
+          - unique
+          - not_null
+      - name: id_etudiant
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_etudiant')
+              field: id_etudiant
+      - name: id_date
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: id_date
+      - name: type_inscription
+        tests:
+          - accepted_values:
+              values: ['Nouveau', 'Réinscrit']
+      - name: is_nouvel_inscrit
+        description: "True si première inscription de l'étudiant"
+      - name: is_abandon
+        description: "True si statut étudiant = Abandon"
