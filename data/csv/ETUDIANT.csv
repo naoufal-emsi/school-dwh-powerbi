@@ -1,0 +1,1201 @@
+id_etudiant,nom,prenom,sexe,date_naissance,ville_origine,region,type_bac,mention_bac,boursier,date_inscription,statut,filiere,niveau_actuel,age,annee_inscription,boursier_bool
+1001,Douiri,Sara,M,2004-08-25,Oujda,Marrakech-Safi,Sciences Economiques,Bien,Non,2023-10-18,Actif,Finance & Comptabilité,S6,21,2023,0
+1002,Alaoui,Sara,F,2004-11-12,Tanger,Tanger-Tétouan,Sciences Math B,Assez Bien,Non,2024-06-24,Abandon,Génie Electrique,S4,21,2024,0
+1003,Jabri,Hind,F,2000-10-27,Casablanca,Rabat-Salé-Kénitra,Sciences Math B,Passable,Non,2019-11-13,Actif,Droit des Affaires,S4,25,2019,0
+1004,Idrissi,Meriem,F,1998-01-29,Meknès,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2023-10-28,Actif,Génie Civil,S4,28,2023,0
+1005,Idrissi,Fatima,M,2000-06-25,Tanger,Casablanca-Settat,Sciences Math A,Assez Bien,Oui,2024-02-01,Actif,Génie Electrique,S4,25,2024,1
+1006,El Fassi,Fatima,M,2003-10-28,Casablanca,Rabat-Salé-Kénitra,Sciences Economiques,Passable,Non,2020-07-30,Diplômé,Génie Informatique,S5,22,2020,0
+1007,Douiri,Nadia,M,2004-11-11,Fès,Souss-Massa,Sciences Math B,Très Bien,Oui,2022-04-05,Diplômé,Finance & Comptabilité,S2,21,2022,1
+1008,Wahbi,Loubna,F,1999-07-24,Tétouan,Rabat-Salé-Kénitra,Sciences de la Vie,Très Bien,Oui,2022-12-12,Diplômé,Droit des Affaires,S6,26,2022,1
+1009,Chraibi,Mehdi,F,2003-06-30,Rabat,Marrakech-Safi,Sciences Economiques,Bien,Oui,2020-07-23,Actif,Finance & Comptabilité,S2,22,2020,1
+1010,Ziani,Khalid,F,2001-12-24,Casablanca,Tanger-Tétouan,Sciences Economiques,Assez Bien,Non,2021-12-14,Actif,Marketing,S4,24,2021,0
+1011,Ouali,Ayoub,M,2000-01-08,Meknès,Souss-Massa,Sciences de la Vie,Assez Bien,Oui,2023-02-21,Actif,Génie Electrique,S2,26,2023,1
+1012,Benali,Sanaa,F,1999-05-31,Agadir,Casablanca-Settat,Sciences Math A,Bien,Non,2023-02-20,Diplômé,Marketing,S2,26,2023,0
+1013,Alaoui,Loubna,F,2003-06-24,Rabat,Rabat-Salé-Kénitra,Sciences Physiques,Assez Bien,Non,2019-01-05,Actif,Droit des Affaires,S5,22,2019,0
+1014,Chraibi,Rim,M,2004-09-10,Kenitra,Tanger-Tétouan,Sciences Math B,Passable,Oui,2022-10-16,Actif,Finance & Comptabilité,S4,21,2022,1
+1015,Hamidi,Hamza,M,1998-02-08,Casablanca,Fès-Meknès,Sciences Math B,Assez Bien,Non,2021-12-05,Diplômé,Génie Civil,S3,28,2021,0
+1016,Idrissi,Mehdi,M,2000-06-05,Rabat,Marrakech-Safi,Lettres,Bien,Non,2019-06-21,Diplômé,Marketing,S4,25,2019,0
+1017,Tazi,Rim,M,2005-10-15,Oujda,Rabat-Salé-Kénitra,Sciences Physiques,Assez Bien,Oui,2022-05-29,Actif,Génie Civil,S2,20,2022,1
+1018,Bennani,Fatima,M,2004-01-14,Casablanca,Rabat-Salé-Kénitra,Sciences Physiques,Passable,Non,2021-06-16,Actif,Marketing,S3,22,2021,0
+1019,Alaoui,Meriem,M,2001-01-03,Tanger,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Oui,2019-10-24,Actif,Génie Electrique,S6,25,2019,1
+1020,Wahbi,Ghita,M,2002-12-29,Meknès,Tanger-Tétouan,Sciences Physiques,Passable,Non,2019-11-18,Diplômé,Génie Electrique,S2,23,2019,0
+1021,Hamidi,Rim,F,2002-09-07,Marrakech,Marrakech-Safi,Sciences Math B,Assez Bien,Non,2020-07-16,Diplômé,Droit des Affaires,S2,23,2020,0
+1022,Wahbi,Amine,M,2000-08-31,Marrakech,Souss-Massa,Sciences Economiques,Passable,Non,2022-09-02,Actif,Finance & Comptabilité,S1,25,2022,0
+1023,Ouali,Sara,M,2002-04-12,Meknès,Souss-Massa,Sciences Economiques,Assez Bien,Non,2018-11-24,Actif,Génie Electrique,S1,24,2018,0
+1024,Idrissi,Sanaa,M,2005-12-06,Agadir,Marrakech-Safi,Sciences de la Vie,Bien,Oui,2023-07-04,Diplômé,Marketing,S6,20,2023,1
+1025,Rachidi,Omar,M,2005-08-27,Meknès,Tanger-Tétouan,Sciences Economiques,Assez Bien,Oui,2018-11-24,Diplômé,Marketing,S1,20,2018,1
+1026,Ziani,Ayoub,F,2000-09-15,Oujda,Casablanca-Settat,Lettres,Passable,Non,2023-12-28,Actif,Génie Civil,S2,25,2023,0
+1027,Jabri,Ayoub,M,1998-01-21,Meknès,Souss-Massa,Sciences Math A,Très Bien,Non,2024-06-13,Actif,Génie Informatique,S6,28,2024,0
+1028,Alaoui,Nadia,M,2004-06-08,Meknès,Souss-Massa,Sciences Math A,Très Bien,Non,2023-03-28,Actif,Marketing,S4,21,2023,0
+1029,Gharbi,Sanaa,F,2000-05-18,Rabat,Marrakech-Safi,Lettres,Très Bien,Non,2020-06-24,Actif,Génie Civil,S6,26,2020,0
+1030,Ouali,Fatima,M,1998-03-25,Kenitra,Tanger-Tétouan,Sciences Physiques,Passable,Non,2020-05-19,Abandon,Finance & Comptabilité,S4,28,2020,0
+1031,Lamrani,Sanaa,F,2002-08-10,Marrakech,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Non,2018-11-03,Diplômé,Génie Electrique,S2,23,2018,0
+1032,Jabri,Loubna,M,2003-05-31,Agadir,Rabat-Salé-Kénitra,Sciences Math B,Très Bien,Oui,2021-03-07,Diplômé,Génie Electrique,S1,22,2021,1
+1033,El Fassi,Sanaa,M,2001-11-11,Rabat,Tanger-Tétouan,Lettres,Bien,Non,2022-06-07,Actif,Marketing,S2,24,2022,0
+1034,Hamidi,Sara,F,2002-03-11,Marrakech,Rabat-Salé-Kénitra,Sciences Economiques,Passable,Non,2021-11-25,Diplômé,Génie Electrique,S6,24,2021,0
+1035,Lamrani,Khalid,F,1999-07-24,Kenitra,Fès-Meknès,Sciences Economiques,Passable,Oui,2023-01-30,Actif,Finance & Comptabilité,S4,26,2023,1
+1036,Douiri,Amine,F,2000-07-22,Meknès,Tanger-Tétouan,Sciences Math B,Assez Bien,Non,2020-01-04,Actif,Génie Informatique,S4,25,2020,0
+1037,Chraibi,Omar,M,2003-06-04,Kenitra,Marrakech-Safi,Sciences Math A,Très Bien,Non,2023-10-23,Actif,Droit des Affaires,S6,22,2023,0
+1038,Naciri,Fatima,M,2003-01-30,Marrakech,Rabat-Salé-Kénitra,Lettres,Assez Bien,Non,2023-12-24,Actif,Marketing,S5,23,2023,0
+1039,Douiri,Ayoub,F,2000-03-03,Fès,Fès-Meknès,Sciences Physiques,Assez Bien,Oui,2019-07-10,Diplômé,Finance & Comptabilité,S4,26,2019,1
+1040,Moussaoui,Karim,M,2000-03-02,Casablanca,Casablanca-Settat,Sciences de la Vie,Passable,Non,2021-03-07,Actif,Droit des Affaires,S5,26,2021,0
+1041,Moussaoui,Omar,M,2002-12-15,Casablanca,Casablanca-Settat,Sciences Math A,Bien,Non,2023-10-27,Actif,Génie Civil,S2,23,2023,0
+1042,Bennani,Ghita,M,2001-07-18,Tanger,Casablanca-Settat,Sciences de la Vie,Bien,Non,2020-11-21,Actif,Génie Informatique,S4,24,2020,0
+1043,Jabri,Yassine,M,2004-12-14,Oujda,Rabat-Salé-Kénitra,Sciences Physiques,Assez Bien,Oui,2022-09-29,Actif,Marketing,S5,21,2022,1
+1044,Benali,Sara,F,2004-03-05,Kenitra,Tanger-Tétouan,Sciences Economiques,Bien,Oui,2022-04-19,Actif,Génie Electrique,S4,22,2022,1
+1045,Rachidi,Rachid,M,2002-05-27,Meknès,Rabat-Salé-Kénitra,Lettres,Très Bien,Non,2020-07-11,Actif,Marketing,S5,23,2020,0
+1046,Wahbi,Nadia,F,2000-12-19,Kenitra,Casablanca-Settat,Sciences Physiques,Passable,Non,2019-11-09,Diplômé,Génie Civil,S4,25,2019,0
+1047,Douiri,Mehdi,M,2004-10-13,Meknès,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2020-07-13,Actif,Génie Electrique,S4,21,2020,0
+1048,Naciri,Hamza,M,2000-09-11,Fès,Fès-Meknès,Sciences Economiques,Assez Bien,Non,2021-11-02,Actif,Droit des Affaires,S3,25,2021,0
+1049,Chraibi,Omar,M,2002-08-08,Fès,Casablanca-Settat,Sciences Physiques,Bien,Oui,2021-08-09,Actif,Génie Informatique,S2,23,2021,1
+1050,Wahbi,Karim,M,1999-06-04,Oujda,Marrakech-Safi,Sciences Economiques,Bien,Non,2022-08-26,Diplômé,Droit des Affaires,S2,26,2022,0
+1051,Karimi,Loubna,F,1999-08-14,Agadir,Tanger-Tétouan,Sciences Economiques,Bien,Oui,2022-06-02,Actif,Marketing,S4,26,2022,1
+1052,Bennani,Omar,F,2000-11-16,Marrakech,Rabat-Salé-Kénitra,Sciences de la Vie,Bien,Non,2020-06-10,Actif,Finance & Comptabilité,S5,25,2020,0
+1053,Moussaoui,Hamza,F,2002-09-06,Tanger,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Non,2019-05-03,Actif,Génie Civil,S1,23,2019,0
+1054,Ziani,Omar,F,2003-07-29,Fès,Marrakech-Safi,Sciences Math A,Très Bien,Non,2024-07-27,Actif,Marketing,S5,22,2024,0
+1055,Hamidi,Nadia,F,2004-02-25,Rabat,Souss-Massa,Sciences Physiques,Assez Bien,Non,2019-06-23,Actif,Droit des Affaires,S4,22,2019,0
+1056,Chraibi,Rachid,F,2004-08-31,Casablanca,Rabat-Salé-Kénitra,Lettres,Passable,Non,2024-07-30,Diplômé,Finance & Comptabilité,S6,21,2024,0
+1057,Benali,Mehdi,M,1998-12-15,Meknès,Marrakech-Safi,Sciences Math B,Bien,Oui,2023-01-30,Diplômé,Marketing,S2,27,2023,1
+1058,Idrissi,Ghita,M,2000-08-17,Tétouan,Casablanca-Settat,Sciences Physiques,Bien,Oui,2024-07-19,Actif,Génie Civil,S6,25,2024,1
+1059,Karimi,Yassine,M,2003-05-18,Casablanca,Casablanca-Settat,Sciences Economiques,Assez Bien,Non,2023-02-14,Diplômé,Marketing,S5,23,2023,0
+1060,Chraibi,Amine,M,1999-11-24,Fès,Rabat-Salé-Kénitra,Sciences Math A,Très Bien,Non,2018-09-28,Diplômé,Génie Electrique,S3,26,2018,0
+1061,Idrissi,Mehdi,M,2002-04-09,Fès,Tanger-Tétouan,Sciences Math A,Très Bien,Oui,2024-02-07,Actif,Génie Electrique,S4,24,2024,1
+1062,Douiri,Mehdi,M,1999-01-13,Rabat,Souss-Massa,Sciences Math B,Assez Bien,Non,2022-12-09,Actif,Finance & Comptabilité,S5,27,2022,0
+1063,Naciri,Loubna,F,1999-06-11,Rabat,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2018-10-28,Actif,Droit des Affaires,S5,26,2018,0
+1064,Jabri,Amine,M,2005-08-13,Tétouan,Casablanca-Settat,Sciences Economiques,Passable,Non,2022-10-31,Actif,Génie Electrique,S3,20,2022,0
+1065,Rachidi,Amina,M,2004-03-03,Casablanca,Tanger-Tétouan,Sciences Math A,Passable,Non,2019-06-24,Diplômé,Génie Informatique,S1,22,2019,0
+1066,Moussaoui,Fatima,M,2004-11-07,Oujda,Marrakech-Safi,Lettres,Passable,Non,2024-08-21,Diplômé,Génie Informatique,S1,21,2024,0
+1067,Gharbi,Yassine,M,2001-06-13,Tétouan,Casablanca-Settat,Sciences Math A,Très Bien,Oui,2021-02-18,Abandon,Marketing,S5,24,2021,1
+1068,Moussaoui,Mehdi,F,2003-02-19,Casablanca,Marrakech-Safi,Sciences Math B,Bien,Oui,2024-01-17,Diplômé,Droit des Affaires,S4,23,2024,1
+1069,Moussaoui,Yassine,M,2002-10-30,Fès,Souss-Massa,Lettres,Passable,Non,2021-09-03,Actif,Génie Informatique,S6,23,2021,0
+1070,Hamidi,Sanaa,F,1999-06-05,Casablanca,Souss-Massa,Lettres,Assez Bien,Non,2023-04-05,Actif,Génie Informatique,S3,26,2023,0
+1071,Jabri,Nadia,F,2002-08-29,Meknès,Fès-Meknès,Sciences Math B,Bien,Oui,2021-12-05,Diplômé,Génie Civil,S1,23,2021,1
+1072,Chraibi,Hamza,M,2000-10-13,Oujda,Tanger-Tétouan,Lettres,Passable,Non,2020-10-10,Actif,Génie Civil,S5,25,2020,0
+1073,Bennani,Rachid,M,2005-08-05,Fès,Casablanca-Settat,Sciences de la Vie,Très Bien,Non,2022-11-05,Diplômé,Génie Informatique,S4,20,2022,0
+1074,Gharbi,Yassine,F,2000-10-10,Kenitra,Marrakech-Safi,Sciences Math A,Bien,Non,2022-06-10,Diplômé,Génie Civil,S6,25,2022,0
+1075,Wahbi,Amina,F,2004-12-23,Fès,Marrakech-Safi,Sciences Math B,Assez Bien,Oui,2022-01-31,Diplômé,Génie Informatique,S1,21,2022,1
+1076,Idrissi,Amine,F,1998-04-27,Casablanca,Marrakech-Safi,Sciences Economiques,Très Bien,Non,2022-12-03,Diplômé,Finance & Comptabilité,S2,28,2022,0
+1077,Gharbi,Sara,F,2004-08-30,Marrakech,Rabat-Salé-Kénitra,Lettres,Assez Bien,Non,2019-01-24,Actif,Génie Civil,S6,21,2019,0
+1078,Rachidi,Mehdi,M,2001-09-29,Kenitra,Rabat-Salé-Kénitra,Lettres,Très Bien,Non,2024-02-05,Diplômé,Génie Informatique,S6,24,2024,0
+1079,Naciri,Rim,M,1999-08-07,Tanger,Souss-Massa,Sciences de la Vie,Bien,Non,2022-02-16,Diplômé,Génie Informatique,S5,26,2022,0
+1080,Jabri,Soufiane,M,1999-01-30,Fès,Fès-Meknès,Lettres,Bien,Non,2023-11-21,Actif,Marketing,S3,27,2023,0
+1081,Wahbi,Fatima,F,2000-12-23,Tétouan,Souss-Massa,Sciences Math A,Passable,Non,2023-07-09,Diplômé,Droit des Affaires,S4,25,2023,0
+1082,Idrissi,Karim,F,2005-07-31,Agadir,Fès-Meknès,Lettres,Très Bien,Oui,2021-07-25,Actif,Finance & Comptabilité,S5,20,2021,1
+1083,Lamrani,Meriem,M,1998-03-13,Tétouan,Souss-Massa,Lettres,Assez Bien,Non,2024-04-10,Abandon,Droit des Affaires,S1,28,2024,0
+1084,Benali,Ayoub,M,1998-10-01,Tétouan,Marrakech-Safi,Sciences Math B,Passable,Non,2024-03-12,Actif,Finance & Comptabilité,S5,27,2024,0
+1085,Idrissi,Sanaa,M,2003-07-07,Agadir,Rabat-Salé-Kénitra,Sciences Math A,Passable,Non,2019-01-31,Actif,Marketing,S5,22,2019,0
+1086,Benali,Soufiane,M,2001-09-05,Fès,Souss-Massa,Sciences de la Vie,Bien,Oui,2020-01-21,Actif,Marketing,S1,24,2020,1
+1087,Lamrani,Hamza,F,1998-12-04,Tanger,Tanger-Tétouan,Lettres,Assez Bien,Oui,2020-01-04,Diplômé,Droit des Affaires,S2,27,2020,1
+1088,Naciri,Fatima,F,2001-10-21,Marrakech,Souss-Massa,Sciences Physiques,Bien,Non,2019-08-11,Actif,Marketing,S4,24,2019,0
+1089,Jabri,Ayoub,F,1999-08-30,Kenitra,Tanger-Tétouan,Sciences Math A,Très Bien,Non,2023-12-19,Actif,Génie Electrique,S6,26,2023,0
+1090,Chraibi,Soufiane,M,1998-06-15,Fès,Marrakech-Safi,Sciences Math A,Passable,Non,2023-06-28,Actif,Génie Informatique,S6,27,2023,0
+1091,Hamidi,Nadia,M,2002-04-17,Meknès,Rabat-Salé-Kénitra,Sciences Math A,Bien,Non,2019-04-09,Abandon,Génie Electrique,S6,24,2019,0
+1092,Ziani,Ghita,F,2003-08-21,Tanger,Souss-Massa,Sciences Math A,Passable,Non,2023-12-22,Actif,Génie Civil,S6,22,2023,0
+1093,Lamrani,Sara,F,2001-08-17,Tanger,Tanger-Tétouan,Sciences Math B,Très Bien,Non,2023-12-26,Actif,Marketing,S1,24,2023,0
+1094,Hamidi,Soufiane,F,1999-12-30,Casablanca,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Non,2020-08-23,Diplômé,Droit des Affaires,S6,26,2020,0
+1095,Saadi,Hind,F,2005-10-19,Kenitra,Fès-Meknès,Sciences Economiques,Assez Bien,Non,2020-02-10,Actif,Génie Informatique,S6,20,2020,0
+1096,Naciri,Ayoub,M,2003-08-06,Tétouan,Marrakech-Safi,Sciences Math A,Bien,Non,2022-11-01,Abandon,Génie Informatique,S5,22,2022,0
+1097,Rachidi,Yassine,M,1998-04-12,Marrakech,Souss-Massa,Sciences Economiques,Assez Bien,Oui,2023-03-23,Actif,Génie Civil,S5,28,2023,1
+1098,El Fassi,Sara,M,2001-11-16,Meknès,Souss-Massa,Sciences Math B,Assez Bien,Non,2019-12-25,Diplômé,Droit des Affaires,S3,24,2019,0
+1099,Jabri,Meriem,M,2000-02-18,Kenitra,Marrakech-Safi,Sciences Physiques,Bien,Non,2023-10-16,Actif,Finance & Comptabilité,S5,26,2023,0
+1100,El Fassi,Khalid,M,1998-08-02,Oujda,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Oui,2022-09-02,Actif,Génie Informatique,S1,27,2022,1
+1101,Idrissi,Rim,M,2001-01-16,Casablanca,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Oui,2022-07-27,Diplômé,Finance & Comptabilité,S3,25,2022,1
+1102,Wahbi,Fatima,F,2002-04-26,Agadir,Souss-Massa,Sciences de la Vie,Assez Bien,Oui,2019-08-11,Actif,Droit des Affaires,S5,24,2019,1
+1103,Wahbi,Meriem,M,2004-09-14,Meknès,Casablanca-Settat,Lettres,Bien,Oui,2018-10-15,Diplômé,Génie Informatique,S1,21,2018,1
+1104,Jabri,Ayoub,M,2005-03-20,Kenitra,Souss-Massa,Sciences de la Vie,Assez Bien,Oui,2024-04-30,Actif,Génie Electrique,S4,21,2024,1
+1105,Ziani,Karim,F,2002-08-23,Agadir,Tanger-Tétouan,Sciences de la Vie,Passable,Non,2023-03-16,Actif,Marketing,S4,23,2023,0
+1106,Ouali,Karim,M,1999-08-15,Meknès,Fès-Meknès,Sciences Physiques,Bien,Non,2023-11-01,Actif,Droit des Affaires,S5,26,2023,0
+1107,Ziani,Rachid,M,2001-08-26,Meknès,Tanger-Tétouan,Sciences Math A,Bien,Non,2024-05-27,Abandon,Finance & Comptabilité,S4,24,2024,0
+1108,Naciri,Ghita,F,2001-01-14,Marrakech,Casablanca-Settat,Sciences de la Vie,Passable,Oui,2022-10-24,Actif,Génie Electrique,S5,25,2022,1
+1109,Moussaoui,Mehdi,M,2003-11-10,Tanger,Rabat-Salé-Kénitra,Lettres,Passable,Oui,2021-05-29,Actif,Droit des Affaires,S6,22,2021,1
+1110,Idrissi,Karim,M,2005-06-13,Meknès,Tanger-Tétouan,Sciences Math A,Passable,Non,2021-06-30,Actif,Génie Informatique,S3,20,2021,0
+1111,El Fassi,Mehdi,M,1999-12-15,Marrakech,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2024-04-02,Actif,Marketing,S4,26,2024,0
+1112,Tazi,Amine,M,2000-07-24,Kenitra,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2019-06-01,Actif,Génie Electrique,S3,25,2019,0
+1113,Saadi,Ghita,F,2003-05-06,Oujda,Rabat-Salé-Kénitra,Lettres,Bien,Non,2021-04-13,Abandon,Marketing,S3,23,2021,0
+1114,Chraibi,Hamza,F,1998-08-30,Fès,Souss-Massa,Lettres,Bien,Non,2023-07-16,Actif,Génie Informatique,S3,27,2023,0
+1115,Benali,Loubna,F,2003-08-06,Fès,Tanger-Tétouan,Sciences Economiques,Bien,Oui,2019-09-16,Diplômé,Droit des Affaires,S2,22,2019,1
+1116,Douiri,Rachid,F,1998-01-02,Tanger,Casablanca-Settat,Sciences Math A,Assez Bien,Non,2022-05-15,Actif,Génie Informatique,S1,28,2022,0
+1117,El Fassi,Khalid,F,2004-03-22,Marrakech,Fès-Meknès,Lettres,Très Bien,Oui,2019-12-23,Diplômé,Génie Electrique,S6,22,2019,1
+1118,Gharbi,Ghita,M,2005-10-19,Oujda,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2024-04-24,Abandon,Génie Informatique,S5,20,2024,0
+1119,Ouali,Soufiane,F,2002-11-04,Casablanca,Marrakech-Safi,Sciences Math A,Très Bien,Non,2020-01-29,Actif,Génie Civil,S6,23,2020,0
+1120,Bennani,Hind,M,2003-05-04,Kenitra,Souss-Massa,Lettres,Bien,Oui,2019-03-10,Abandon,Marketing,S3,23,2019,1
+1121,Chraibi,Ayoub,F,2005-03-21,Meknès,Casablanca-Settat,Sciences Math A,Passable,Oui,2021-12-05,Actif,Génie Informatique,S6,21,2021,1
+1122,Naciri,Soufiane,F,2003-12-04,Meknès,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Oui,2021-11-04,Abandon,Génie Informatique,S5,22,2021,1
+1123,Naciri,Ghita,M,2000-07-06,Kenitra,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2022-07-13,Diplômé,Droit des Affaires,S3,25,2022,0
+1124,Bennani,Rim,M,2004-02-20,Kenitra,Marrakech-Safi,Sciences Math A,Bien,Oui,2019-05-30,Actif,Génie Civil,S1,22,2019,1
+1125,Rachidi,Fatima,M,2005-12-28,Marrakech,Rabat-Salé-Kénitra,Sciences Physiques,Passable,Non,2019-01-21,Actif,Marketing,S6,20,2019,0
+1126,Tazi,Fatima,M,1998-03-31,Meknès,Souss-Massa,Lettres,Passable,Oui,2023-11-26,Actif,Finance & Comptabilité,S4,28,2023,1
+1127,Jabri,Loubna,F,2002-09-06,Fès,Casablanca-Settat,Sciences Physiques,Très Bien,Non,2021-08-28,Actif,Génie Civil,S5,23,2021,0
+1128,Wahbi,Omar,F,2003-12-10,Tanger,Souss-Massa,Sciences Economiques,Passable,Non,2020-10-27,Actif,Génie Civil,S2,22,2020,0
+1129,Alaoui,Rim,M,1998-05-23,Fès,Souss-Massa,Sciences Math A,Très Bien,Non,2024-06-27,Actif,Marketing,S5,27,2024,0
+1130,Douiri,Ayoub,M,1998-04-16,Agadir,Souss-Massa,Sciences Physiques,Assez Bien,Non,2023-04-09,Actif,Droit des Affaires,S1,28,2023,0
+1131,Wahbi,Nadia,M,2000-06-05,Rabat,Souss-Massa,Sciences de la Vie,Bien,Oui,2020-05-15,Diplômé,Génie Civil,S6,25,2020,1
+1132,Jabri,Rim,M,1999-03-04,Oujda,Marrakech-Safi,Sciences de la Vie,Bien,Oui,2021-03-26,Actif,Marketing,S3,27,2021,1
+1133,Lamrani,Rachid,M,2001-08-21,Agadir,Fès-Meknès,Sciences de la Vie,Assez Bien,Non,2021-09-23,Actif,Droit des Affaires,S6,24,2021,0
+1134,Douiri,Ayoub,M,2003-03-11,Rabat,Casablanca-Settat,Lettres,Assez Bien,Non,2020-05-09,Diplômé,Génie Civil,S5,23,2020,0
+1135,Karimi,Khalid,F,2003-06-18,Kenitra,Marrakech-Safi,Sciences Math A,Passable,Non,2021-06-28,Actif,Marketing,S1,22,2021,0
+1136,Ouali,Rim,M,1998-11-13,Fès,Rabat-Salé-Kénitra,Sciences de la Vie,Passable,Oui,2018-11-06,Actif,Droit des Affaires,S3,27,2018,1
+1137,Gharbi,Fatima,M,2003-06-10,Casablanca,Rabat-Salé-Kénitra,Sciences Math B,Assez Bien,Oui,2019-03-10,Actif,Marketing,S4,22,2019,1
+1138,Rachidi,Rachid,F,1999-09-27,Tanger,Souss-Massa,Sciences Economiques,Bien,Oui,2020-02-03,Abandon,Finance & Comptabilité,S1,26,2020,1
+1139,Alaoui,Rim,M,2003-04-10,Meknès,Casablanca-Settat,Sciences Math B,Très Bien,Non,2021-05-17,Diplômé,Droit des Affaires,S2,23,2021,0
+1140,Jabri,Rachid,F,2003-08-19,Tétouan,Marrakech-Safi,Sciences Math B,Très Bien,Oui,2021-10-15,Actif,Génie Informatique,S5,22,2021,1
+1141,Tazi,Amine,F,2005-09-22,Tétouan,Marrakech-Safi,Lettres,Bien,Non,2023-02-21,Diplômé,Droit des Affaires,S1,20,2023,0
+1142,Gharbi,Sanaa,M,2004-03-20,Casablanca,Casablanca-Settat,Sciences de la Vie,Bien,Oui,2021-12-01,Actif,Marketing,S3,22,2021,1
+1143,Tazi,Mehdi,M,2001-12-10,Rabat,Souss-Massa,Sciences Economiques,Bien,Non,2019-09-11,Diplômé,Génie Electrique,S3,24,2019,0
+1144,Douiri,Meriem,M,1999-07-07,Fès,Casablanca-Settat,Sciences Physiques,Assez Bien,Oui,2020-06-14,Diplômé,Droit des Affaires,S2,26,2020,1
+1145,Karimi,Karim,M,1999-12-17,Tétouan,Casablanca-Settat,Lettres,Très Bien,Non,2020-03-02,Diplômé,Finance & Comptabilité,S5,26,2020,0
+1146,Tazi,Karim,M,2001-07-11,Kenitra,Fès-Meknès,Sciences Math B,Bien,Non,2021-09-02,Actif,Droit des Affaires,S3,24,2021,0
+1147,Bennani,Karim,F,2002-09-10,Fès,Fès-Meknès,Sciences Physiques,Bien,Oui,2018-11-12,Actif,Droit des Affaires,S3,23,2018,1
+1148,Hamidi,Karim,M,2003-02-27,Oujda,Souss-Massa,Lettres,Passable,Non,2019-03-18,Actif,Finance & Comptabilité,S3,23,2019,0
+1149,El Fassi,Rim,M,2001-01-12,Fès,Fès-Meknès,Lettres,Assez Bien,Non,2023-07-18,Diplômé,Génie Informatique,S1,25,2023,0
+1150,Moussaoui,Fatima,M,2001-09-03,Agadir,Rabat-Salé-Kénitra,Lettres,Assez Bien,Non,2020-03-25,Actif,Génie Civil,S6,24,2020,0
+1151,Gharbi,Sanaa,F,1998-04-21,Tanger,Fès-Meknès,Sciences Physiques,Très Bien,Non,2020-10-30,Diplômé,Génie Civil,S1,28,2020,0
+1152,Wahbi,Mehdi,M,1998-09-08,Casablanca,Fès-Meknès,Sciences Math A,Assez Bien,Oui,2023-02-25,Abandon,Marketing,S5,27,2023,1
+1153,Tazi,Loubna,M,2004-08-27,Fès,Fès-Meknès,Sciences Economiques,Assez Bien,Non,2023-09-06,Actif,Finance & Comptabilité,S2,21,2023,0
+1154,Alaoui,Sara,M,2003-08-17,Fès,Marrakech-Safi,Sciences Economiques,Très Bien,Oui,2023-09-30,Diplômé,Marketing,S5,22,2023,1
+1155,Bennani,Hamza,F,1999-04-04,Rabat,Tanger-Tétouan,Sciences Math B,Passable,Oui,2022-10-20,Diplômé,Génie Electrique,S6,27,2022,1
+1156,Lamrani,Loubna,M,2001-01-12,Oujda,Fès-Meknès,Sciences Math A,Assez Bien,Non,2021-11-18,Abandon,Droit des Affaires,S2,25,2021,0
+1157,Saadi,Loubna,F,1998-07-27,Fès,Casablanca-Settat,Sciences Math A,Passable,Oui,2019-02-26,Abandon,Génie Civil,S6,27,2019,1
+1158,Alaoui,Rachid,F,2000-06-18,Tétouan,Fès-Meknès,Sciences Math A,Bien,Non,2020-09-04,Diplômé,Marketing,S4,25,2020,0
+1159,Douiri,Fatima,M,1998-01-22,Fès,Tanger-Tétouan,Sciences Economiques,Très Bien,Non,2024-07-07,Actif,Marketing,S3,28,2024,0
+1160,Moussaoui,Rim,F,1999-02-14,Meknès,Souss-Massa,Sciences Economiques,Assez Bien,Non,2020-11-07,Diplômé,Finance & Comptabilité,S2,27,2020,0
+1161,Karimi,Sanaa,M,2000-06-13,Fès,Souss-Massa,Sciences de la Vie,Très Bien,Non,2020-10-27,Actif,Génie Electrique,S3,25,2020,0
+1162,Idrissi,Rim,F,1999-05-30,Kenitra,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Oui,2019-03-28,Diplômé,Génie Electrique,S6,26,2019,1
+1163,Benali,Sara,F,2000-03-19,Agadir,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Oui,2020-01-06,Abandon,Marketing,S2,26,2020,1
+1164,Idrissi,Hind,M,2000-05-23,Tanger,Fès-Meknès,Sciences Math A,Bien,Non,2023-03-16,Actif,Génie Electrique,S4,25,2023,0
+1165,Ziani,Ghita,M,1998-01-14,Meknès,Casablanca-Settat,Sciences Physiques,Bien,Oui,2020-09-01,Diplômé,Génie Electrique,S2,28,2020,1
+1166,Chraibi,Hind,F,2000-08-28,Oujda,Casablanca-Settat,Sciences Math B,Passable,Oui,2021-10-04,Actif,Finance & Comptabilité,S5,25,2021,1
+1167,Chraibi,Sanaa,M,2003-11-05,Kenitra,Marrakech-Safi,Lettres,Très Bien,Non,2023-01-23,Actif,Droit des Affaires,S1,22,2023,0
+1168,Saadi,Fatima,M,2002-04-10,Agadir,Casablanca-Settat,Lettres,Bien,Non,2020-04-16,Actif,Finance & Comptabilité,S3,24,2020,0
+1169,Chraibi,Hamza,M,2001-08-17,Tanger,Marrakech-Safi,Lettres,Assez Bien,Non,2021-12-29,Diplômé,Droit des Affaires,S1,24,2021,0
+1170,Wahbi,Soufiane,F,2001-06-20,Tanger,Marrakech-Safi,Sciences Physiques,Bien,Oui,2019-07-22,Abandon,Génie Electrique,S2,24,2019,1
+1171,El Fassi,Omar,F,2003-12-10,Agadir,Casablanca-Settat,Sciences Math B,Assez Bien,Non,2021-05-06,Abandon,Marketing,S5,22,2021,0
+1172,El Fassi,Mehdi,M,2000-01-20,Kenitra,Casablanca-Settat,Sciences de la Vie,Très Bien,Oui,2023-06-16,Actif,Génie Civil,S2,26,2023,1
+1173,Saadi,Meriem,M,1999-11-16,Oujda,Marrakech-Safi,Lettres,Passable,Oui,2023-09-25,Diplômé,Marketing,S4,26,2023,1
+1174,Wahbi,Nadia,M,2003-04-12,Oujda,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Non,2022-09-30,Diplômé,Marketing,S4,23,2022,0
+1175,Gharbi,Fatima,F,2004-06-14,Rabat,Fès-Meknès,Sciences Math B,Assez Bien,Non,2021-02-10,Actif,Génie Civil,S4,21,2021,0
+1176,Jabri,Sanaa,M,1999-11-26,Oujda,Rabat-Salé-Kénitra,Sciences Math B,Passable,Non,2022-06-22,Actif,Finance & Comptabilité,S2,26,2022,0
+1177,Tazi,Loubna,F,2004-05-24,Agadir,Souss-Massa,Sciences Math B,Passable,Oui,2019-01-22,Actif,Marketing,S6,21,2019,1
+1178,Bennani,Sanaa,M,1998-11-03,Fès,Casablanca-Settat,Sciences Math B,Passable,Non,2019-09-19,Abandon,Droit des Affaires,S4,27,2019,0
+1179,Ouali,Fatima,F,2003-06-13,Agadir,Tanger-Tétouan,Sciences Economiques,Assez Bien,Non,2019-04-05,Diplômé,Génie Electrique,S6,22,2019,0
+1180,Hamidi,Amine,M,1999-10-24,Agadir,Casablanca-Settat,Sciences Physiques,Assez Bien,Non,2022-10-25,Diplômé,Génie Electrique,S6,26,2022,0
+1181,Wahbi,Hamza,M,1999-07-03,Meknès,Marrakech-Safi,Sciences Math B,Bien,Non,2022-09-30,Actif,Finance & Comptabilité,S2,26,2022,0
+1182,Hamidi,Nadia,M,1998-11-08,Casablanca,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2023-02-22,Diplômé,Finance & Comptabilité,S2,27,2023,0
+1183,Karimi,Rim,F,2005-12-30,Tétouan,Tanger-Tétouan,Sciences Math B,Assez Bien,Non,2021-11-11,Actif,Finance & Comptabilité,S5,20,2021,0
+1184,Naciri,Loubna,F,2000-12-18,Fès,Fès-Meknès,Lettres,Bien,Non,2018-12-20,Actif,Génie Informatique,S6,25,2018,0
+1185,Moussaoui,Ghita,M,2002-10-04,Marrakech,Souss-Massa,Sciences Economiques,Passable,Non,2021-06-10,Diplômé,Droit des Affaires,S3,23,2021,0
+1186,Rachidi,Ghita,F,2000-01-25,Casablanca,Casablanca-Settat,Sciences Math A,Très Bien,Non,2019-04-20,Actif,Génie Informatique,S1,26,2019,0
+1187,Tazi,Loubna,F,1998-02-04,Tanger,Fès-Meknès,Sciences Economiques,Très Bien,Non,2023-05-12,Diplômé,Génie Electrique,S6,28,2023,0
+1188,Rachidi,Yassine,F,1999-03-21,Kenitra,Souss-Massa,Sciences de la Vie,Bien,Non,2023-06-22,Actif,Marketing,S3,27,2023,0
+1189,Douiri,Ghita,M,2003-11-11,Tétouan,Rabat-Salé-Kénitra,Lettres,Bien,Non,2022-12-26,Diplômé,Génie Informatique,S1,22,2022,0
+1190,Idrissi,Amine,M,2003-06-06,Tétouan,Tanger-Tétouan,Sciences Economiques,Très Bien,Oui,2022-03-20,Actif,Marketing,S1,22,2022,1
+1191,Idrissi,Yassine,M,2001-05-15,Meknès,Fès-Meknès,Sciences Math A,Passable,Non,2021-04-30,Actif,Génie Civil,S2,25,2021,0
+1192,Chraibi,Amina,F,1998-12-19,Tanger,Rabat-Salé-Kénitra,Sciences Physiques,Passable,Non,2021-06-27,Actif,Génie Electrique,S4,27,2021,0
+1193,Lamrani,Amine,F,2000-06-21,Marrakech,Casablanca-Settat,Lettres,Passable,Non,2020-01-31,Actif,Génie Informatique,S4,25,2020,0
+1194,Alaoui,Hind,F,2001-09-17,Fès,Casablanca-Settat,Sciences Math A,Bien,Oui,2021-03-02,Abandon,Génie Electrique,S4,24,2021,1
+1195,Ziani,Rachid,M,2005-12-19,Agadir,Marrakech-Safi,Sciences Physiques,Passable,Non,2024-08-21,Actif,Génie Civil,S3,20,2024,0
+1196,Wahbi,Sanaa,M,2002-10-15,Fès,Rabat-Salé-Kénitra,Sciences Math A,Bien,Oui,2023-12-28,Diplômé,Génie Civil,S4,23,2023,1
+1197,Idrissi,Yassine,F,1998-06-08,Meknès,Rabat-Salé-Kénitra,Sciences Math B,Très Bien,Non,2022-09-02,Abandon,Génie Electrique,S6,27,2022,0
+1198,Ziani,Amina,F,2003-06-01,Tétouan,Fès-Meknès,Lettres,Très Bien,Non,2023-10-17,Actif,Génie Informatique,S5,22,2023,0
+1199,Idrissi,Mehdi,F,2000-08-14,Fès,Souss-Massa,Sciences Economiques,Assez Bien,Non,2022-03-31,Actif,Droit des Affaires,S2,25,2022,0
+1200,Alaoui,Hamza,F,2003-09-03,Oujda,Tanger-Tétouan,Sciences de la Vie,Passable,Non,2021-02-15,Diplômé,Génie Electrique,S4,22,2021,0
+1201,Chraibi,Khalid,F,1999-02-08,Kenitra,Souss-Massa,Sciences Physiques,Très Bien,Non,2021-09-03,Abandon,Marketing,S6,27,2021,0
+1202,Benali,Karim,M,2005-10-23,Agadir,Souss-Massa,Sciences Physiques,Bien,Non,2021-12-03,Abandon,Marketing,S6,20,2021,0
+1203,Idrissi,Mehdi,M,1999-05-31,Tanger,Tanger-Tétouan,Sciences Math B,Passable,Oui,2021-12-26,Actif,Marketing,S4,26,2021,1
+1204,Chraibi,Yassine,F,2005-08-11,Oujda,Marrakech-Safi,Lettres,Passable,Non,2024-06-26,Diplômé,Marketing,S4,20,2024,0
+1205,Benali,Karim,F,2001-10-19,Oujda,Souss-Massa,Lettres,Très Bien,Non,2020-07-19,Actif,Marketing,S3,24,2020,0
+1206,Lamrani,Soufiane,M,2005-01-23,Oujda,Marrakech-Safi,Sciences Math B,Bien,Non,2024-04-30,Abandon,Génie Civil,S2,21,2024,0
+1207,Chraibi,Omar,M,2000-08-13,Marrakech,Marrakech-Safi,Sciences Math A,Bien,Non,2020-03-19,Abandon,Génie Informatique,S5,25,2020,0
+1208,Tazi,Khalid,F,2004-01-09,Agadir,Rabat-Salé-Kénitra,Sciences Physiques,Très Bien,Non,2021-12-21,Actif,Génie Informatique,S4,22,2021,0
+1209,Idrissi,Rim,M,2002-09-09,Marrakech,Casablanca-Settat,Sciences Economiques,Bien,Oui,2023-11-08,Actif,Finance & Comptabilité,S1,23,2023,1
+1210,Jabri,Ayoub,M,1999-08-31,Marrakech,Casablanca-Settat,Sciences Math A,Assez Bien,Non,2020-12-05,Actif,Génie Electrique,S3,26,2020,0
+1211,Saadi,Rachid,M,2004-10-03,Kenitra,Fès-Meknès,Sciences Math B,Assez Bien,Non,2022-05-14,Actif,Génie Civil,S4,21,2022,0
+1212,Hamidi,Amina,F,2001-06-27,Oujda,Tanger-Tétouan,Sciences Physiques,Assez Bien,Non,2023-08-17,Diplômé,Génie Civil,S4,24,2023,0
+1213,Wahbi,Sanaa,F,2005-12-23,Marrakech,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Non,2021-08-18,Actif,Génie Electrique,S6,20,2021,0
+1214,El Fassi,Hind,M,2002-03-16,Kenitra,Fès-Meknès,Sciences de la Vie,Bien,Oui,2022-05-13,Actif,Génie Electrique,S3,24,2022,1
+1215,Ziani,Rachid,F,2005-03-10,Casablanca,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Oui,2023-03-03,Actif,Marketing,S5,21,2023,1
+1216,Ziani,Hamza,M,2004-07-10,Kenitra,Casablanca-Settat,Sciences Economiques,Très Bien,Non,2019-03-10,Abandon,Génie Civil,S6,21,2019,0
+1217,Saadi,Ghita,M,2001-12-12,Casablanca,Marrakech-Safi,Lettres,Assez Bien,Non,2022-01-06,Diplômé,Génie Civil,S1,24,2022,0
+1218,Idrissi,Karim,F,2002-12-03,Rabat,Casablanca-Settat,Sciences Physiques,Bien,Oui,2022-04-28,Actif,Génie Electrique,S1,23,2022,1
+1219,Saadi,Sara,F,1998-10-22,Casablanca,Fès-Meknès,Lettres,Bien,Non,2020-08-08,Actif,Génie Electrique,S5,27,2020,0
+1220,Ouali,Mehdi,F,2000-01-25,Casablanca,Casablanca-Settat,Sciences Economiques,Bien,Non,2019-09-14,Abandon,Génie Informatique,S6,26,2019,0
+1221,Hamidi,Amina,F,2001-10-26,Meknès,Marrakech-Safi,Sciences Math B,Bien,Non,2019-09-22,Diplômé,Marketing,S3,24,2019,0
+1222,Douiri,Ghita,F,1998-07-05,Marrakech,Souss-Massa,Sciences Economiques,Passable,Non,2020-05-08,Actif,Finance & Comptabilité,S4,27,2020,0
+1223,Douiri,Sara,M,2001-06-23,Fès,Souss-Massa,Sciences Economiques,Assez Bien,Oui,2022-11-21,Actif,Marketing,S5,24,2022,1
+1224,Ouali,Karim,M,1999-09-29,Rabat,Tanger-Tétouan,Sciences Physiques,Passable,Oui,2024-04-10,Actif,Génie Civil,S6,26,2024,1
+1225,Moussaoui,Amine,M,2001-07-15,Marrakech,Fès-Meknès,Sciences Physiques,Assez Bien,Non,2023-06-21,Actif,Droit des Affaires,S3,24,2023,0
+1226,Ouali,Ayoub,M,1999-06-14,Casablanca,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Non,2019-12-08,Actif,Génie Informatique,S3,26,2019,0
+1227,Ouali,Rim,F,2003-08-31,Fès,Casablanca-Settat,Sciences Math B,Bien,Non,2021-04-24,Abandon,Droit des Affaires,S3,22,2021,0
+1228,Rachidi,Meriem,M,2005-12-24,Kenitra,Casablanca-Settat,Sciences Math A,Très Bien,Non,2019-02-19,Actif,Génie Electrique,S3,20,2019,0
+1229,Benali,Ghita,F,2000-03-04,Oujda,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Non,2021-10-21,Diplômé,Finance & Comptabilité,S1,26,2021,0
+1230,Douiri,Ayoub,F,2003-11-18,Agadir,Rabat-Salé-Kénitra,Sciences Math B,Bien,Non,2020-12-21,Actif,Génie Civil,S3,22,2020,0
+1231,Benali,Rim,F,2005-08-31,Casablanca,Souss-Massa,Sciences Math B,Assez Bien,Non,2022-04-14,Diplômé,Finance & Comptabilité,S6,20,2022,0
+1232,Naciri,Amine,M,1999-04-23,Tétouan,Marrakech-Safi,Lettres,Bien,Non,2023-11-22,Diplômé,Droit des Affaires,S5,27,2023,0
+1233,Lamrani,Omar,F,2002-06-11,Tétouan,Casablanca-Settat,Lettres,Passable,Non,2020-07-21,Actif,Droit des Affaires,S4,23,2020,0
+1234,Douiri,Soufiane,M,2000-07-28,Oujda,Fès-Meknès,Lettres,Assez Bien,Oui,2022-10-17,Actif,Marketing,S4,25,2022,1
+1235,Idrissi,Fatima,M,1999-06-10,Oujda,Casablanca-Settat,Sciences de la Vie,Assez Bien,Non,2024-03-17,Diplômé,Génie Informatique,S6,26,2024,0
+1236,Hamidi,Sanaa,F,2004-07-09,Casablanca,Marrakech-Safi,Sciences Physiques,Assez Bien,Oui,2023-05-20,Actif,Marketing,S6,21,2023,1
+1237,Hamidi,Rim,M,1998-01-02,Casablanca,Fès-Meknès,Sciences Physiques,Passable,Non,2019-09-18,Actif,Droit des Affaires,S2,28,2019,0
+1238,Wahbi,Fatima,M,1999-01-10,Kenitra,Fès-Meknès,Sciences Math B,Passable,Non,2022-07-14,Actif,Génie Electrique,S6,27,2022,0
+1239,Rachidi,Hind,F,2004-05-29,Kenitra,Fès-Meknès,Lettres,Assez Bien,Non,2023-01-01,Abandon,Génie Informatique,S6,21,2023,0
+1240,El Fassi,Hamza,M,2005-11-24,Meknès,Souss-Massa,Lettres,Très Bien,Non,2024-04-12,Actif,Droit des Affaires,S5,20,2024,0
+1241,Ouali,Meriem,F,1999-07-07,Casablanca,Marrakech-Safi,Sciences Physiques,Assez Bien,Oui,2019-09-07,Diplômé,Marketing,S2,26,2019,1
+1242,Gharbi,Soufiane,F,2004-06-23,Casablanca,Casablanca-Settat,Sciences de la Vie,Assez Bien,Oui,2023-05-08,Actif,Finance & Comptabilité,S5,21,2023,1
+1243,Jabri,Hind,F,2002-03-06,Kenitra,Souss-Massa,Sciences de la Vie,Passable,Non,2022-09-09,Diplômé,Génie Informatique,S3,24,2022,0
+1244,Rachidi,Sara,M,2003-01-26,Tanger,Tanger-Tétouan,Sciences de la Vie,Bien,Oui,2020-05-03,Actif,Génie Informatique,S6,23,2020,1
+1245,Idrissi,Nadia,M,1999-01-16,Kenitra,Fès-Meknès,Sciences Physiques,Assez Bien,Non,2018-12-25,Diplômé,Génie Electrique,S6,27,2018,0
+1246,Chraibi,Khalid,F,2002-07-05,Tanger,Rabat-Salé-Kénitra,Sciences Physiques,Passable,Non,2019-11-21,Actif,Génie Electrique,S2,23,2019,0
+1247,Rachidi,Ghita,M,1998-01-14,Casablanca,Marrakech-Safi,Sciences de la Vie,Assez Bien,Non,2022-06-23,Diplômé,Finance & Comptabilité,S3,28,2022,0
+1248,Wahbi,Sara,F,1999-05-19,Kenitra,Fès-Meknès,Sciences Economiques,Passable,Non,2022-05-03,Diplômé,Finance & Comptabilité,S5,27,2022,0
+1249,Douiri,Yassine,F,2004-03-28,Meknès,Marrakech-Safi,Sciences Math A,Passable,Oui,2019-10-20,Actif,Génie Informatique,S1,22,2019,1
+1250,Benali,Omar,F,2003-07-02,Marrakech,Rabat-Salé-Kénitra,Sciences Math B,Passable,Non,2023-08-14,Actif,Génie Civil,S6,22,2023,0
+1251,Wahbi,Hind,M,1998-05-10,Rabat,Fès-Meknès,Lettres,Passable,Non,2021-07-14,Actif,Droit des Affaires,S1,28,2021,0
+1252,Alaoui,Omar,M,2000-04-17,Rabat,Casablanca-Settat,Sciences Economiques,Passable,Oui,2023-10-18,Actif,Droit des Affaires,S1,26,2023,1
+1253,Chraibi,Mehdi,F,2003-08-03,Kenitra,Marrakech-Safi,Sciences Math A,Assez Bien,Non,2021-08-09,Diplômé,Marketing,S1,22,2021,0
+1254,Idrissi,Amine,M,1998-01-28,Marrakech,Fès-Meknès,Sciences Physiques,Bien,Oui,2020-08-18,Actif,Génie Informatique,S4,28,2020,1
+1255,Gharbi,Hind,M,2003-10-15,Fès,Fès-Meknès,Sciences Math B,Bien,Non,2022-05-21,Actif,Droit des Affaires,S1,22,2022,0
+1256,Ouali,Rachid,F,2001-06-06,Fès,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2023-01-23,Diplômé,Droit des Affaires,S5,24,2023,0
+1257,Saadi,Fatima,F,1998-09-18,Tétouan,Rabat-Salé-Kénitra,Sciences Math B,Assez Bien,Oui,2020-03-15,Actif,Finance & Comptabilité,S1,27,2020,1
+1258,Saadi,Yassine,F,2003-08-09,Kenitra,Marrakech-Safi,Sciences Physiques,Très Bien,Non,2019-09-22,Actif,Génie Informatique,S6,22,2019,0
+1259,Hamidi,Meriem,F,2002-01-12,Tanger,Tanger-Tétouan,Lettres,Assez Bien,Non,2020-08-02,Actif,Génie Electrique,S4,24,2020,0
+1260,Naciri,Rim,M,2001-12-18,Agadir,Casablanca-Settat,Lettres,Passable,Non,2021-04-30,Abandon,Marketing,S3,24,2021,0
+1261,Benali,Amina,F,1999-04-05,Tanger,Rabat-Salé-Kénitra,Sciences Math A,Bien,Non,2022-06-16,Diplômé,Génie Informatique,S2,27,2022,0
+1262,Gharbi,Mehdi,F,1998-10-28,Meknès,Souss-Massa,Lettres,Passable,Non,2021-05-11,Diplômé,Génie Electrique,S6,27,2021,0
+1263,Naciri,Khalid,M,2004-05-23,Rabat,Souss-Massa,Sciences Math A,Assez Bien,Oui,2022-10-21,Actif,Marketing,S3,21,2022,1
+1264,Alaoui,Loubna,M,1999-09-22,Agadir,Casablanca-Settat,Sciences Math A,Assez Bien,Oui,2019-08-18,Diplômé,Marketing,S3,26,2019,1
+1265,Naciri,Nadia,F,1998-09-27,Meknès,Casablanca-Settat,Sciences Economiques,Très Bien,Oui,2023-05-22,Actif,Génie Civil,S2,27,2023,1
+1266,Jabri,Soufiane,F,2005-03-24,Oujda,Souss-Massa,Lettres,Assez Bien,Non,2024-01-04,Actif,Génie Electrique,S1,21,2024,0
+1267,Rachidi,Loubna,F,2003-06-17,Tétouan,Marrakech-Safi,Sciences Math A,Bien,Non,2022-03-03,Actif,Marketing,S1,22,2022,0
+1268,Karimi,Sanaa,F,2002-06-17,Fès,Tanger-Tétouan,Sciences Economiques,Très Bien,Non,2023-11-21,Actif,Droit des Affaires,S5,23,2023,0
+1269,Ouali,Karim,M,2002-12-07,Fès,Fès-Meknès,Sciences Economiques,Passable,Non,2020-09-22,Actif,Génie Civil,S1,23,2020,0
+1270,Wahbi,Khalid,M,2005-12-01,Tanger,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Oui,2021-06-21,Actif,Génie Civil,S1,20,2021,1
+1271,Saadi,Sara,F,2000-05-11,Rabat,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2020-02-28,Actif,Génie Informatique,S5,26,2020,0
+1272,El Fassi,Rim,F,2001-07-04,Casablanca,Tanger-Tétouan,Sciences Math B,Assez Bien,Oui,2022-09-09,Actif,Droit des Affaires,S6,24,2022,1
+1273,Hamidi,Yassine,F,2003-12-21,Rabat,Casablanca-Settat,Sciences Math A,Assez Bien,Oui,2018-11-18,Diplômé,Droit des Affaires,S2,22,2018,1
+1274,Karimi,Ayoub,F,2002-12-05,Meknès,Fès-Meknès,Sciences Economiques,Très Bien,Oui,2022-02-11,Actif,Finance & Comptabilité,S5,23,2022,1
+1275,Hamidi,Karim,M,2002-09-03,Meknès,Tanger-Tétouan,Sciences Physiques,Bien,Non,2021-02-05,Diplômé,Finance & Comptabilité,S6,23,2021,0
+1276,Benali,Rachid,M,2005-01-04,Meknès,Fès-Meknès,Sciences Economiques,Bien,Oui,2021-09-10,Actif,Marketing,S1,21,2021,1
+1277,Ziani,Hamza,F,2004-06-18,Kenitra,Tanger-Tétouan,Sciences Economiques,Assez Bien,Oui,2024-02-12,Diplômé,Marketing,S6,21,2024,1
+1278,Wahbi,Rim,F,1999-07-30,Oujda,Souss-Massa,Sciences de la Vie,Bien,Oui,2022-10-10,Actif,Marketing,S1,26,2022,1
+1279,Benali,Hamza,F,2003-06-27,Casablanca,Fès-Meknès,Lettres,Très Bien,Oui,2021-03-09,Actif,Génie Informatique,S1,22,2021,1
+1280,Lamrani,Khalid,F,2001-07-31,Casablanca,Tanger-Tétouan,Sciences Math B,Bien,Non,2020-03-03,Actif,Génie Civil,S5,24,2020,0
+1281,Benali,Rim,F,2003-05-11,Marrakech,Rabat-Salé-Kénitra,Sciences Physiques,Passable,Non,2024-04-23,Diplômé,Finance & Comptabilité,S2,23,2024,0
+1282,Benali,Hind,M,2005-06-27,Rabat,Fès-Meknès,Sciences de la Vie,Bien,Non,2019-09-27,Diplômé,Génie Electrique,S4,20,2019,0
+1283,Ziani,Fatima,M,2003-07-14,Oujda,Marrakech-Safi,Sciences Math B,Passable,Non,2022-06-12,Actif,Finance & Comptabilité,S6,22,2022,0
+1284,Saadi,Khalid,M,2004-01-22,Meknès,Casablanca-Settat,Sciences Economiques,Assez Bien,Oui,2021-05-01,Actif,Génie Civil,S6,22,2021,1
+1285,Tazi,Yassine,F,2004-06-10,Agadir,Fès-Meknès,Lettres,Passable,Non,2019-08-06,Diplômé,Génie Civil,S5,21,2019,0
+1286,Tazi,Rachid,M,2002-07-14,Tétouan,Souss-Massa,Sciences Physiques,Bien,Oui,2020-09-26,Diplômé,Génie Electrique,S2,23,2020,1
+1287,Gharbi,Amina,M,2002-04-29,Rabat,Casablanca-Settat,Sciences Math B,Bien,Oui,2021-07-12,Actif,Génie Informatique,S1,24,2021,1
+1288,Benali,Ghita,M,2003-01-22,Kenitra,Tanger-Tétouan,Sciences de la Vie,Passable,Oui,2021-03-27,Actif,Finance & Comptabilité,S6,23,2021,1
+1289,Tazi,Ayoub,M,2004-01-13,Casablanca,Tanger-Tétouan,Sciences Economiques,Assez Bien,Oui,2020-12-26,Actif,Marketing,S2,22,2020,1
+1290,Chraibi,Sanaa,F,2001-10-22,Fès,Tanger-Tétouan,Sciences Economiques,Assez Bien,Oui,2019-11-16,Diplômé,Droit des Affaires,S3,24,2019,1
+1291,Gharbi,Karim,M,2002-10-09,Fès,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2019-01-08,Actif,Génie Informatique,S3,23,2019,0
+1292,Chraibi,Rim,M,2003-04-10,Tétouan,Souss-Massa,Sciences de la Vie,Passable,Non,2020-04-19,Abandon,Marketing,S4,23,2020,0
+1293,Bennani,Fatima,F,1999-09-12,Oujda,Tanger-Tétouan,Sciences Physiques,Assez Bien,Oui,2024-01-11,Actif,Finance & Comptabilité,S6,26,2024,1
+1294,Chraibi,Nadia,M,2001-06-28,Tanger,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Oui,2022-10-15,Actif,Génie Electrique,S1,24,2022,1
+1295,Idrissi,Rim,M,2000-08-14,Casablanca,Casablanca-Settat,Sciences Math A,Passable,Non,2021-01-09,Actif,Génie Informatique,S6,25,2021,0
+1296,Naciri,Hamza,M,2003-04-24,Rabat,Fès-Meknès,Lettres,Passable,Oui,2021-05-26,Abandon,Finance & Comptabilité,S4,23,2021,1
+1297,Douiri,Khalid,F,2004-07-09,Tanger,Rabat-Salé-Kénitra,Sciences Math B,Assez Bien,Oui,2022-11-30,Diplômé,Marketing,S3,21,2022,1
+1298,Ziani,Soufiane,M,2000-08-26,Kenitra,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2023-02-27,Actif,Finance & Comptabilité,S4,25,2023,0
+1299,Idrissi,Karim,F,2005-01-02,Tétouan,Rabat-Salé-Kénitra,Lettres,Bien,Oui,2022-10-21,Diplômé,Droit des Affaires,S6,21,2022,1
+1300,Ziani,Khalid,M,2001-08-09,Casablanca,Rabat-Salé-Kénitra,Sciences Math B,Bien,Oui,2023-06-03,Actif,Génie Civil,S6,24,2023,1
+1301,Bennani,Hind,M,2000-11-09,Marrakech,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2022-08-20,Actif,Génie Civil,S3,25,2022,0
+1302,Benali,Rachid,M,1998-10-09,Agadir,Casablanca-Settat,Sciences Math B,Bien,Oui,2023-10-02,Actif,Finance & Comptabilité,S3,27,2023,1
+1303,Bennani,Nadia,M,2005-10-15,Casablanca,Fès-Meknès,Sciences de la Vie,Passable,Non,2019-05-23,Actif,Marketing,S2,20,2019,0
+1304,Chraibi,Rachid,F,2003-12-07,Fès,Casablanca-Settat,Sciences Math B,Bien,Non,2022-09-02,Actif,Génie Civil,S1,22,2022,0
+1305,Ouali,Amina,F,2000-11-24,Tétouan,Souss-Massa,Sciences Math B,Très Bien,Oui,2019-02-04,Abandon,Finance & Comptabilité,S3,25,2019,1
+1306,Ziani,Karim,F,1998-07-17,Marrakech,Fès-Meknès,Sciences Economiques,Bien,Non,2022-08-16,Actif,Finance & Comptabilité,S1,27,2022,0
+1307,Ziani,Soufiane,M,2004-12-07,Meknès,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2023-02-19,Abandon,Droit des Affaires,S4,21,2023,0
+1308,Tazi,Fatima,M,2000-12-18,Rabat,Souss-Massa,Lettres,Bien,Oui,2021-02-11,Actif,Marketing,S4,25,2021,1
+1309,Lamrani,Soufiane,F,2005-11-24,Tanger,Rabat-Salé-Kénitra,Sciences Math B,Passable,Non,2024-07-15,Diplômé,Génie Civil,S3,20,2024,0
+1310,Jabri,Soufiane,M,2001-03-30,Marrakech,Tanger-Tétouan,Lettres,Très Bien,Oui,2020-01-26,Actif,Marketing,S1,25,2020,1
+1311,Hamidi,Omar,M,2000-10-05,Tétouan,Marrakech-Safi,Lettres,Passable,Non,2019-04-04,Actif,Marketing,S3,25,2019,0
+1312,Lamrani,Sanaa,M,2005-07-01,Fès,Marrakech-Safi,Sciences de la Vie,Assez Bien,Oui,2024-08-12,Actif,Droit des Affaires,S3,20,2024,1
+1313,Idrissi,Sanaa,M,2001-05-14,Tétouan,Souss-Massa,Sciences Physiques,Passable,Non,2023-05-04,Actif,Marketing,S2,25,2023,0
+1314,Jabri,Mehdi,F,2000-11-01,Meknès,Casablanca-Settat,Sciences Math A,Passable,Oui,2024-06-07,Diplômé,Génie Civil,S4,25,2024,1
+1315,Naciri,Nadia,F,1999-05-05,Kenitra,Casablanca-Settat,Sciences Math B,Assez Bien,Non,2022-12-16,Actif,Génie Civil,S1,27,2022,0
+1316,El Fassi,Fatima,F,1998-10-03,Agadir,Fès-Meknès,Sciences de la Vie,Assez Bien,Oui,2024-07-24,Diplômé,Génie Informatique,S4,27,2024,1
+1317,Karimi,Mehdi,M,2005-07-03,Meknès,Tanger-Tétouan,Sciences Math B,Assez Bien,Non,2021-10-03,Actif,Génie Electrique,S2,20,2021,0
+1318,Rachidi,Amine,M,2004-04-08,Marrakech,Fès-Meknès,Sciences Math A,Bien,Non,2019-04-16,Actif,Finance & Comptabilité,S5,22,2019,0
+1319,Lamrani,Omar,M,2001-05-24,Rabat,Tanger-Tétouan,Sciences Physiques,Passable,Non,2022-09-27,Actif,Génie Electrique,S4,24,2022,0
+1320,Chraibi,Amina,M,2001-06-28,Kenitra,Marrakech-Safi,Sciences Physiques,Passable,Non,2020-11-10,Abandon,Droit des Affaires,S2,24,2020,0
+1321,Alaoui,Ghita,M,1998-05-06,Agadir,Marrakech-Safi,Sciences Math B,Bien,Non,2023-02-09,Diplômé,Marketing,S6,28,2023,0
+1322,Rachidi,Mehdi,F,1998-08-05,Casablanca,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2023-11-19,Actif,Génie Informatique,S4,27,2023,0
+1323,Bennani,Karim,F,2001-04-23,Rabat,Fès-Meknès,Lettres,Bien,Non,2019-12-16,Actif,Génie Informatique,S1,25,2019,0
+1324,Ziani,Amina,M,2001-05-31,Meknès,Casablanca-Settat,Sciences Math B,Bien,Oui,2021-08-15,Actif,Droit des Affaires,S2,24,2021,1
+1325,Douiri,Meriem,F,2004-12-17,Fès,Souss-Massa,Sciences Economiques,Très Bien,Non,2024-04-22,Abandon,Finance & Comptabilité,S5,21,2024,0
+1326,Chraibi,Ayoub,F,2004-10-10,Rabat,Tanger-Tétouan,Sciences Physiques,Bien,Non,2021-07-08,Diplômé,Finance & Comptabilité,S4,21,2021,0
+1327,Wahbi,Hamza,F,2000-07-07,Agadir,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Non,2024-07-31,Actif,Génie Electrique,S2,25,2024,0
+1328,Hamidi,Hamza,F,2001-08-10,Tétouan,Tanger-Tétouan,Sciences de la Vie,Bien,Non,2019-04-17,Actif,Génie Electrique,S5,24,2019,0
+1329,Tazi,Ayoub,M,2004-01-08,Tétouan,Fès-Meknès,Sciences de la Vie,Assez Bien,Non,2019-02-18,Actif,Génie Civil,S6,22,2019,0
+1330,Jabri,Hamza,M,2004-08-28,Tétouan,Casablanca-Settat,Sciences Math A,Assez Bien,Oui,2019-06-22,Abandon,Génie Electrique,S1,21,2019,1
+1331,El Fassi,Ghita,M,2002-07-20,Meknès,Fès-Meknès,Sciences Math A,Bien,Non,2019-03-08,Actif,Génie Electrique,S4,23,2019,0
+1332,Moussaoui,Rachid,F,1998-11-04,Agadir,Rabat-Salé-Kénitra,Lettres,Assez Bien,Non,2019-10-31,Diplômé,Marketing,S6,27,2019,0
+1333,Chraibi,Rachid,M,2001-09-21,Casablanca,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Non,2021-05-04,Actif,Droit des Affaires,S3,24,2021,0
+1334,Idrissi,Mehdi,M,2003-05-24,Tanger,Tanger-Tétouan,Sciences Math A,Bien,Non,2021-09-07,Diplômé,Génie Informatique,S1,22,2021,0
+1335,Moussaoui,Ayoub,M,2005-08-25,Oujda,Tanger-Tétouan,Lettres,Très Bien,Non,2021-03-07,Diplômé,Génie Electrique,S1,20,2021,0
+1336,Karimi,Karim,M,2000-06-10,Oujda,Tanger-Tétouan,Sciences Economiques,Très Bien,Non,2020-01-12,Diplômé,Génie Civil,S1,25,2020,0
+1337,Gharbi,Meriem,F,1999-01-10,Fès,Casablanca-Settat,Lettres,Assez Bien,Non,2023-08-27,Diplômé,Génie Electrique,S1,27,2023,0
+1338,Rachidi,Ayoub,F,2003-07-27,Agadir,Casablanca-Settat,Sciences Physiques,Assez Bien,Non,2021-01-13,Diplômé,Marketing,S5,22,2021,0
+1339,Wahbi,Hind,M,2001-09-26,Kenitra,Tanger-Tétouan,Lettres,Bien,Oui,2020-12-04,Actif,Finance & Comptabilité,S6,24,2020,1
+1340,Karimi,Amine,M,1998-05-09,Meknès,Casablanca-Settat,Sciences Physiques,Assez Bien,Non,2023-10-03,Actif,Marketing,S3,28,2023,0
+1341,Bennani,Hamza,M,2000-10-11,Meknès,Marrakech-Safi,Sciences Economiques,Bien,Non,2024-06-19,Actif,Génie Civil,S4,25,2024,0
+1342,Tazi,Sara,M,2002-12-05,Marrakech,Tanger-Tétouan,Sciences Economiques,Bien,Oui,2019-01-24,Abandon,Finance & Comptabilité,S1,23,2019,1
+1343,Alaoui,Sanaa,M,2005-06-09,Tétouan,Marrakech-Safi,Sciences Economiques,Bien,Oui,2023-02-28,Actif,Génie Informatique,S4,20,2023,1
+1344,Wahbi,Soufiane,M,2001-10-13,Meknès,Fès-Meknès,Sciences Math B,Assez Bien,Non,2022-04-12,Diplômé,Génie Civil,S2,24,2022,0
+1345,Karimi,Karim,M,1999-06-01,Rabat,Marrakech-Safi,Sciences de la Vie,Passable,Oui,2019-12-14,Diplômé,Génie Civil,S6,26,2019,1
+1346,Douiri,Hind,F,2002-02-27,Tétouan,Fès-Meknès,Lettres,Assez Bien,Non,2019-03-12,Actif,Droit des Affaires,S6,24,2019,0
+1347,El Fassi,Ayoub,F,1998-03-27,Tanger,Souss-Massa,Sciences de la Vie,Passable,Non,2021-08-27,Actif,Génie Electrique,S1,28,2021,0
+1348,Jabri,Ayoub,M,2001-04-13,Fès,Fès-Meknès,Sciences Physiques,Très Bien,Non,2018-10-22,Actif,Génie Civil,S1,25,2018,0
+1349,Douiri,Sara,M,2004-06-16,Rabat,Tanger-Tétouan,Sciences Economiques,Assez Bien,Non,2023-08-26,Actif,Droit des Affaires,S6,21,2023,0
+1350,Douiri,Sara,F,2001-02-16,Rabat,Tanger-Tétouan,Lettres,Passable,Oui,2023-10-14,Actif,Génie Informatique,S4,25,2023,1
+1351,Wahbi,Sanaa,M,2004-10-10,Tanger,Fès-Meknès,Sciences Math A,Passable,Non,2023-07-23,Actif,Génie Informatique,S3,21,2023,0
+1352,El Fassi,Hind,F,2003-06-17,Marrakech,Casablanca-Settat,Sciences Economiques,Bien,Non,2022-08-25,Diplômé,Droit des Affaires,S2,22,2022,0
+1353,Jabri,Karim,F,2003-12-02,Meknès,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Non,2023-10-12,Abandon,Génie Informatique,S6,22,2023,0
+1354,Karimi,Karim,M,1998-10-30,Marrakech,Marrakech-Safi,Sciences de la Vie,Assez Bien,Oui,2024-02-29,Actif,Génie Civil,S3,27,2024,1
+1355,Bennani,Ghita,M,2005-08-23,Meknès,Fès-Meknès,Sciences Math B,Passable,Non,2022-08-05,Actif,Marketing,S4,20,2022,0
+1356,Hamidi,Ghita,F,1999-08-11,Agadir,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Oui,2020-12-18,Actif,Génie Civil,S5,26,2020,1
+1357,Lamrani,Soufiane,M,2000-09-13,Agadir,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Oui,2019-04-29,Diplômé,Génie Electrique,S1,25,2019,1
+1358,Hamidi,Khalid,F,2003-02-07,Rabat,Tanger-Tétouan,Sciences Physiques,Bien,Oui,2020-02-18,Diplômé,Génie Informatique,S5,23,2020,1
+1359,Jabri,Ayoub,F,1998-12-11,Rabat,Souss-Massa,Sciences Physiques,Bien,Oui,2022-07-09,Actif,Génie Electrique,S6,27,2022,1
+1360,Tazi,Hamza,F,2000-03-24,Casablanca,Souss-Massa,Sciences de la Vie,Assez Bien,Non,2018-11-22,Actif,Droit des Affaires,S4,26,2018,0
+1361,Saadi,Loubna,M,2003-06-11,Tanger,Fès-Meknès,Sciences de la Vie,Passable,Oui,2021-05-09,Diplômé,Génie Informatique,S4,22,2021,1
+1362,Jabri,Sara,F,2005-10-19,Oujda,Casablanca-Settat,Sciences Economiques,Très Bien,Non,2021-04-08,Diplômé,Génie Electrique,S4,20,2021,0
+1363,Benali,Ayoub,M,2001-08-03,Agadir,Fès-Meknès,Sciences Math A,Assez Bien,Non,2020-05-03,Actif,Finance & Comptabilité,S4,24,2020,0
+1364,Chraibi,Hamza,M,2003-06-23,Tanger,Marrakech-Safi,Sciences Economiques,Bien,Non,2020-03-27,Diplômé,Finance & Comptabilité,S6,22,2020,0
+1365,Ouali,Omar,F,2002-08-05,Rabat,Souss-Massa,Sciences Math B,Passable,Oui,2021-05-16,Actif,Génie Informatique,S1,23,2021,1
+1366,Jabri,Rachid,M,2001-08-20,Marrakech,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Non,2019-12-03,Actif,Génie Electrique,S5,24,2019,0
+1367,Benali,Ghita,F,2000-12-28,Rabat,Casablanca-Settat,Sciences Math B,Passable,Non,2024-08-13,Diplômé,Génie Civil,S2,25,2024,0
+1368,Alaoui,Meriem,F,2004-08-05,Marrakech,Souss-Massa,Sciences Math B,Assez Bien,Non,2022-11-01,Diplômé,Droit des Affaires,S1,21,2022,0
+1369,Lamrani,Soufiane,M,2000-10-06,Meknès,Fès-Meknès,Sciences Math A,Très Bien,Oui,2024-02-06,Actif,Marketing,S4,25,2024,1
+1370,El Fassi,Mehdi,M,1999-12-05,Oujda,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2022-12-15,Abandon,Génie Civil,S6,26,2022,0
+1371,Jabri,Sara,M,1999-07-29,Kenitra,Marrakech-Safi,Lettres,Passable,Non,2024-07-30,Actif,Génie Civil,S4,26,2024,0
+1372,Gharbi,Ayoub,M,2002-05-28,Kenitra,Casablanca-Settat,Sciences Physiques,Passable,Non,2018-12-31,Diplômé,Marketing,S1,23,2018,0
+1373,Rachidi,Fatima,M,2001-01-17,Kenitra,Marrakech-Safi,Sciences Math B,Assez Bien,Oui,2019-05-31,Actif,Marketing,S5,25,2019,1
+1374,Wahbi,Rachid,F,1999-11-19,Meknès,Marrakech-Safi,Sciences Math B,Passable,Non,2022-04-10,Diplômé,Génie Electrique,S5,26,2022,0
+1375,Ouali,Karim,M,2005-09-29,Rabat,Marrakech-Safi,Sciences Math B,Passable,Oui,2019-10-03,Abandon,Marketing,S3,20,2019,1
+1376,Wahbi,Soufiane,M,2005-03-17,Casablanca,Marrakech-Safi,Sciences Math B,Bien,Oui,2021-05-12,Actif,Finance & Comptabilité,S3,21,2021,1
+1377,Alaoui,Amina,F,2005-03-21,Rabat,Fès-Meknès,Sciences Physiques,Assez Bien,Non,2022-01-13,Abandon,Marketing,S6,21,2022,0
+1378,Douiri,Sara,M,1999-05-04,Agadir,Souss-Massa,Sciences Economiques,Assez Bien,Oui,2021-10-08,Diplômé,Droit des Affaires,S3,27,2021,1
+1379,Chraibi,Nadia,F,2001-09-09,Kenitra,Souss-Massa,Lettres,Très Bien,Oui,2022-03-25,Diplômé,Génie Civil,S4,24,2022,1
+1380,El Fassi,Ayoub,M,1999-05-09,Rabat,Casablanca-Settat,Sciences Math A,Passable,Oui,2023-11-24,Actif,Droit des Affaires,S1,27,2023,1
+1381,Wahbi,Ayoub,M,2002-07-26,Tétouan,Rabat-Salé-Kénitra,Lettres,Très Bien,Non,2022-10-15,Diplômé,Droit des Affaires,S6,23,2022,0
+1382,Benali,Soufiane,F,2002-06-26,Tétouan,Rabat-Salé-Kénitra,Sciences Math B,Assez Bien,Non,2023-11-30,Diplômé,Droit des Affaires,S6,23,2023,0
+1383,Moussaoui,Soufiane,F,1998-01-19,Agadir,Marrakech-Safi,Sciences de la Vie,Très Bien,Non,2020-11-28,Actif,Génie Informatique,S1,28,2020,0
+1384,Ziani,Ghita,F,2004-09-10,Meknès,Souss-Massa,Sciences Physiques,Bien,Non,2024-01-09,Abandon,Finance & Comptabilité,S3,21,2024,0
+1385,Wahbi,Amina,F,2000-09-27,Casablanca,Fès-Meknès,Lettres,Bien,Oui,2019-02-26,Actif,Marketing,S5,25,2019,1
+1386,El Fassi,Sanaa,F,2000-04-30,Tanger,Marrakech-Safi,Sciences Math A,Très Bien,Non,2021-02-13,Actif,Droit des Affaires,S3,26,2021,0
+1387,Ouali,Sanaa,M,2001-10-20,Meknès,Marrakech-Safi,Sciences de la Vie,Assez Bien,Non,2024-01-25,Actif,Marketing,S1,24,2024,0
+1388,El Fassi,Hind,M,2001-09-16,Meknès,Souss-Massa,Lettres,Très Bien,Oui,2022-11-30,Actif,Génie Informatique,S4,24,2022,1
+1389,Benali,Khalid,F,2001-09-29,Rabat,Fès-Meknès,Sciences de la Vie,Assez Bien,Non,2020-01-05,Diplômé,Génie Electrique,S3,24,2020,0
+1390,Karimi,Rim,F,2000-04-01,Kenitra,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Non,2018-10-31,Actif,Génie Civil,S6,26,2018,0
+1391,Moussaoui,Rachid,F,1999-03-31,Fès,Souss-Massa,Sciences Math B,Assez Bien,Oui,2021-08-13,Abandon,Génie Informatique,S2,27,2021,1
+1392,Benali,Ghita,M,2002-06-13,Tétouan,Casablanca-Settat,Sciences Economiques,Assez Bien,Oui,2023-05-01,Actif,Génie Electrique,S2,23,2023,1
+1393,Moussaoui,Sara,M,2005-08-04,Kenitra,Rabat-Salé-Kénitra,Sciences Math B,Passable,Oui,2018-11-04,Actif,Génie Civil,S5,20,2018,1
+1394,Hamidi,Rachid,F,1999-12-12,Marrakech,Fès-Meknès,Lettres,Bien,Oui,2020-04-08,Actif,Droit des Affaires,S1,26,2020,1
+1395,Idrissi,Karim,M,2003-12-31,Meknès,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Non,2023-05-25,Actif,Marketing,S4,22,2023,0
+1396,Douiri,Rachid,F,2000-07-05,Marrakech,Fès-Meknès,Sciences Math A,Bien,Non,2020-02-17,Abandon,Génie Electrique,S6,25,2020,0
+1397,Moussaoui,Fatima,F,2005-11-15,Marrakech,Souss-Massa,Sciences Math B,Très Bien,Non,2024-07-26,Diplômé,Génie Informatique,S2,20,2024,0
+1398,Wahbi,Loubna,M,2005-04-06,Tanger,Fès-Meknès,Sciences Math A,Assez Bien,Non,2023-10-15,Diplômé,Finance & Comptabilité,S3,21,2023,0
+1399,Ouali,Khalid,F,2002-02-05,Tanger,Tanger-Tétouan,Sciences Math B,Assez Bien,Oui,2021-06-01,Actif,Droit des Affaires,S6,24,2021,1
+1400,Bennani,Hind,F,2001-12-11,Tanger,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2022-01-12,Actif,Génie Informatique,S4,24,2022,0
+1401,El Fassi,Amine,M,1998-11-01,Oujda,Casablanca-Settat,Sciences Economiques,Passable,Non,2021-07-06,Actif,Génie Informatique,S1,27,2021,0
+1402,Idrissi,Ghita,F,2000-01-06,Marrakech,Tanger-Tétouan,Sciences Math B,Passable,Non,2019-07-24,Actif,Finance & Comptabilité,S6,26,2019,0
+1403,Gharbi,Mehdi,M,2004-05-27,Rabat,Rabat-Salé-Kénitra,Sciences Math B,Assez Bien,Non,2020-04-30,Actif,Droit des Affaires,S6,21,2020,0
+1404,Gharbi,Rachid,F,2003-05-18,Marrakech,Casablanca-Settat,Lettres,Assez Bien,Non,2018-09-02,Diplômé,Génie Electrique,S3,23,2018,0
+1405,Ouali,Karim,M,2003-11-20,Meknès,Marrakech-Safi,Sciences Economiques,Très Bien,Non,2021-06-30,Actif,Droit des Affaires,S4,22,2021,0
+1406,Alaoui,Hamza,F,2003-07-03,Tanger,Souss-Massa,Sciences Math A,Bien,Non,2019-01-03,Diplômé,Droit des Affaires,S1,22,2019,0
+1407,Gharbi,Mehdi,M,2005-12-24,Meknès,Tanger-Tétouan,Sciences Economiques,Assez Bien,Oui,2021-09-09,Actif,Génie Electrique,S6,20,2021,1
+1408,Lamrani,Sanaa,M,2005-11-29,Tanger,Fès-Meknès,Sciences Math B,Bien,Oui,2023-10-06,Actif,Génie Informatique,S4,20,2023,1
+1409,Ouali,Hind,F,2000-08-19,Oujda,Rabat-Salé-Kénitra,Sciences Math A,Passable,Oui,2021-11-17,Diplômé,Génie Informatique,S6,25,2021,1
+1410,Idrissi,Khalid,M,2000-10-23,Rabat,Tanger-Tétouan,Sciences Math B,Assez Bien,Oui,2019-01-07,Actif,Génie Electrique,S2,25,2019,1
+1411,Jabri,Mehdi,M,2003-11-03,Agadir,Tanger-Tétouan,Sciences Physiques,Bien,Non,2019-11-12,Diplômé,Droit des Affaires,S2,22,2019,0
+1412,Gharbi,Ghita,F,2004-07-03,Tanger,Casablanca-Settat,Sciences Math B,Assez Bien,Non,2020-09-20,Diplômé,Finance & Comptabilité,S1,21,2020,0
+1413,Douiri,Karim,F,2005-11-03,Fès,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2022-01-04,Actif,Génie Civil,S2,20,2022,0
+1414,Naciri,Hind,F,2002-01-13,Oujda,Rabat-Salé-Kénitra,Sciences de la Vie,Très Bien,Non,2021-02-18,Abandon,Finance & Comptabilité,S1,24,2021,0
+1415,Benali,Loubna,F,2004-11-06,Tétouan,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2024-05-24,Actif,Marketing,S6,21,2024,0
+1416,Saadi,Khalid,M,2003-05-02,Tétouan,Casablanca-Settat,Sciences Economiques,Bien,Oui,2022-03-26,Actif,Droit des Affaires,S5,23,2022,1
+1417,Idrissi,Rachid,M,2005-04-30,Fès,Rabat-Salé-Kénitra,Lettres,Bien,Oui,2022-08-04,Diplômé,Génie Informatique,S2,21,2022,1
+1418,Hamidi,Mehdi,M,2001-03-23,Oujda,Casablanca-Settat,Sciences Math A,Bien,Non,2019-09-26,Actif,Génie Electrique,S4,25,2019,0
+1419,Rachidi,Soufiane,F,1999-10-27,Rabat,Fès-Meknès,Lettres,Passable,Non,2021-08-03,Diplômé,Finance & Comptabilité,S4,26,2021,0
+1420,Moussaoui,Karim,F,1998-01-12,Marrakech,Casablanca-Settat,Lettres,Assez Bien,Non,2018-09-27,Diplômé,Marketing,S1,28,2018,0
+1421,Karimi,Rim,F,2001-03-02,Tanger,Marrakech-Safi,Lettres,Passable,Oui,2020-03-01,Abandon,Marketing,S5,25,2020,1
+1422,Idrissi,Soufiane,F,1998-10-31,Casablanca,Souss-Massa,Sciences Physiques,Assez Bien,Oui,2020-03-20,Actif,Génie Informatique,S6,27,2020,1
+1423,Idrissi,Sanaa,M,2002-10-30,Meknès,Rabat-Salé-Kénitra,Sciences Math A,Assez Bien,Non,2020-08-04,Actif,Génie Civil,S3,23,2020,0
+1424,Alaoui,Yassine,M,2005-10-01,Agadir,Marrakech-Safi,Sciences Math B,Passable,Oui,2022-01-25,Diplômé,Génie Civil,S4,20,2022,1
+1425,Hamidi,Sanaa,M,1998-02-12,Tétouan,Marrakech-Safi,Sciences de la Vie,Très Bien,Oui,2019-03-04,Actif,Marketing,S5,28,2019,1
+1426,Naciri,Hind,M,2000-08-01,Meknès,Fès-Meknès,Sciences Economiques,Très Bien,Non,2023-01-08,Actif,Finance & Comptabilité,S4,25,2023,0
+1427,Lamrani,Amina,M,2004-07-18,Agadir,Tanger-Tétouan,Sciences de la Vie,Bien,Oui,2023-11-27,Actif,Marketing,S1,21,2023,1
+1428,Jabri,Omar,F,2001-09-11,Oujda,Fès-Meknès,Sciences de la Vie,Assez Bien,Non,2020-12-26,Actif,Droit des Affaires,S1,24,2020,0
+1429,Chraibi,Rachid,M,2004-12-20,Agadir,Souss-Massa,Sciences Math B,Très Bien,Oui,2020-04-21,Actif,Génie Informatique,S3,21,2020,1
+1430,Jabri,Meriem,M,2004-08-08,Meknès,Casablanca-Settat,Sciences Math B,Passable,Oui,2020-11-14,Diplômé,Génie Informatique,S1,21,2020,1
+1431,Moussaoui,Omar,M,2000-06-09,Tétouan,Souss-Massa,Sciences de la Vie,Bien,Non,2022-05-20,Diplômé,Génie Civil,S3,25,2022,0
+1432,Tazi,Nadia,F,2004-10-10,Marrakech,Casablanca-Settat,Sciences Economiques,Passable,Non,2024-06-27,Actif,Marketing,S6,21,2024,0
+1433,Naciri,Mehdi,F,2000-10-01,Tanger,Rabat-Salé-Kénitra,Sciences Math B,Bien,Non,2023-10-23,Actif,Génie Electrique,S1,25,2023,0
+1434,Wahbi,Mehdi,M,1998-01-21,Agadir,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2020-02-28,Actif,Génie Electrique,S4,28,2020,0
+1435,Lamrani,Karim,M,1999-02-11,Tétouan,Fès-Meknès,Sciences Math B,Très Bien,Oui,2023-02-19,Diplômé,Finance & Comptabilité,S1,27,2023,1
+1436,Alaoui,Hind,F,2005-04-20,Fès,Tanger-Tétouan,Sciences Economiques,Très Bien,Non,2024-05-11,Actif,Finance & Comptabilité,S2,21,2024,0
+1437,Douiri,Fatima,M,2000-10-11,Oujda,Fès-Meknès,Lettres,Passable,Oui,2023-12-10,Diplômé,Droit des Affaires,S6,25,2023,1
+1438,Jabri,Soufiane,F,1998-12-02,Agadir,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2020-05-09,Actif,Génie Civil,S6,27,2020,0
+1439,Gharbi,Loubna,F,2003-01-13,Marrakech,Fès-Meknès,Sciences Physiques,Très Bien,Non,2021-12-17,Diplômé,Génie Informatique,S5,23,2021,0
+1440,Ziani,Soufiane,M,2001-02-21,Meknès,Tanger-Tétouan,Sciences Math B,Assez Bien,Non,2023-06-26,Actif,Génie Electrique,S4,25,2023,0
+1441,Jabri,Sara,M,2004-09-12,Agadir,Tanger-Tétouan,Lettres,Très Bien,Non,2019-04-14,Diplômé,Droit des Affaires,S6,21,2019,0
+1442,Benali,Rachid,F,2005-10-11,Tanger,Marrakech-Safi,Lettres,Bien,Oui,2020-07-01,Actif,Génie Electrique,S5,20,2020,1
+1443,Douiri,Ghita,M,2003-01-02,Oujda,Marrakech-Safi,Sciences Physiques,Assez Bien,Oui,2023-06-30,Diplômé,Génie Electrique,S2,23,2023,1
+1444,Bennani,Mehdi,M,1999-12-16,Tétouan,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Non,2021-03-05,Actif,Droit des Affaires,S6,26,2021,0
+1445,Ouali,Ghita,F,1998-02-20,Fès,Marrakech-Safi,Sciences Economiques,Passable,Non,2024-08-13,Diplômé,Génie Electrique,S5,28,2024,0
+1446,Moussaoui,Khalid,F,1998-11-20,Agadir,Souss-Massa,Sciences Economiques,Bien,Non,2024-06-22,Diplômé,Génie Civil,S2,27,2024,0
+1447,Lamrani,Mehdi,F,2000-02-28,Meknès,Souss-Massa,Sciences Math A,Assez Bien,Oui,2021-12-28,Actif,Marketing,S1,26,2021,1
+1448,Ouali,Amina,F,1998-05-21,Tanger,Casablanca-Settat,Sciences Math B,Assez Bien,Oui,2023-05-03,Diplômé,Génie Electrique,S1,27,2023,1
+1449,Bennani,Amina,M,1999-04-15,Meknès,Marrakech-Safi,Sciences de la Vie,Assez Bien,Oui,2023-09-17,Actif,Génie Informatique,S6,27,2023,1
+1450,Tazi,Ghita,M,2000-02-26,Agadir,Casablanca-Settat,Sciences de la Vie,Bien,Non,2024-02-05,Actif,Droit des Affaires,S2,26,2024,0
+1451,Douiri,Amina,F,2002-12-31,Rabat,Fès-Meknès,Sciences Math B,Très Bien,Non,2018-10-26,Actif,Génie Electrique,S4,23,2018,0
+1452,Naciri,Ayoub,F,2001-09-19,Tétouan,Casablanca-Settat,Sciences Math A,Très Bien,Non,2020-08-20,Actif,Finance & Comptabilité,S6,24,2020,0
+1453,Ziani,Sara,M,2003-04-01,Fès,Rabat-Salé-Kénitra,Sciences Math A,Assez Bien,Oui,2024-05-11,Diplômé,Génie Informatique,S1,23,2024,1
+1454,Hamidi,Rim,F,2000-08-21,Tétouan,Tanger-Tétouan,Sciences Math B,Bien,Non,2020-03-27,Diplômé,Marketing,S4,25,2020,0
+1455,Jabri,Sanaa,M,1999-01-08,Kenitra,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Non,2020-06-28,Actif,Génie Electrique,S5,27,2020,0
+1456,Benali,Nadia,M,2004-12-16,Marrakech,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Oui,2019-06-11,Actif,Génie Civil,S1,21,2019,1
+1457,Ouali,Ayoub,M,2002-08-20,Kenitra,Souss-Massa,Lettres,Très Bien,Non,2023-06-11,Diplômé,Génie Civil,S2,23,2023,0
+1458,Alaoui,Ghita,M,2005-08-30,Casablanca,Rabat-Salé-Kénitra,Sciences de la Vie,Passable,Non,2020-01-11,Abandon,Génie Electrique,S6,20,2020,0
+1459,Tazi,Hind,M,2001-03-25,Oujda,Souss-Massa,Sciences Math B,Passable,Non,2022-09-05,Actif,Finance & Comptabilité,S6,25,2022,0
+1460,Wahbi,Ayoub,M,2004-05-27,Fès,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2019-01-08,Abandon,Droit des Affaires,S2,21,2019,0
+1461,Hamidi,Nadia,M,2002-07-30,Oujda,Marrakech-Safi,Sciences Math A,Assez Bien,Oui,2020-05-31,Actif,Génie Civil,S1,23,2020,1
+1462,Moussaoui,Loubna,F,1998-04-16,Tanger,Souss-Massa,Sciences Math B,Très Bien,Oui,2024-08-01,Actif,Génie Informatique,S2,28,2024,1
+1463,Ouali,Nadia,F,2001-12-14,Rabat,Fès-Meknès,Sciences de la Vie,Très Bien,Non,2024-04-22,Diplômé,Droit des Affaires,S6,24,2024,0
+1464,Chraibi,Hind,F,2005-06-10,Meknès,Tanger-Tétouan,Sciences Economiques,Passable,Oui,2021-05-13,Actif,Finance & Comptabilité,S1,20,2021,1
+1465,Lamrani,Meriem,F,2002-08-09,Oujda,Casablanca-Settat,Sciences Economiques,Très Bien,Non,2021-05-20,Actif,Marketing,S3,23,2021,0
+1466,Bennani,Omar,M,1998-01-02,Marrakech,Souss-Massa,Sciences Math A,Assez Bien,Non,2024-06-22,Actif,Droit des Affaires,S1,28,2024,0
+1467,Lamrani,Sanaa,M,2005-03-21,Tanger,Casablanca-Settat,Sciences Economiques,Assez Bien,Non,2018-12-10,Diplômé,Marketing,S4,21,2018,0
+1468,Douiri,Hamza,F,2005-05-15,Fès,Fès-Meknès,Sciences Economiques,Bien,Non,2019-11-01,Diplômé,Droit des Affaires,S5,21,2019,0
+1469,Karimi,Ayoub,M,2003-11-08,Tanger,Rabat-Salé-Kénitra,Sciences Math A,Très Bien,Oui,2018-10-11,Actif,Droit des Affaires,S2,22,2018,1
+1470,Tazi,Ayoub,F,1998-12-16,Marrakech,Souss-Massa,Sciences Math A,Passable,Oui,2019-11-03,Actif,Génie Civil,S5,27,2019,1
+1471,Karimi,Hind,M,2001-07-10,Meknès,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Oui,2019-08-10,Actif,Finance & Comptabilité,S1,24,2019,1
+1472,Ouali,Khalid,F,2000-11-28,Meknès,Tanger-Tétouan,Lettres,Bien,Non,2019-09-01,Actif,Génie Civil,S1,25,2019,0
+1473,Lamrani,Soufiane,M,2004-01-16,Rabat,Casablanca-Settat,Sciences Math B,Bien,Oui,2020-05-01,Actif,Marketing,S1,22,2020,1
+1474,Naciri,Soufiane,F,2004-06-17,Oujda,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Oui,2020-08-28,Diplômé,Génie Civil,S4,21,2020,1
+1475,Karimi,Rim,M,1999-03-21,Tétouan,Marrakech-Safi,Sciences Economiques,Passable,Non,2020-12-03,Actif,Finance & Comptabilité,S5,27,2020,0
+1476,Wahbi,Amina,F,2004-06-03,Oujda,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2022-06-07,Actif,Génie Electrique,S5,21,2022,0
+1477,El Fassi,Omar,M,2000-08-09,Tétouan,Marrakech-Safi,Lettres,Assez Bien,Oui,2021-02-05,Actif,Marketing,S2,25,2021,1
+1478,Hamidi,Ghita,F,1998-02-05,Meknès,Souss-Massa,Lettres,Bien,Non,2024-04-05,Actif,Génie Electrique,S1,28,2024,0
+1479,Ouali,Mehdi,F,2001-01-12,Kenitra,Souss-Massa,Sciences de la Vie,Assez Bien,Non,2022-05-04,Abandon,Finance & Comptabilité,S2,25,2022,0
+1480,Naciri,Amine,M,2002-01-15,Kenitra,Souss-Massa,Sciences Economiques,Passable,Oui,2022-03-20,Actif,Marketing,S4,24,2022,1
+1481,Gharbi,Sara,F,2002-12-04,Meknès,Marrakech-Safi,Sciences de la Vie,Très Bien,Oui,2018-12-26,Actif,Génie Civil,S3,23,2018,1
+1482,Bennani,Meriem,F,2003-01-20,Kenitra,Fès-Meknès,Sciences Physiques,Passable,Oui,2021-09-22,Actif,Génie Civil,S6,23,2021,1
+1483,Ziani,Sanaa,M,2001-11-09,Casablanca,Fès-Meknès,Sciences Math A,Très Bien,Non,2019-02-15,Actif,Droit des Affaires,S6,24,2019,0
+1484,Karimi,Loubna,F,2001-04-10,Agadir,Marrakech-Safi,Lettres,Bien,Oui,2023-06-05,Actif,Génie Civil,S4,25,2023,1
+1485,Naciri,Fatima,F,2001-10-31,Kenitra,Fès-Meknès,Sciences Economiques,Bien,Non,2022-05-27,Actif,Marketing,S3,24,2022,0
+1486,Wahbi,Soufiane,F,2002-09-05,Tétouan,Marrakech-Safi,Sciences de la Vie,Assez Bien,Non,2020-07-26,Actif,Marketing,S1,23,2020,0
+1487,Alaoui,Fatima,M,2001-10-17,Rabat,Rabat-Salé-Kénitra,Sciences Math B,Passable,Non,2021-03-13,Actif,Droit des Affaires,S6,24,2021,0
+1488,Karimi,Hind,M,2005-02-19,Rabat,Fès-Meknès,Sciences de la Vie,Bien,Oui,2019-01-30,Actif,Génie Civil,S5,21,2019,1
+1489,Karimi,Karim,F,2003-12-29,Fès,Marrakech-Safi,Sciences de la Vie,Très Bien,Non,2020-04-08,Actif,Génie Civil,S5,22,2020,0
+1490,Hamidi,Amina,F,2001-07-24,Agadir,Souss-Massa,Sciences Physiques,Bien,Non,2021-03-01,Abandon,Génie Electrique,S2,24,2021,0
+1491,Ouali,Amine,M,2005-08-05,Marrakech,Tanger-Tétouan,Sciences Economiques,Passable,Non,2022-12-26,Actif,Droit des Affaires,S3,20,2022,0
+1492,Ziani,Ayoub,F,2001-05-28,Tétouan,Tanger-Tétouan,Lettres,Bien,Non,2020-01-09,Actif,Droit des Affaires,S2,24,2020,0
+1493,Bennani,Soufiane,M,1999-06-05,Casablanca,Fès-Meknès,Lettres,Bien,Non,2024-07-19,Actif,Marketing,S1,26,2024,0
+1494,Lamrani,Mehdi,M,2002-12-12,Tétouan,Tanger-Tétouan,Sciences Economiques,Bien,Non,2020-03-10,Actif,Génie Civil,S5,23,2020,0
+1495,Rachidi,Rim,M,1998-01-10,Meknès,Casablanca-Settat,Sciences Math A,Bien,Non,2021-09-10,Diplômé,Finance & Comptabilité,S2,28,2021,0
+1496,Rachidi,Karim,M,2000-09-10,Agadir,Casablanca-Settat,Sciences de la Vie,Très Bien,Non,2022-12-01,Actif,Génie Civil,S3,25,2022,0
+1497,Rachidi,Nadia,F,2004-08-22,Meknès,Tanger-Tétouan,Sciences Math B,Bien,Oui,2024-06-21,Diplômé,Droit des Affaires,S1,21,2024,1
+1498,Hamidi,Ayoub,M,2002-07-15,Rabat,Souss-Massa,Sciences Physiques,Passable,Oui,2019-02-04,Actif,Marketing,S1,23,2019,1
+1499,Tazi,Sanaa,F,2002-07-19,Casablanca,Marrakech-Safi,Sciences de la Vie,Assez Bien,Oui,2020-09-04,Actif,Génie Civil,S3,23,2020,1
+1500,Saadi,Yassine,F,2005-06-22,Rabat,Tanger-Tétouan,Sciences Math B,Passable,Non,2024-08-19,Diplômé,Génie Electrique,S2,20,2024,0
+1501,Gharbi,Rim,F,2005-03-16,Tanger,Souss-Massa,Sciences Math A,Assez Bien,Non,2022-07-29,Actif,Génie Informatique,S4,21,2022,0
+1502,Chraibi,Sara,M,2004-01-09,Fès,Tanger-Tétouan,Sciences Physiques,Assez Bien,Non,2020-03-12,Actif,Marketing,S2,22,2020,0
+1503,Karimi,Khalid,M,1999-12-21,Kenitra,Tanger-Tétouan,Sciences Economiques,Passable,Non,2024-07-25,Actif,Marketing,S6,26,2024,0
+1504,Tazi,Soufiane,F,2000-12-08,Kenitra,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2019-02-02,Diplômé,Droit des Affaires,S3,25,2019,0
+1505,Bennani,Sanaa,F,2000-05-08,Kenitra,Marrakech-Safi,Sciences de la Vie,Passable,Non,2021-05-24,Actif,Génie Informatique,S5,26,2021,0
+1506,Lamrani,Nadia,M,2001-08-09,Tétouan,Souss-Massa,Sciences Physiques,Bien,Oui,2020-02-13,Diplômé,Génie Civil,S2,24,2020,1
+1507,Chraibi,Khalid,F,2002-05-23,Tétouan,Casablanca-Settat,Sciences Math B,Très Bien,Non,2024-01-24,Actif,Génie Electrique,S4,23,2024,0
+1508,Idrissi,Karim,F,1998-02-19,Fès,Fès-Meknès,Sciences Math A,Passable,Oui,2020-08-29,Diplômé,Génie Civil,S2,28,2020,1
+1509,Karimi,Sanaa,F,2005-06-04,Oujda,Casablanca-Settat,Lettres,Très Bien,Oui,2021-11-21,Actif,Droit des Affaires,S5,20,2021,1
+1510,Idrissi,Nadia,F,2005-01-22,Agadir,Marrakech-Safi,Lettres,Assez Bien,Oui,2019-02-01,Diplômé,Génie Informatique,S1,21,2019,1
+1511,Hamidi,Yassine,F,2005-12-14,Meknès,Marrakech-Safi,Sciences Math A,Assez Bien,Oui,2018-12-01,Actif,Génie Electrique,S2,20,2018,1
+1512,El Fassi,Rachid,M,1998-05-26,Oujda,Souss-Massa,Sciences Economiques,Passable,Non,2022-10-13,Abandon,Finance & Comptabilité,S1,27,2022,0
+1513,Alaoui,Fatima,F,2000-07-03,Tétouan,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2023-05-14,Actif,Finance & Comptabilité,S6,25,2023,0
+1514,Benali,Rachid,F,2002-01-02,Kenitra,Marrakech-Safi,Sciences Math A,Bien,Oui,2024-03-09,Actif,Génie Electrique,S5,24,2024,1
+1515,Idrissi,Mehdi,M,2004-04-08,Marrakech,Marrakech-Safi,Sciences Economiques,Bien,Non,2020-10-26,Actif,Finance & Comptabilité,S4,22,2020,0
+1516,Saadi,Mehdi,M,1999-08-04,Agadir,Souss-Massa,Sciences Math A,Passable,Non,2019-05-31,Actif,Droit des Affaires,S2,26,2019,0
+1517,Bennani,Sara,M,2005-06-27,Casablanca,Souss-Massa,Sciences de la Vie,Passable,Oui,2024-03-20,Actif,Droit des Affaires,S1,20,2024,1
+1518,Chraibi,Hind,F,2002-05-04,Oujda,Souss-Massa,Lettres,Assez Bien,Non,2019-02-24,Abandon,Droit des Affaires,S4,24,2019,0
+1519,Rachidi,Meriem,F,1999-04-28,Rabat,Marrakech-Safi,Sciences Math B,Assez Bien,Oui,2020-06-04,Abandon,Génie Electrique,S1,27,2020,1
+1520,Ouali,Mehdi,M,2001-06-03,Tanger,Rabat-Salé-Kénitra,Lettres,Passable,Non,2023-11-12,Actif,Génie Civil,S1,24,2023,0
+1521,Ziani,Meriem,F,1999-11-04,Meknès,Rabat-Salé-Kénitra,Sciences Physiques,Assez Bien,Non,2020-03-20,Abandon,Génie Civil,S1,26,2020,0
+1522,Hamidi,Ayoub,M,1999-09-23,Rabat,Tanger-Tétouan,Sciences de la Vie,Bien,Oui,2020-06-27,Actif,Génie Informatique,S2,26,2020,1
+1523,Naciri,Ghita,F,2005-06-01,Rabat,Rabat-Salé-Kénitra,Sciences Physiques,Très Bien,Oui,2022-04-24,Actif,Génie Civil,S1,20,2022,1
+1524,Saadi,Yassine,F,1999-10-24,Marrakech,Casablanca-Settat,Sciences Math A,Assez Bien,Non,2023-08-04,Diplômé,Génie Civil,S6,26,2023,0
+1525,Naciri,Karim,F,2005-10-23,Agadir,Tanger-Tétouan,Sciences Math B,Très Bien,Non,2021-08-05,Diplômé,Génie Informatique,S6,20,2021,0
+1526,Idrissi,Yassine,M,2004-10-02,Tanger,Fès-Meknès,Sciences de la Vie,Assez Bien,Oui,2019-10-13,Abandon,Marketing,S5,21,2019,1
+1527,El Fassi,Amine,M,2000-09-14,Agadir,Souss-Massa,Lettres,Assez Bien,Non,2021-12-26,Actif,Marketing,S3,25,2021,0
+1528,Alaoui,Omar,M,2002-03-27,Oujda,Marrakech-Safi,Sciences Economiques,Passable,Non,2023-09-28,Diplômé,Génie Electrique,S4,24,2023,0
+1529,Douiri,Mehdi,M,1999-10-12,Fès,Souss-Massa,Sciences Physiques,Bien,Non,2021-10-27,Actif,Marketing,S6,26,2021,0
+1530,Ouali,Loubna,F,2000-08-26,Kenitra,Rabat-Salé-Kénitra,Sciences Physiques,Très Bien,Non,2021-10-16,Actif,Marketing,S4,25,2021,0
+1531,Idrissi,Ghita,F,2005-03-22,Oujda,Souss-Massa,Sciences Economiques,Bien,Non,2019-01-22,Actif,Marketing,S6,21,2019,0
+1532,Gharbi,Soufiane,F,2001-01-05,Agadir,Casablanca-Settat,Sciences de la Vie,Assez Bien,Non,2019-12-31,Abandon,Génie Civil,S2,25,2019,0
+1533,Tazi,Rim,F,2004-12-31,Oujda,Souss-Massa,Sciences Economiques,Bien,Non,2021-01-07,Diplômé,Marketing,S2,21,2021,0
+1534,Rachidi,Fatima,F,1999-03-17,Rabat,Fès-Meknès,Sciences Physiques,Passable,Non,2023-12-19,Diplômé,Génie Civil,S2,27,2023,0
+1535,Benali,Hind,F,2000-07-09,Oujda,Marrakech-Safi,Sciences Economiques,Très Bien,Oui,2019-01-26,Actif,Génie Civil,S6,25,2019,1
+1536,Wahbi,Nadia,F,2000-02-09,Oujda,Marrakech-Safi,Sciences Physiques,Assez Bien,Oui,2022-05-22,Actif,Droit des Affaires,S3,26,2022,1
+1537,Idrissi,Hind,F,2001-09-05,Agadir,Fès-Meknès,Lettres,Assez Bien,Non,2022-05-20,Actif,Génie Informatique,S5,24,2022,0
+1538,Douiri,Fatima,M,2003-01-01,Rabat,Fès-Meknès,Sciences de la Vie,Bien,Non,2018-11-29,Actif,Génie Electrique,S4,23,2018,0
+1539,Rachidi,Sara,M,1998-09-20,Tanger,Fès-Meknès,Sciences Math B,Bien,Oui,2022-05-20,Actif,Génie Informatique,S4,27,2022,1
+1540,El Fassi,Nadia,M,2002-04-27,Casablanca,Souss-Massa,Sciences de la Vie,Passable,Non,2019-03-18,Diplômé,Droit des Affaires,S2,24,2019,0
+1541,Rachidi,Rim,F,2005-05-08,Rabat,Casablanca-Settat,Sciences Economiques,Bien,Non,2020-02-20,Actif,Finance & Comptabilité,S2,21,2020,0
+1542,Tazi,Ghita,F,2004-11-11,Casablanca,Tanger-Tétouan,Sciences Economiques,Passable,Oui,2019-06-28,Actif,Génie Civil,S5,21,2019,1
+1543,Wahbi,Ayoub,M,2000-09-25,Agadir,Souss-Massa,Sciences de la Vie,Bien,Non,2020-08-24,Actif,Marketing,S6,25,2020,0
+1544,Bennani,Karim,F,1999-12-01,Rabat,Tanger-Tétouan,Sciences Math B,Bien,Oui,2023-01-16,Actif,Marketing,S1,26,2023,1
+1545,Lamrani,Fatima,F,2004-06-07,Marrakech,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Oui,2022-08-30,Actif,Finance & Comptabilité,S5,21,2022,1
+1546,Rachidi,Meriem,M,2002-05-23,Fès,Marrakech-Safi,Sciences Economiques,Bien,Non,2018-11-07,Abandon,Droit des Affaires,S2,23,2018,0
+1547,Bennani,Ghita,M,2001-05-26,Kenitra,Souss-Massa,Sciences Economiques,Assez Bien,Non,2022-11-16,Diplômé,Droit des Affaires,S6,24,2022,0
+1548,Tazi,Loubna,F,2001-01-30,Marrakech,Souss-Massa,Sciences de la Vie,Passable,Oui,2019-10-03,Diplômé,Génie Electrique,S4,25,2019,1
+1549,Ouali,Yassine,M,2005-02-14,Kenitra,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Non,2020-05-12,Actif,Génie Civil,S5,21,2020,0
+1550,Wahbi,Soufiane,F,2004-05-24,Marrakech,Souss-Massa,Sciences Physiques,Assez Bien,Non,2023-01-02,Actif,Finance & Comptabilité,S1,21,2023,0
+1551,Rachidi,Hamza,M,2001-04-05,Agadir,Tanger-Tétouan,Sciences Economiques,Assez Bien,Oui,2021-11-07,Actif,Finance & Comptabilité,S6,25,2021,1
+1552,Gharbi,Nadia,F,2005-04-22,Kenitra,Souss-Massa,Sciences Physiques,Assez Bien,Oui,2020-08-30,Diplômé,Finance & Comptabilité,S3,21,2020,1
+1553,Saadi,Mehdi,F,2000-10-02,Meknès,Fès-Meknès,Lettres,Passable,Non,2020-03-09,Diplômé,Génie Civil,S3,25,2020,0
+1554,Rachidi,Hind,F,1998-02-05,Oujda,Souss-Massa,Sciences de la Vie,Bien,Oui,2024-01-05,Actif,Génie Civil,S4,28,2024,1
+1555,Jabri,Rim,F,2000-01-14,Fès,Marrakech-Safi,Lettres,Passable,Non,2023-06-18,Actif,Génie Civil,S1,26,2023,0
+1556,Idrissi,Yassine,M,2002-10-31,Meknès,Tanger-Tétouan,Sciences Math B,Bien,Non,2021-05-23,Actif,Génie Civil,S5,23,2021,0
+1557,Jabri,Ghita,M,1998-12-19,Marrakech,Marrakech-Safi,Lettres,Assez Bien,Non,2024-01-12,Diplômé,Génie Informatique,S2,27,2024,0
+1558,Tazi,Sanaa,M,2003-04-07,Marrakech,Rabat-Salé-Kénitra,Sciences Math A,Passable,Oui,2023-01-19,Abandon,Finance & Comptabilité,S2,23,2023,1
+1559,Saadi,Nadia,F,1998-03-14,Meknès,Souss-Massa,Lettres,Assez Bien,Non,2022-09-20,Actif,Génie Informatique,S1,28,2022,0
+1560,Idrissi,Hamza,F,2005-05-19,Meknès,Tanger-Tétouan,Sciences Math B,Passable,Non,2024-07-05,Actif,Génie Electrique,S5,20,2024,0
+1561,Jabri,Rim,F,2001-10-08,Casablanca,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Oui,2021-09-07,Actif,Finance & Comptabilité,S1,24,2021,1
+1562,Rachidi,Amina,M,2003-03-30,Tétouan,Marrakech-Safi,Lettres,Bien,Oui,2022-07-05,Actif,Génie Civil,S5,23,2022,1
+1563,Chraibi,Karim,M,2000-12-29,Fès,Casablanca-Settat,Sciences Math B,Passable,Oui,2024-08-17,Actif,Droit des Affaires,S3,25,2024,1
+1564,Karimi,Soufiane,M,2004-10-08,Oujda,Fès-Meknès,Sciences Math A,Très Bien,Non,2022-03-23,Actif,Droit des Affaires,S5,21,2022,0
+1565,Idrissi,Sanaa,M,1999-12-09,Tétouan,Rabat-Salé-Kénitra,Sciences Math B,Passable,Non,2023-05-20,Diplômé,Génie Civil,S5,26,2023,0
+1566,Jabri,Karim,F,2002-12-10,Meknès,Souss-Massa,Sciences Economiques,Passable,Oui,2021-02-15,Diplômé,Génie Civil,S2,23,2021,1
+1567,Lamrani,Soufiane,M,2005-02-21,Meknès,Marrakech-Safi,Sciences de la Vie,Bien,Non,2021-12-20,Actif,Génie Informatique,S4,21,2021,0
+1568,Lamrani,Loubna,M,2005-11-15,Casablanca,Souss-Massa,Sciences Physiques,Assez Bien,Oui,2022-11-14,Diplômé,Génie Civil,S6,20,2022,1
+1569,Wahbi,Soufiane,F,2000-08-13,Fès,Tanger-Tétouan,Sciences Economiques,Passable,Non,2018-11-17,Actif,Finance & Comptabilité,S6,25,2018,0
+1570,Chraibi,Soufiane,M,2005-01-08,Fès,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2022-11-11,Actif,Marketing,S2,21,2022,0
+1571,El Fassi,Loubna,M,2004-10-11,Tanger,Souss-Massa,Lettres,Assez Bien,Non,2019-04-26,Actif,Finance & Comptabilité,S3,21,2019,0
+1572,El Fassi,Yassine,F,1998-06-09,Rabat,Marrakech-Safi,Lettres,Très Bien,Non,2021-11-01,Actif,Droit des Affaires,S1,27,2021,0
+1573,Idrissi,Khalid,M,2004-01-06,Tétouan,Souss-Massa,Lettres,Assez Bien,Non,2024-02-18,Actif,Génie Electrique,S2,22,2024,0
+1574,Naciri,Meriem,F,2005-09-24,Rabat,Casablanca-Settat,Sciences Math A,Bien,Non,2021-12-29,Actif,Finance & Comptabilité,S1,20,2021,0
+1575,El Fassi,Sara,F,2002-10-02,Kenitra,Rabat-Salé-Kénitra,Sciences Math B,Très Bien,Non,2019-06-05,Actif,Génie Civil,S2,23,2019,0
+1576,Hamidi,Khalid,F,2002-05-05,Marrakech,Marrakech-Safi,Sciences de la Vie,Assez Bien,Non,2020-02-06,Abandon,Finance & Comptabilité,S6,24,2020,0
+1577,Chraibi,Sanaa,M,1998-03-08,Agadir,Rabat-Salé-Kénitra,Lettres,Très Bien,Oui,2019-02-27,Actif,Finance & Comptabilité,S4,28,2019,1
+1578,Ouali,Amine,F,2004-08-25,Agadir,Souss-Massa,Sciences Math A,Assez Bien,Oui,2019-01-01,Actif,Génie Informatique,S4,21,2019,1
+1579,Ouali,Yassine,M,1998-02-27,Fès,Marrakech-Safi,Sciences Math A,Très Bien,Oui,2022-02-21,Actif,Marketing,S2,28,2022,1
+1580,Lamrani,Sanaa,M,1998-12-08,Oujda,Fès-Meknès,Sciences Math B,Passable,Non,2023-06-24,Diplômé,Droit des Affaires,S2,27,2023,0
+1581,Wahbi,Karim,M,2001-02-27,Rabat,Marrakech-Safi,Sciences de la Vie,Bien,Non,2021-08-30,Actif,Finance & Comptabilité,S6,25,2021,0
+1582,Rachidi,Sanaa,F,2005-08-06,Tanger,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2019-12-24,Diplômé,Droit des Affaires,S1,20,2019,0
+1583,Ouali,Nadia,M,2001-04-10,Oujda,Marrakech-Safi,Sciences de la Vie,Assez Bien,Oui,2023-08-03,Actif,Génie Electrique,S1,25,2023,1
+1584,Benali,Fatima,M,2005-09-18,Kenitra,Tanger-Tétouan,Sciences Math A,Bien,Non,2024-07-02,Actif,Finance & Comptabilité,S6,20,2024,0
+1585,Hamidi,Hamza,F,2005-04-15,Agadir,Marrakech-Safi,Sciences Math A,Bien,Non,2020-11-24,Actif,Marketing,S3,21,2020,0
+1586,Ouali,Rachid,M,2001-05-17,Tétouan,Fès-Meknès,Sciences Physiques,Passable,Non,2019-11-17,Actif,Droit des Affaires,S3,25,2019,0
+1587,Naciri,Mehdi,M,2004-07-29,Meknès,Casablanca-Settat,Sciences Math B,Passable,Non,2019-01-21,Actif,Marketing,S2,21,2019,0
+1588,Ziani,Sara,M,2002-02-03,Tétouan,Fès-Meknès,Sciences Physiques,Bien,Non,2019-03-11,Actif,Marketing,S4,24,2019,0
+1589,Alaoui,Sanaa,M,2002-12-27,Meknès,Casablanca-Settat,Sciences Math A,Bien,Oui,2022-07-12,Actif,Marketing,S3,23,2022,1
+1590,Ziani,Loubna,M,1998-04-26,Tétouan,Souss-Massa,Sciences Economiques,Très Bien,Non,2019-09-13,Actif,Marketing,S3,28,2019,0
+1591,Naciri,Rachid,M,1999-10-24,Rabat,Tanger-Tétouan,Sciences Math A,Bien,Oui,2020-02-17,Actif,Droit des Affaires,S5,26,2020,1
+1592,Saadi,Amina,F,2002-01-05,Agadir,Tanger-Tétouan,Lettres,Très Bien,Non,2023-05-14,Abandon,Droit des Affaires,S4,24,2023,0
+1593,Alaoui,Ayoub,M,2004-11-05,Agadir,Tanger-Tétouan,Sciences de la Vie,Bien,Non,2021-06-29,Actif,Génie Informatique,S1,21,2021,0
+1594,Moussaoui,Meriem,M,2003-02-12,Oujda,Casablanca-Settat,Sciences de la Vie,Assez Bien,Non,2022-07-12,Diplômé,Marketing,S1,23,2022,0
+1595,Karimi,Amina,F,2004-05-23,Tétouan,Fès-Meknès,Sciences Economiques,Passable,Oui,2024-07-11,Diplômé,Génie Informatique,S6,21,2024,1
+1596,Naciri,Mehdi,M,2000-10-13,Marrakech,Rabat-Salé-Kénitra,Lettres,Bien,Non,2024-02-11,Actif,Finance & Comptabilité,S1,25,2024,0
+1597,Ouali,Karim,F,1998-11-07,Tanger,Tanger-Tétouan,Sciences Economiques,Bien,Non,2021-11-21,Actif,Finance & Comptabilité,S5,27,2021,0
+1598,Wahbi,Ayoub,M,1998-07-27,Tétouan,Casablanca-Settat,Sciences Physiques,Passable,Oui,2019-10-10,Actif,Génie Informatique,S2,27,2019,1
+1599,Wahbi,Sara,M,2005-04-19,Tétouan,Souss-Massa,Lettres,Assez Bien,Non,2021-11-16,Diplômé,Génie Civil,S2,21,2021,0
+1600,Bennani,Hind,M,2004-10-29,Rabat,Fès-Meknès,Sciences Economiques,Très Bien,Non,2021-02-05,Diplômé,Marketing,S1,21,2021,0
+1601,Idrissi,Omar,M,2005-06-10,Marrakech,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2019-10-27,Diplômé,Marketing,S4,20,2019,0
+1602,Saadi,Sara,M,1999-09-25,Agadir,Marrakech-Safi,Sciences Math B,Assez Bien,Non,2023-02-28,Abandon,Finance & Comptabilité,S5,26,2023,0
+1603,Idrissi,Omar,M,2003-10-04,Rabat,Fès-Meknès,Lettres,Assez Bien,Oui,2019-12-16,Diplômé,Droit des Affaires,S1,22,2019,1
+1604,Jabri,Sara,M,1999-10-19,Fès,Casablanca-Settat,Sciences de la Vie,Passable,Non,2020-02-29,Actif,Génie Informatique,S1,26,2020,0
+1605,Ouali,Rachid,M,2001-11-24,Tanger,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Oui,2020-05-23,Actif,Marketing,S2,24,2020,1
+1606,Saadi,Hind,M,2003-04-16,Rabat,Rabat-Salé-Kénitra,Sciences Math A,Assez Bien,Non,2021-07-04,Diplômé,Finance & Comptabilité,S6,23,2021,0
+1607,Alaoui,Soufiane,M,2005-01-06,Marrakech,Rabat-Salé-Kénitra,Sciences Math B,Passable,Non,2023-09-04,Actif,Marketing,S4,21,2023,0
+1608,Naciri,Khalid,M,2002-08-07,Agadir,Marrakech-Safi,Lettres,Bien,Non,2019-08-30,Actif,Droit des Affaires,S5,23,2019,0
+1609,Lamrani,Loubna,M,1998-08-25,Marrakech,Fès-Meknès,Sciences Economiques,Assez Bien,Oui,2024-08-06,Diplômé,Génie Informatique,S5,27,2024,1
+1610,Naciri,Meriem,F,1998-12-14,Kenitra,Tanger-Tétouan,Sciences Physiques,Bien,Non,2020-02-28,Actif,Génie Civil,S3,27,2020,0
+1611,Gharbi,Amine,M,2005-04-28,Meknès,Fès-Meknès,Sciences Math B,Très Bien,Non,2020-05-26,Abandon,Génie Electrique,S4,21,2020,0
+1612,Rachidi,Sara,F,1999-09-22,Meknès,Rabat-Salé-Kénitra,Sciences Math A,Passable,Non,2023-12-20,Diplômé,Finance & Comptabilité,S2,26,2023,0
+1613,El Fassi,Omar,F,2002-03-21,Tétouan,Marrakech-Safi,Sciences Economiques,Bien,Non,2023-04-08,Actif,Finance & Comptabilité,S6,24,2023,0
+1614,Bennani,Hind,M,2003-06-27,Marrakech,Souss-Massa,Sciences Economiques,Assez Bien,Non,2021-04-20,Abandon,Génie Electrique,S6,22,2021,0
+1615,Wahbi,Sanaa,F,2001-06-25,Tétouan,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2021-01-30,Actif,Génie Electrique,S3,24,2021,0
+1616,Alaoui,Sara,F,1998-12-30,Meknès,Casablanca-Settat,Lettres,Passable,Non,2021-01-18,Actif,Finance & Comptabilité,S2,27,2021,0
+1617,Naciri,Rachid,M,2004-06-26,Meknès,Fès-Meknès,Sciences Math B,Bien,Oui,2020-01-29,Actif,Génie Civil,S1,21,2020,1
+1618,Ziani,Amine,M,1998-10-13,Marrakech,Marrakech-Safi,Sciences Economiques,Bien,Oui,2022-07-22,Actif,Finance & Comptabilité,S3,27,2022,1
+1619,Ziani,Fatima,F,1998-05-29,Oujda,Souss-Massa,Sciences Math B,Assez Bien,Non,2021-01-13,Actif,Génie Electrique,S2,27,2021,0
+1620,Alaoui,Sanaa,F,2001-01-12,Kenitra,Rabat-Salé-Kénitra,Lettres,Passable,Non,2024-07-24,Actif,Marketing,S1,25,2024,0
+1621,Chraibi,Rim,M,2004-09-19,Marrakech,Marrakech-Safi,Sciences Math A,Bien,Non,2021-09-13,Actif,Génie Informatique,S2,21,2021,0
+1622,Ouali,Khalid,M,1999-04-01,Kenitra,Souss-Massa,Sciences Physiques,Bien,Non,2019-04-02,Actif,Droit des Affaires,S6,27,2019,0
+1623,El Fassi,Ayoub,M,2002-11-02,Marrakech,Casablanca-Settat,Sciences Math B,Assez Bien,Oui,2018-09-19,Diplômé,Marketing,S4,23,2018,1
+1624,Rachidi,Khalid,M,2000-03-10,Oujda,Casablanca-Settat,Lettres,Bien,Non,2020-06-03,Diplômé,Génie Civil,S2,26,2020,0
+1625,Gharbi,Rachid,F,2001-03-30,Tanger,Fès-Meknès,Sciences Math A,Assez Bien,Oui,2021-09-09,Actif,Finance & Comptabilité,S4,25,2021,1
+1626,Benali,Amina,M,2000-10-09,Marrakech,Marrakech-Safi,Sciences Math B,Bien,Oui,2019-07-27,Actif,Droit des Affaires,S2,25,2019,1
+1627,Jabri,Meriem,M,2005-10-02,Marrakech,Rabat-Salé-Kénitra,Sciences Math A,Passable,Non,2021-01-13,Actif,Finance & Comptabilité,S1,20,2021,0
+1628,Naciri,Meriem,F,2004-11-12,Agadir,Rabat-Salé-Kénitra,Sciences Physiques,Très Bien,Oui,2020-10-13,Actif,Génie Informatique,S4,21,2020,1
+1629,Lamrani,Sanaa,M,2002-03-04,Oujda,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Non,2019-09-27,Diplômé,Droit des Affaires,S5,24,2019,0
+1630,Hamidi,Soufiane,M,2005-08-17,Tétouan,Rabat-Salé-Kénitra,Sciences Physiques,Assez Bien,Oui,2020-05-29,Diplômé,Marketing,S4,20,2020,1
+1631,Rachidi,Amine,F,2004-12-31,Casablanca,Fès-Meknès,Lettres,Passable,Non,2021-06-22,Actif,Génie Informatique,S1,21,2021,0
+1632,Lamrani,Karim,F,1999-04-26,Agadir,Casablanca-Settat,Sciences de la Vie,Passable,Non,2023-04-02,Actif,Génie Civil,S4,27,2023,0
+1633,Lamrani,Rim,M,2002-08-14,Casablanca,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Oui,2020-09-09,Actif,Marketing,S2,23,2020,1
+1634,Naciri,Karim,M,2003-12-02,Oujda,Tanger-Tétouan,Sciences Economiques,Assez Bien,Non,2022-11-24,Diplômé,Droit des Affaires,S2,22,2022,0
+1635,Jabri,Rim,M,2005-08-28,Marrakech,Fès-Meknès,Sciences Math B,Très Bien,Non,2019-12-13,Actif,Marketing,S5,20,2019,0
+1636,Ouali,Ghita,M,2002-05-21,Fès,Souss-Massa,Sciences Economiques,Passable,Non,2021-10-10,Abandon,Génie Civil,S4,23,2021,0
+1637,Jabri,Amina,M,2004-08-05,Meknès,Fès-Meknès,Sciences Math A,Assez Bien,Oui,2021-06-28,Diplômé,Finance & Comptabilité,S2,21,2021,1
+1638,Chraibi,Loubna,M,1998-12-07,Kenitra,Fès-Meknès,Lettres,Assez Bien,Non,2021-01-21,Actif,Finance & Comptabilité,S4,27,2021,0
+1639,Saadi,Hind,M,2005-09-18,Kenitra,Fès-Meknès,Lettres,Passable,Non,2019-12-04,Actif,Génie Electrique,S3,20,2019,0
+1640,Alaoui,Rachid,M,2003-07-04,Oujda,Fès-Meknès,Sciences Math A,Passable,Non,2022-11-28,Abandon,Finance & Comptabilité,S2,22,2022,0
+1641,Wahbi,Fatima,M,2005-09-09,Meknès,Fès-Meknès,Sciences Math A,Assez Bien,Non,2020-09-21,Actif,Génie Informatique,S4,20,2020,0
+1642,Benali,Karim,M,2004-11-01,Oujda,Casablanca-Settat,Sciences Economiques,Assez Bien,Non,2022-09-01,Actif,Génie Civil,S6,21,2022,0
+1643,Moussaoui,Rachid,M,2003-02-10,Meknès,Casablanca-Settat,Sciences Physiques,Assez Bien,Non,2023-07-14,Actif,Finance & Comptabilité,S2,23,2023,0
+1644,Idrissi,Hind,M,2000-04-14,Oujda,Tanger-Tétouan,Lettres,Assez Bien,Non,2021-01-01,Diplômé,Marketing,S6,26,2021,0
+1645,Chraibi,Hind,M,2001-04-18,Oujda,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Non,2022-04-22,Diplômé,Droit des Affaires,S3,25,2022,0
+1646,Benali,Ayoub,F,2002-09-22,Marrakech,Souss-Massa,Sciences Economiques,Passable,Non,2019-12-22,Diplômé,Génie Civil,S3,23,2019,0
+1647,Alaoui,Ghita,F,2002-08-17,Rabat,Marrakech-Safi,Sciences Physiques,Assez Bien,Non,2019-01-13,Diplômé,Finance & Comptabilité,S2,23,2019,0
+1648,Idrissi,Rim,F,1998-11-07,Tétouan,Casablanca-Settat,Sciences Physiques,Très Bien,Non,2021-10-27,Diplômé,Génie Informatique,S3,27,2021,0
+1649,Hamidi,Amina,F,1998-09-19,Casablanca,Marrakech-Safi,Sciences Physiques,Assez Bien,Non,2019-10-15,Abandon,Génie Electrique,S2,27,2019,0
+1650,Alaoui,Ayoub,M,2001-12-13,Fès,Tanger-Tétouan,Sciences Math B,Bien,Oui,2022-08-16,Actif,Génie Electrique,S1,24,2022,1
+1651,Bennani,Sanaa,M,1999-02-10,Tanger,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2022-04-10,Actif,Droit des Affaires,S6,27,2022,0
+1652,El Fassi,Ayoub,M,2003-12-31,Casablanca,Casablanca-Settat,Sciences Math B,Bien,Non,2022-02-21,Diplômé,Droit des Affaires,S5,22,2022,0
+1653,Idrissi,Sara,F,1998-12-08,Tanger,Souss-Massa,Sciences de la Vie,Bien,Non,2022-12-28,Diplômé,Droit des Affaires,S1,27,2022,0
+1654,El Fassi,Sanaa,F,2001-09-01,Fès,Casablanca-Settat,Sciences de la Vie,Assez Bien,Non,2018-11-25,Diplômé,Génie Civil,S3,24,2018,0
+1655,Saadi,Ghita,M,1998-09-01,Kenitra,Souss-Massa,Sciences Economiques,Très Bien,Non,2023-10-10,Actif,Droit des Affaires,S2,27,2023,0
+1656,Douiri,Rim,M,1999-05-05,Tanger,Souss-Massa,Sciences Math A,Passable,Non,2022-09-09,Diplômé,Droit des Affaires,S1,27,2022,0
+1657,Ziani,Amine,M,1998-01-12,Marrakech,Rabat-Salé-Kénitra,Sciences Physiques,Passable,Oui,2019-09-13,Diplômé,Génie Informatique,S4,28,2019,1
+1658,Hamidi,Sara,M,1999-07-15,Oujda,Rabat-Salé-Kénitra,Sciences Math B,Bien,Non,2023-04-08,Actif,Génie Informatique,S4,26,2023,0
+1659,Rachidi,Karim,F,1998-02-11,Tétouan,Souss-Massa,Sciences de la Vie,Bien,Non,2021-08-10,Actif,Génie Informatique,S4,28,2021,0
+1660,Jabri,Khalid,F,2005-06-18,Oujda,Marrakech-Safi,Sciences Economiques,Passable,Non,2019-04-30,Actif,Droit des Affaires,S2,20,2019,0
+1661,Moussaoui,Sanaa,M,1999-08-17,Kenitra,Marrakech-Safi,Sciences Math A,Assez Bien,Oui,2021-03-08,Actif,Finance & Comptabilité,S3,26,2021,1
+1662,Gharbi,Soufiane,F,2001-12-23,Kenitra,Rabat-Salé-Kénitra,Sciences Economiques,Passable,Non,2023-01-04,Actif,Droit des Affaires,S2,24,2023,0
+1663,Bennani,Amina,F,2003-01-01,Rabat,Casablanca-Settat,Sciences Math A,Assez Bien,Oui,2022-02-23,Actif,Génie Electrique,S3,23,2022,1
+1664,Bennani,Yassine,M,2002-08-21,Tétouan,Fès-Meknès,Sciences Economiques,Bien,Oui,2018-11-09,Actif,Génie Informatique,S5,23,2018,1
+1665,Douiri,Mehdi,M,1998-05-14,Rabat,Tanger-Tétouan,Sciences Physiques,Assez Bien,Oui,2024-06-05,Diplômé,Marketing,S2,28,2024,1
+1666,Gharbi,Ghita,M,2000-08-05,Tanger,Tanger-Tétouan,Sciences Physiques,Assez Bien,Oui,2022-07-07,Diplômé,Droit des Affaires,S6,25,2022,1
+1667,Karimi,Ayoub,M,1998-03-14,Kenitra,Marrakech-Safi,Sciences Math A,Assez Bien,Non,2024-05-18,Diplômé,Finance & Comptabilité,S5,28,2024,0
+1668,Douiri,Sara,M,1999-02-03,Agadir,Rabat-Salé-Kénitra,Sciences Economiques,Passable,Non,2024-02-29,Actif,Droit des Affaires,S2,27,2024,0
+1669,Ziani,Mehdi,M,2001-11-29,Kenitra,Casablanca-Settat,Sciences Physiques,Assez Bien,Non,2020-11-09,Actif,Marketing,S5,24,2020,0
+1670,Alaoui,Karim,M,2005-03-10,Casablanca,Casablanca-Settat,Sciences Economiques,Bien,Non,2021-07-08,Diplômé,Marketing,S5,21,2021,0
+1671,Karimi,Nadia,M,2005-12-16,Oujda,Marrakech-Safi,Sciences Economiques,Très Bien,Oui,2020-12-03,Actif,Génie Civil,S2,20,2020,1
+1672,Ziani,Sanaa,F,1998-05-10,Kenitra,Marrakech-Safi,Sciences Physiques,Très Bien,Non,2020-09-25,Abandon,Finance & Comptabilité,S1,28,2020,0
+1673,Naciri,Sanaa,M,2002-12-17,Fès,Fès-Meknès,Lettres,Passable,Non,2024-02-17,Diplômé,Marketing,S4,23,2024,0
+1674,Naciri,Khalid,M,2003-06-25,Meknès,Souss-Massa,Sciences de la Vie,Très Bien,Non,2023-09-14,Actif,Finance & Comptabilité,S5,22,2023,0
+1675,Hamidi,Hamza,M,1998-09-23,Rabat,Tanger-Tétouan,Sciences de la Vie,Bien,Non,2022-04-14,Abandon,Génie Informatique,S4,27,2022,0
+1676,Chraibi,Sara,F,2002-04-10,Fès,Tanger-Tétouan,Sciences Economiques,Bien,Non,2023-01-27,Actif,Génie Civil,S2,24,2023,0
+1677,Ziani,Ghita,M,2003-06-09,Tanger,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Oui,2018-12-19,Actif,Génie Electrique,S5,22,2018,1
+1678,Idrissi,Mehdi,M,2000-03-03,Casablanca,Marrakech-Safi,Sciences Math B,Assez Bien,Non,2021-06-13,Diplômé,Marketing,S4,26,2021,0
+1679,Douiri,Ayoub,F,2004-04-19,Oujda,Fès-Meknès,Sciences Physiques,Assez Bien,Oui,2024-01-14,Actif,Droit des Affaires,S4,22,2024,1
+1680,Karimi,Sanaa,F,2005-11-09,Tanger,Souss-Massa,Sciences de la Vie,Passable,Non,2023-07-06,Abandon,Génie Civil,S3,20,2023,0
+1681,Bennani,Sanaa,F,2001-08-05,Agadir,Rabat-Salé-Kénitra,Lettres,Passable,Non,2018-09-25,Actif,Génie Civil,S1,24,2018,0
+1682,Douiri,Ayoub,M,1998-06-13,Rabat,Marrakech-Safi,Sciences de la Vie,Passable,Non,2020-12-21,Actif,Génie Civil,S6,27,2020,0
+1683,Ziani,Karim,M,1998-04-05,Oujda,Fès-Meknès,Sciences Economiques,Assez Bien,Oui,2020-09-07,Actif,Génie Civil,S4,28,2020,1
+1684,Benali,Hamza,F,2002-12-11,Rabat,Marrakech-Safi,Sciences Math A,Bien,Non,2024-06-05,Diplômé,Droit des Affaires,S6,23,2024,0
+1685,Moussaoui,Mehdi,F,2005-11-20,Fès,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Oui,2019-02-27,Actif,Génie Informatique,S2,20,2019,1
+1686,Wahbi,Soufiane,F,2001-02-07,Fès,Rabat-Salé-Kénitra,Sciences Math A,Passable,Non,2019-04-20,Actif,Finance & Comptabilité,S2,25,2019,0
+1687,Ouali,Sanaa,F,2004-07-11,Tétouan,Fès-Meknès,Sciences Physiques,Très Bien,Oui,2023-12-01,Diplômé,Génie Electrique,S3,21,2023,1
+1688,Moussaoui,Khalid,M,2000-04-01,Agadir,Casablanca-Settat,Sciences Math A,Très Bien,Oui,2019-08-09,Actif,Génie Electrique,S4,26,2019,1
+1689,Chraibi,Rachid,F,1998-08-26,Tétouan,Rabat-Salé-Kénitra,Sciences de la Vie,Bien,Non,2019-12-21,Diplômé,Droit des Affaires,S5,27,2019,0
+1690,Tazi,Amine,M,2004-08-25,Meknès,Rabat-Salé-Kénitra,Lettres,Très Bien,Non,2023-08-28,Actif,Finance & Comptabilité,S2,21,2023,0
+1691,Lamrani,Nadia,M,2004-12-05,Marrakech,Souss-Massa,Sciences Math B,Assez Bien,Oui,2019-11-29,Diplômé,Génie Electrique,S5,21,2019,1
+1692,Alaoui,Fatima,M,2003-05-15,Tétouan,Rabat-Salé-Kénitra,Lettres,Très Bien,Oui,2022-02-07,Diplômé,Droit des Affaires,S2,23,2022,1
+1693,Ouali,Yassine,M,2000-11-14,Marrakech,Rabat-Salé-Kénitra,Lettres,Passable,Non,2019-06-16,Actif,Génie Civil,S5,25,2019,0
+1694,Saadi,Amina,M,2002-08-04,Fès,Souss-Massa,Sciences Math B,Assez Bien,Non,2022-01-19,Actif,Génie Informatique,S1,23,2022,0
+1695,Douiri,Meriem,M,2004-12-04,Fès,Casablanca-Settat,Sciences Physiques,Passable,Non,2020-02-12,Diplômé,Génie Civil,S4,21,2020,0
+1696,Ouali,Soufiane,F,2000-08-21,Casablanca,Tanger-Tétouan,Sciences de la Vie,Passable,Oui,2020-04-18,Actif,Génie Civil,S1,25,2020,1
+1697,Moussaoui,Khalid,M,1999-06-21,Tétouan,Tanger-Tétouan,Sciences Physiques,Passable,Non,2019-11-09,Abandon,Génie Informatique,S1,26,2019,0
+1698,Rachidi,Loubna,F,2002-05-23,Agadir,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Oui,2021-01-29,Actif,Marketing,S4,23,2021,1
+1699,El Fassi,Fatima,M,2003-06-03,Kenitra,Casablanca-Settat,Sciences Economiques,Bien,Oui,2023-07-18,Actif,Génie Electrique,S6,22,2023,1
+1700,Ouali,Amine,M,1998-05-08,Tanger,Marrakech-Safi,Sciences Math A,Bien,Non,2019-10-07,Actif,Génie Informatique,S5,28,2019,0
+1701,Gharbi,Amine,M,1998-04-02,Tétouan,Souss-Massa,Lettres,Passable,Non,2024-07-06,Abandon,Finance & Comptabilité,S1,28,2024,0
+1702,Tazi,Ayoub,M,1999-06-27,Kenitra,Souss-Massa,Sciences Physiques,Bien,Oui,2022-12-14,Actif,Finance & Comptabilité,S4,26,2022,1
+1703,Jabri,Omar,M,2000-04-25,Marrakech,Casablanca-Settat,Sciences Math B,Bien,Oui,2019-07-06,Diplômé,Finance & Comptabilité,S5,26,2019,1
+1704,Bennani,Ghita,M,2002-08-09,Agadir,Fès-Meknès,Sciences Physiques,Assez Bien,Oui,2019-08-09,Diplômé,Marketing,S4,23,2019,1
+1705,Wahbi,Hind,M,2003-01-26,Tanger,Souss-Massa,Sciences Math A,Bien,Non,2019-11-10,Actif,Génie Informatique,S4,23,2019,0
+1706,Saadi,Meriem,F,2004-10-30,Tanger,Marrakech-Safi,Sciences de la Vie,Assez Bien,Non,2019-02-24,Actif,Marketing,S6,21,2019,0
+1707,Rachidi,Omar,M,1999-01-25,Tétouan,Tanger-Tétouan,Lettres,Assez Bien,Oui,2019-01-17,Diplômé,Finance & Comptabilité,S1,27,2019,1
+1708,Ouali,Fatima,F,2005-06-12,Tanger,Tanger-Tétouan,Lettres,Très Bien,Oui,2019-03-13,Actif,Génie Civil,S4,20,2019,1
+1709,Ziani,Mehdi,M,2003-02-28,Kenitra,Casablanca-Settat,Sciences Physiques,Assez Bien,Non,2021-11-28,Diplômé,Génie Civil,S4,23,2021,0
+1710,Jabri,Karim,F,1998-02-12,Rabat,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2021-03-31,Actif,Marketing,S2,28,2021,0
+1711,Lamrani,Ayoub,F,1998-09-11,Marrakech,Casablanca-Settat,Sciences Economiques,Très Bien,Non,2020-02-07,Actif,Droit des Affaires,S1,27,2020,0
+1712,Idrissi,Amina,F,2000-12-19,Meknès,Souss-Massa,Sciences Math B,Bien,Oui,2023-02-11,Diplômé,Finance & Comptabilité,S5,25,2023,1
+1713,Chraibi,Ayoub,M,2005-06-03,Casablanca,Casablanca-Settat,Sciences de la Vie,Passable,Oui,2020-09-10,Actif,Finance & Comptabilité,S1,20,2020,1
+1714,Jabri,Karim,M,2004-11-19,Tanger,Souss-Massa,Sciences Physiques,Passable,Non,2021-01-09,Actif,Finance & Comptabilité,S6,21,2021,0
+1715,Rachidi,Rachid,M,2004-05-23,Marrakech,Casablanca-Settat,Sciences Physiques,Passable,Non,2021-04-11,Actif,Finance & Comptabilité,S6,21,2021,0
+1716,Idrissi,Sanaa,F,2002-03-21,Marrakech,Casablanca-Settat,Sciences Math B,Bien,Oui,2022-03-26,Actif,Génie Informatique,S4,24,2022,1
+1717,Rachidi,Karim,F,2003-05-08,Fès,Souss-Massa,Sciences Economiques,Assez Bien,Non,2022-02-26,Actif,Marketing,S2,23,2022,0
+1718,Ziani,Loubna,F,2005-09-26,Marrakech,Casablanca-Settat,Sciences Physiques,Passable,Oui,2023-06-10,Diplômé,Marketing,S2,20,2023,1
+1719,Bennani,Loubna,M,2004-07-20,Agadir,Fès-Meknès,Sciences Math B,Très Bien,Non,2024-08-27,Actif,Génie Informatique,S3,21,2024,0
+1720,Naciri,Hind,F,1999-10-04,Fès,Fès-Meknès,Lettres,Assez Bien,Oui,2020-10-31,Actif,Génie Civil,S3,26,2020,1
+1721,Lamrani,Hind,F,2004-08-26,Meknès,Fès-Meknès,Lettres,Passable,Oui,2020-02-28,Diplômé,Marketing,S2,21,2020,1
+1722,Alaoui,Amina,M,1999-11-21,Oujda,Casablanca-Settat,Sciences Math B,Assez Bien,Non,2023-09-19,Actif,Génie Electrique,S6,26,2023,0
+1723,Saadi,Amina,M,2001-06-30,Marrakech,Tanger-Tétouan,Sciences de la Vie,Bien,Non,2021-06-13,Actif,Marketing,S1,24,2021,0
+1724,Lamrani,Sanaa,F,2003-05-05,Tétouan,Marrakech-Safi,Lettres,Passable,Non,2023-12-11,Abandon,Droit des Affaires,S1,23,2023,0
+1725,Gharbi,Soufiane,F,2000-12-15,Tanger,Fès-Meknès,Sciences Math B,Assez Bien,Non,2022-12-02,Diplômé,Marketing,S4,25,2022,0
+1726,Saadi,Nadia,F,2002-01-26,Meknès,Souss-Massa,Sciences Math B,Bien,Oui,2018-10-27,Actif,Génie Civil,S6,24,2018,1
+1727,Hamidi,Fatima,M,1999-04-02,Meknès,Rabat-Salé-Kénitra,Lettres,Assez Bien,Non,2024-07-30,Diplômé,Génie Informatique,S3,27,2024,0
+1728,Moussaoui,Omar,F,2000-09-09,Oujda,Rabat-Salé-Kénitra,Sciences Math B,Assez Bien,Oui,2018-09-05,Actif,Génie Civil,S2,25,2018,1
+1729,Jabri,Mehdi,M,2003-11-01,Rabat,Souss-Massa,Sciences Physiques,Assez Bien,Non,2022-08-08,Diplômé,Génie Civil,S6,22,2022,0
+1730,Lamrani,Nadia,M,2001-01-27,Rabat,Souss-Massa,Sciences Math B,Passable,Non,2022-05-25,Actif,Génie Informatique,S4,25,2022,0
+1731,Jabri,Meriem,M,1998-05-29,Meknès,Souss-Massa,Sciences Math B,Passable,Non,2023-08-26,Actif,Droit des Affaires,S5,27,2023,0
+1732,Bennani,Yassine,F,2001-09-14,Kenitra,Casablanca-Settat,Sciences Math B,Assez Bien,Oui,2022-03-06,Actif,Génie Electrique,S6,24,2022,1
+1733,Jabri,Sanaa,F,2001-03-25,Tanger,Marrakech-Safi,Sciences Math B,Passable,Non,2024-07-08,Actif,Génie Informatique,S5,25,2024,0
+1734,Wahbi,Loubna,M,1998-07-09,Agadir,Fès-Meknès,Sciences Economiques,Passable,Non,2022-02-25,Actif,Génie Civil,S1,27,2022,0
+1735,Alaoui,Hamza,M,2000-06-01,Oujda,Souss-Massa,Sciences Physiques,Très Bien,Non,2021-10-06,Abandon,Génie Informatique,S4,25,2021,0
+1736,Tazi,Sanaa,F,2004-04-29,Oujda,Casablanca-Settat,Sciences Math B,Très Bien,Oui,2020-06-29,Actif,Droit des Affaires,S4,22,2020,1
+1737,Hamidi,Ayoub,M,1999-02-04,Agadir,Souss-Massa,Sciences Math A,Bien,Oui,2022-03-05,Actif,Marketing,S2,27,2022,1
+1738,Chraibi,Loubna,F,2005-09-12,Tétouan,Tanger-Tétouan,Sciences Math A,Très Bien,Non,2021-05-24,Actif,Marketing,S6,20,2021,0
+1739,Idrissi,Mehdi,M,1999-09-01,Casablanca,Marrakech-Safi,Sciences Math A,Passable,Non,2023-12-10,Actif,Génie Electrique,S4,26,2023,0
+1740,Ouali,Ghita,M,2002-12-01,Rabat,Tanger-Tétouan,Lettres,Très Bien,Oui,2019-06-09,Diplômé,Génie Electrique,S2,23,2019,1
+1741,Saadi,Karim,M,2002-06-27,Oujda,Tanger-Tétouan,Lettres,Passable,Non,2022-01-10,Actif,Génie Informatique,S3,23,2022,0
+1742,Wahbi,Karim,M,2002-04-25,Agadir,Souss-Massa,Sciences de la Vie,Très Bien,Oui,2024-04-25,Actif,Génie Informatique,S6,24,2024,1
+1743,Idrissi,Hind,F,2005-10-03,Rabat,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2021-03-24,Actif,Génie Informatique,S4,20,2021,0
+1744,Saadi,Khalid,M,2003-11-19,Kenitra,Fès-Meknès,Sciences Math A,Bien,Oui,2019-05-12,Diplômé,Finance & Comptabilité,S6,22,2019,1
+1745,Saadi,Meriem,M,2001-10-14,Meknès,Casablanca-Settat,Sciences Economiques,Très Bien,Oui,2021-12-25,Actif,Génie Civil,S6,24,2021,1
+1746,Rachidi,Soufiane,F,2001-11-04,Fès,Tanger-Tétouan,Sciences Math A,Bien,Non,2019-07-26,Actif,Génie Civil,S1,24,2019,0
+1747,Alaoui,Rim,M,2000-03-30,Meknès,Souss-Massa,Sciences de la Vie,Assez Bien,Oui,2022-07-22,Actif,Droit des Affaires,S6,26,2022,1
+1748,Chraibi,Rim,M,2000-03-30,Fès,Tanger-Tétouan,Sciences Physiques,Assez Bien,Non,2022-11-19,Actif,Génie Electrique,S1,26,2022,0
+1749,Karimi,Hamza,F,1999-02-24,Oujda,Casablanca-Settat,Sciences Economiques,Bien,Non,2021-12-06,Actif,Marketing,S4,27,2021,0
+1750,Idrissi,Karim,F,1998-05-04,Tanger,Marrakech-Safi,Sciences Physiques,Passable,Oui,2023-05-14,Diplômé,Droit des Affaires,S6,28,2023,1
+1751,Naciri,Mehdi,M,1999-02-26,Agadir,Casablanca-Settat,Sciences de la Vie,Bien,Non,2021-12-15,Diplômé,Droit des Affaires,S3,27,2021,0
+1752,Idrissi,Rachid,F,2002-02-17,Tanger,Casablanca-Settat,Sciences Economiques,Très Bien,Non,2020-06-16,Diplômé,Droit des Affaires,S5,24,2020,0
+1753,Karimi,Karim,F,2002-05-17,Agadir,Fès-Meknès,Sciences Physiques,Passable,Oui,2022-06-17,Actif,Marketing,S1,24,2022,1
+1754,Ziani,Ayoub,M,2000-02-07,Kenitra,Rabat-Salé-Kénitra,Sciences de la Vie,Bien,Non,2020-09-29,Actif,Marketing,S3,26,2020,0
+1755,Moussaoui,Ayoub,M,2003-08-07,Tétouan,Tanger-Tétouan,Sciences Math B,Très Bien,Non,2023-08-04,Actif,Marketing,S4,22,2023,0
+1756,Saadi,Soufiane,F,2004-12-05,Marrakech,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2021-07-30,Abandon,Génie Civil,S3,21,2021,0
+1757,Wahbi,Sanaa,F,2005-01-10,Tétouan,Marrakech-Safi,Sciences Physiques,Très Bien,Oui,2019-10-21,Actif,Finance & Comptabilité,S6,21,2019,1
+1758,Tazi,Mehdi,M,2004-01-12,Oujda,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Oui,2019-05-13,Diplômé,Droit des Affaires,S5,22,2019,1
+1759,Moussaoui,Loubna,F,2003-11-10,Agadir,Rabat-Salé-Kénitra,Sciences Math B,Très Bien,Oui,2021-11-10,Actif,Marketing,S5,22,2021,1
+1760,Ouali,Hamza,F,2002-03-30,Casablanca,Marrakech-Safi,Sciences Economiques,Bien,Non,2023-10-21,Actif,Génie Electrique,S5,24,2023,0
+1761,Wahbi,Amina,M,2004-11-07,Casablanca,Souss-Massa,Sciences Math B,Passable,Non,2021-02-16,Actif,Génie Informatique,S2,21,2021,0
+1762,Lamrani,Mehdi,M,2002-10-31,Rabat,Fès-Meknès,Sciences Math A,Assez Bien,Non,2024-04-20,Actif,Génie Informatique,S6,23,2024,0
+1763,Moussaoui,Rim,M,2003-08-07,Oujda,Marrakech-Safi,Sciences Economiques,Bien,Oui,2018-09-26,Abandon,Génie Electrique,S1,22,2018,1
+1764,Rachidi,Soufiane,F,2005-03-30,Casablanca,Rabat-Salé-Kénitra,Sciences de la Vie,Passable,Oui,2019-10-26,Abandon,Génie Electrique,S5,21,2019,1
+1765,Jabri,Sara,M,1999-05-25,Rabat,Casablanca-Settat,Sciences de la Vie,Bien,Non,2022-01-27,Actif,Génie Electrique,S3,26,2022,0
+1766,Karimi,Fatima,F,2001-04-21,Marrakech,Tanger-Tétouan,Sciences Economiques,Bien,Non,2023-10-21,Actif,Finance & Comptabilité,S6,25,2023,0
+1767,Jabri,Soufiane,F,1999-01-21,Oujda,Fès-Meknès,Sciences Math A,Passable,Oui,2022-02-12,Abandon,Génie Informatique,S1,27,2022,1
+1768,Idrissi,Mehdi,F,2002-05-17,Oujda,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Non,2021-06-05,Diplômé,Finance & Comptabilité,S5,24,2021,0
+1769,Douiri,Hind,M,2004-09-18,Casablanca,Souss-Massa,Sciences Physiques,Bien,Oui,2019-04-07,Actif,Marketing,S6,21,2019,1
+1770,Hamidi,Amina,F,2004-04-12,Meknès,Fès-Meknès,Sciences de la Vie,Assez Bien,Non,2022-10-20,Actif,Génie Informatique,S3,22,2022,0
+1771,Lamrani,Amina,M,2000-01-12,Fès,Marrakech-Safi,Lettres,Passable,Non,2024-01-12,Actif,Génie Electrique,S1,26,2024,0
+1772,Douiri,Rachid,F,2005-06-01,Marrakech,Rabat-Salé-Kénitra,Sciences Math B,Passable,Oui,2020-06-24,Actif,Finance & Comptabilité,S1,20,2020,1
+1773,Wahbi,Nadia,M,2005-05-21,Tanger,Casablanca-Settat,Sciences de la Vie,Assez Bien,Oui,2021-05-17,Actif,Génie Civil,S4,20,2021,1
+1774,Gharbi,Sanaa,M,2003-03-27,Marrakech,Casablanca-Settat,Sciences Math A,Très Bien,Non,2019-03-08,Actif,Génie Informatique,S3,23,2019,0
+1775,Hamidi,Soufiane,F,2001-12-17,Tanger,Souss-Massa,Lettres,Passable,Oui,2019-05-13,Actif,Droit des Affaires,S4,24,2019,1
+1776,Hamidi,Hind,M,2000-06-19,Rabat,Casablanca-Settat,Sciences Economiques,Bien,Non,2018-11-07,Actif,Génie Electrique,S5,25,2018,0
+1777,Saadi,Karim,M,2003-10-14,Agadir,Casablanca-Settat,Sciences de la Vie,Passable,Non,2020-05-08,Actif,Génie Electrique,S1,22,2020,0
+1778,Jabri,Amine,F,2004-03-10,Tanger,Tanger-Tétouan,Sciences Physiques,Assez Bien,Non,2021-01-21,Diplômé,Marketing,S3,22,2021,0
+1779,Ziani,Omar,F,2003-07-03,Rabat,Souss-Massa,Lettres,Très Bien,Non,2023-02-12,Diplômé,Finance & Comptabilité,S3,22,2023,0
+1780,Tazi,Loubna,F,1998-08-30,Agadir,Fès-Meknès,Sciences Math A,Bien,Non,2019-08-23,Actif,Marketing,S2,27,2019,0
+1781,Bennani,Amine,F,2004-12-15,Marrakech,Rabat-Salé-Kénitra,Sciences Math A,Passable,Oui,2019-05-14,Abandon,Génie Civil,S6,21,2019,1
+1782,Karimi,Mehdi,M,2004-07-13,Casablanca,Casablanca-Settat,Lettres,Assez Bien,Non,2021-06-04,Abandon,Droit des Affaires,S5,21,2021,0
+1783,Douiri,Hind,M,2003-07-14,Meknès,Tanger-Tétouan,Sciences Math B,Passable,Non,2023-06-22,Actif,Génie Civil,S6,22,2023,0
+1784,Hamidi,Ghita,M,1998-06-22,Tanger,Casablanca-Settat,Sciences de la Vie,Assez Bien,Non,2019-06-11,Actif,Marketing,S1,27,2019,0
+1785,Karimi,Loubna,M,1999-11-03,Fès,Souss-Massa,Sciences Economiques,Bien,Oui,2018-12-08,Diplômé,Génie Informatique,S5,26,2018,1
+1786,Idrissi,Karim,F,1998-06-13,Meknès,Souss-Massa,Sciences Math A,Passable,Oui,2019-03-16,Diplômé,Génie Informatique,S6,27,2019,1
+1787,Moussaoui,Soufiane,F,1999-04-10,Rabat,Casablanca-Settat,Sciences Physiques,Assez Bien,Non,2021-01-25,Abandon,Marketing,S2,27,2021,0
+1788,Gharbi,Amina,M,1999-05-12,Rabat,Marrakech-Safi,Sciences Physiques,Assez Bien,Oui,2023-10-13,Diplômé,Droit des Affaires,S2,27,2023,1
+1789,Karimi,Hamza,M,1999-12-01,Casablanca,Souss-Massa,Sciences Economiques,Très Bien,Non,2022-06-20,Diplômé,Droit des Affaires,S3,26,2022,0
+1790,Alaoui,Hamza,F,2004-09-08,Fès,Rabat-Salé-Kénitra,Sciences Physiques,Très Bien,Non,2020-03-23,Actif,Marketing,S2,21,2020,0
+1791,Wahbi,Mehdi,M,1999-12-04,Oujda,Fès-Meknès,Sciences Math B,Passable,Non,2021-08-01,Actif,Génie Informatique,S5,26,2021,0
+1792,El Fassi,Amina,F,2003-04-25,Rabat,Marrakech-Safi,Sciences Economiques,Bien,Non,2019-10-27,Actif,Finance & Comptabilité,S1,23,2019,0
+1793,Jabri,Ghita,M,2004-06-13,Marrakech,Marrakech-Safi,Sciences Physiques,Assez Bien,Non,2021-12-18,Actif,Droit des Affaires,S6,21,2021,0
+1794,Benali,Ghita,F,2002-11-27,Tétouan,Fès-Meknès,Sciences Math B,Assez Bien,Non,2020-02-27,Diplômé,Droit des Affaires,S4,23,2020,0
+1795,Benali,Rachid,M,1998-07-02,Fès,Casablanca-Settat,Sciences Physiques,Bien,Oui,2018-11-10,Actif,Marketing,S6,27,2018,1
+1796,Wahbi,Hamza,F,1999-09-21,Kenitra,Casablanca-Settat,Sciences de la Vie,Très Bien,Non,2022-01-06,Diplômé,Droit des Affaires,S5,26,2022,0
+1797,Karimi,Sara,F,2005-01-01,Oujda,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2020-10-07,Actif,Génie Electrique,S6,21,2020,0
+1798,El Fassi,Yassine,F,2002-09-28,Casablanca,Casablanca-Settat,Sciences Physiques,Bien,Non,2023-05-04,Actif,Finance & Comptabilité,S2,23,2023,0
+1799,Saadi,Karim,F,1999-06-30,Casablanca,Marrakech-Safi,Sciences Physiques,Assez Bien,Non,2020-06-16,Actif,Marketing,S6,26,2020,0
+1800,Douiri,Sara,F,2002-05-07,Agadir,Marrakech-Safi,Sciences Math B,Bien,Oui,2023-08-02,Actif,Génie Electrique,S2,24,2023,1
+1801,Alaoui,Hamza,F,1999-09-16,Rabat,Souss-Massa,Sciences de la Vie,Assez Bien,Non,2019-04-09,Diplômé,Génie Electrique,S3,26,2019,0
+1802,Ziani,Amine,M,1999-08-17,Meknès,Marrakech-Safi,Sciences de la Vie,Bien,Non,2019-03-01,Diplômé,Marketing,S3,26,2019,0
+1803,Karimi,Omar,F,2000-01-14,Marrakech,Fès-Meknès,Sciences Math B,Assez Bien,Oui,2019-07-04,Abandon,Marketing,S3,26,2019,1
+1804,Saadi,Hamza,F,2002-11-04,Oujda,Souss-Massa,Sciences de la Vie,Bien,Non,2022-07-21,Actif,Marketing,S5,23,2022,0
+1805,Saadi,Rim,M,2001-12-30,Rabat,Casablanca-Settat,Lettres,Passable,Non,2021-06-10,Actif,Génie Electrique,S6,24,2021,0
+1806,Rachidi,Ghita,F,2003-05-03,Fès,Casablanca-Settat,Sciences Physiques,Passable,Non,2024-04-13,Actif,Génie Civil,S4,23,2024,0
+1807,Lamrani,Yassine,F,2005-02-14,Meknès,Casablanca-Settat,Sciences Physiques,Très Bien,Non,2020-12-26,Actif,Marketing,S3,21,2020,0
+1808,Gharbi,Meriem,F,2003-08-31,Rabat,Casablanca-Settat,Sciences de la Vie,Passable,Non,2020-11-12,Diplômé,Marketing,S1,22,2020,0
+1809,Benali,Loubna,M,2005-02-14,Rabat,Rabat-Salé-Kénitra,Sciences Physiques,Assez Bien,Oui,2019-04-03,Diplômé,Finance & Comptabilité,S1,21,2019,1
+1810,Jabri,Hind,M,2004-09-10,Rabat,Souss-Massa,Sciences de la Vie,Passable,Non,2022-08-14,Diplômé,Marketing,S3,21,2022,0
+1811,Saadi,Hind,F,2005-04-26,Agadir,Souss-Massa,Sciences Math B,Passable,Oui,2018-12-10,Actif,Droit des Affaires,S3,21,2018,1
+1812,Douiri,Meriem,F,1998-04-15,Agadir,Rabat-Salé-Kénitra,Sciences Economiques,Passable,Non,2020-03-26,Diplômé,Droit des Affaires,S4,28,2020,0
+1813,Chraibi,Nadia,M,2004-02-18,Tanger,Marrakech-Safi,Sciences Math B,Passable,Non,2022-04-25,Actif,Finance & Comptabilité,S4,22,2022,0
+1814,Naciri,Khalid,F,1998-01-17,Marrakech,Marrakech-Safi,Sciences Economiques,Très Bien,Oui,2020-06-19,Diplômé,Finance & Comptabilité,S5,28,2020,1
+1815,Saadi,Hind,F,1999-01-28,Meknès,Fès-Meknès,Lettres,Assez Bien,Oui,2022-11-12,Actif,Génie Civil,S5,27,2022,1
+1816,Chraibi,Ayoub,M,1999-03-01,Marrakech,Tanger-Tétouan,Sciences Math B,Très Bien,Non,2023-03-15,Actif,Marketing,S1,27,2023,0
+1817,Ziani,Karim,F,2003-12-17,Marrakech,Marrakech-Safi,Sciences Math A,Bien,Oui,2019-04-14,Actif,Génie Civil,S4,22,2019,1
+1818,Benali,Sara,M,1999-07-26,Rabat,Souss-Massa,Lettres,Assez Bien,Non,2018-12-14,Abandon,Droit des Affaires,S6,26,2018,0
+1819,El Fassi,Amina,M,2003-09-08,Kenitra,Casablanca-Settat,Sciences Physiques,Bien,Oui,2024-02-19,Actif,Génie Electrique,S5,22,2024,1
+1820,El Fassi,Ayoub,M,2001-01-25,Tétouan,Marrakech-Safi,Sciences Math B,Assez Bien,Oui,2020-10-11,Actif,Génie Civil,S6,25,2020,1
+1821,Ziani,Rim,F,1998-08-30,Casablanca,Marrakech-Safi,Sciences Economiques,Bien,Non,2019-11-03,Diplômé,Génie Informatique,S5,27,2019,0
+1822,Karimi,Meriem,M,2004-03-29,Tétouan,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Non,2019-11-08,Actif,Génie Informatique,S3,22,2019,0
+1823,Chraibi,Ayoub,M,2000-02-28,Marrakech,Casablanca-Settat,Sciences de la Vie,Assez Bien,Non,2022-01-13,Actif,Génie Informatique,S4,26,2022,0
+1824,Idrissi,Omar,M,1999-12-16,Oujda,Fès-Meknès,Sciences Math B,Très Bien,Oui,2021-01-13,Actif,Finance & Comptabilité,S5,26,2021,1
+1825,Douiri,Rachid,M,2000-01-29,Agadir,Fès-Meknès,Sciences Math B,Très Bien,Non,2019-05-09,Actif,Droit des Affaires,S3,26,2019,0
+1826,Wahbi,Ghita,F,2005-10-20,Fès,Fès-Meknès,Lettres,Très Bien,Non,2021-01-03,Abandon,Génie Informatique,S6,20,2021,0
+1827,Ouali,Mehdi,M,2000-02-15,Marrakech,Marrakech-Safi,Sciences Math B,Assez Bien,Non,2021-12-07,Diplômé,Droit des Affaires,S6,26,2021,0
+1828,Bennani,Rachid,M,2005-08-05,Meknès,Fès-Meknès,Sciences de la Vie,Bien,Non,2020-03-14,Actif,Génie Civil,S1,20,2020,0
+1829,Bennani,Rachid,F,2004-02-26,Tétouan,Souss-Massa,Sciences Math A,Assez Bien,Non,2022-09-09,Abandon,Marketing,S2,22,2022,0
+1830,Bennani,Sanaa,M,1998-03-20,Oujda,Fès-Meknès,Sciences Math B,Assez Bien,Non,2021-03-07,Actif,Finance & Comptabilité,S4,28,2021,0
+1831,Idrissi,Khalid,M,2000-05-05,Fès,Fès-Meknès,Sciences de la Vie,Passable,Oui,2021-11-17,Actif,Finance & Comptabilité,S1,26,2021,1
+1832,Tazi,Mehdi,M,2004-11-19,Rabat,Souss-Massa,Sciences de la Vie,Bien,Non,2019-11-07,Actif,Génie Informatique,S1,21,2019,0
+1833,Naciri,Sanaa,M,2005-03-13,Rabat,Rabat-Salé-Kénitra,Sciences Math B,Passable,Oui,2024-06-07,Actif,Génie Electrique,S4,21,2024,1
+1834,Rachidi,Soufiane,M,2001-12-10,Marrakech,Casablanca-Settat,Lettres,Assez Bien,Non,2021-04-26,Actif,Génie Electrique,S2,24,2021,0
+1835,Rachidi,Loubna,M,2004-11-01,Rabat,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Oui,2020-12-14,Abandon,Marketing,S3,21,2020,1
+1836,Karimi,Fatima,M,2003-11-05,Tétouan,Souss-Massa,Sciences Economiques,Passable,Non,2021-02-14,Diplômé,Droit des Affaires,S1,22,2021,0
+1837,Ziani,Rachid,F,2003-11-19,Meknès,Souss-Massa,Lettres,Passable,Non,2019-12-16,Actif,Génie Civil,S1,22,2019,0
+1838,Ouali,Nadia,M,2000-10-28,Agadir,Casablanca-Settat,Sciences Physiques,Passable,Oui,2019-05-05,Actif,Génie Informatique,S2,25,2019,1
+1839,Karimi,Ayoub,F,2000-04-24,Meknès,Rabat-Salé-Kénitra,Sciences de la Vie,Très Bien,Oui,2021-05-18,Diplômé,Droit des Affaires,S3,26,2021,1
+1840,Ziani,Fatima,F,1998-03-28,Agadir,Casablanca-Settat,Sciences Physiques,Assez Bien,Oui,2021-03-15,Abandon,Génie Civil,S1,28,2021,1
+1841,Bennani,Amine,M,2003-09-22,Marrakech,Fès-Meknès,Sciences Physiques,Assez Bien,Non,2021-12-05,Diplômé,Droit des Affaires,S6,22,2021,0
+1842,Benali,Ayoub,F,1999-02-12,Fès,Tanger-Tétouan,Sciences Economiques,Bien,Non,2021-08-10,Actif,Génie Electrique,S2,27,2021,0
+1843,Bennani,Nadia,M,2005-06-04,Tanger,Fès-Meknès,Sciences Economiques,Très Bien,Oui,2023-09-09,Diplômé,Génie Electrique,S4,20,2023,1
+1844,Douiri,Mehdi,F,2002-07-27,Rabat,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2020-07-20,Actif,Génie Informatique,S2,23,2020,0
+1845,Hamidi,Fatima,M,1998-05-28,Fès,Souss-Massa,Sciences de la Vie,Bien,Oui,2022-09-24,Actif,Génie Electrique,S2,27,2022,1
+1846,Hamidi,Sara,M,2004-05-13,Kenitra,Fès-Meknès,Sciences Math A,Bien,Non,2021-04-17,Actif,Génie Electrique,S5,22,2021,0
+1847,Jabri,Hind,M,1998-08-20,Tétouan,Rabat-Salé-Kénitra,Lettres,Bien,Non,2019-12-22,Actif,Marketing,S6,27,2019,0
+1848,Chraibi,Khalid,F,2003-05-05,Tétouan,Tanger-Tétouan,Sciences Math B,Passable,Oui,2020-08-07,Actif,Marketing,S1,23,2020,1
+1849,Gharbi,Ghita,M,1999-01-01,Tétouan,Fès-Meknès,Sciences Math A,Très Bien,Non,2021-10-12,Actif,Génie Electrique,S3,27,2021,0
+1850,Idrissi,Rim,F,2002-08-02,Tanger,Marrakech-Safi,Sciences Math B,Assez Bien,Oui,2020-09-23,Actif,Génie Informatique,S4,23,2020,1
+1851,Gharbi,Nadia,M,1999-03-12,Casablanca,Tanger-Tétouan,Sciences Physiques,Assez Bien,Oui,2023-03-18,Diplômé,Génie Informatique,S6,27,2023,1
+1852,Wahbi,Amina,F,1999-02-03,Tanger,Casablanca-Settat,Sciences de la Vie,Assez Bien,Oui,2020-04-10,Actif,Droit des Affaires,S5,27,2020,1
+1853,Chraibi,Rachid,M,2001-05-19,Fès,Souss-Massa,Lettres,Passable,Oui,2022-04-27,Actif,Génie Electrique,S2,24,2022,1
+1854,Gharbi,Hamza,F,2001-11-15,Kenitra,Souss-Massa,Sciences Math A,Passable,Non,2022-10-02,Actif,Génie Electrique,S4,24,2022,0
+1855,Alaoui,Rachid,M,2004-12-21,Tétouan,Rabat-Salé-Kénitra,Sciences de la Vie,Bien,Non,2023-09-22,Abandon,Finance & Comptabilité,S3,21,2023,0
+1856,Ouali,Omar,M,2005-01-31,Kenitra,Fès-Meknès,Lettres,Passable,Non,2019-03-26,Actif,Droit des Affaires,S4,21,2019,0
+1857,Rachidi,Amina,M,1999-07-17,Fès,Fès-Meknès,Sciences Physiques,Assez Bien,Oui,2019-02-12,Actif,Marketing,S4,26,2019,1
+1858,Bennani,Meriem,M,2004-10-25,Meknès,Casablanca-Settat,Sciences Physiques,Assez Bien,Oui,2024-02-20,Actif,Marketing,S6,21,2024,1
+1859,Saadi,Soufiane,F,2001-07-08,Tanger,Fès-Meknès,Sciences Physiques,Passable,Non,2024-05-16,Diplômé,Génie Informatique,S6,24,2024,0
+1860,Karimi,Ayoub,M,2000-02-12,Casablanca,Fès-Meknès,Sciences Physiques,Très Bien,Non,2019-07-30,Abandon,Génie Civil,S1,26,2019,0
+1861,Benali,Meriem,F,2004-07-25,Fès,Casablanca-Settat,Sciences Economiques,Passable,Oui,2019-10-08,Actif,Génie Civil,S3,21,2019,1
+1862,Idrissi,Hind,M,2003-07-31,Oujda,Casablanca-Settat,Sciences Economiques,Assez Bien,Non,2019-10-19,Actif,Génie Electrique,S2,22,2019,0
+1863,Karimi,Meriem,M,2005-01-11,Meknès,Marrakech-Safi,Sciences Physiques,Assez Bien,Non,2018-10-15,Abandon,Génie Electrique,S1,21,2018,0
+1864,Karimi,Yassine,M,2001-09-05,Rabat,Souss-Massa,Sciences Physiques,Passable,Non,2018-11-01,Actif,Droit des Affaires,S1,24,2018,0
+1865,Rachidi,Karim,M,2003-12-26,Fès,Marrakech-Safi,Sciences Math A,Passable,Non,2021-01-15,Diplômé,Finance & Comptabilité,S2,22,2021,0
+1866,Chraibi,Khalid,F,2002-04-23,Oujda,Casablanca-Settat,Sciences de la Vie,Bien,Oui,2022-10-01,Actif,Finance & Comptabilité,S5,24,2022,1
+1867,Idrissi,Soufiane,M,2000-09-18,Tétouan,Souss-Massa,Sciences Math A,Très Bien,Oui,2018-09-19,Actif,Génie Informatique,S6,25,2018,1
+1868,Jabri,Ayoub,M,2004-08-12,Rabat,Souss-Massa,Sciences Physiques,Passable,Non,2019-08-31,Actif,Droit des Affaires,S3,21,2019,0
+1869,Ziani,Nadia,F,2001-05-31,Kenitra,Tanger-Tétouan,Lettres,Bien,Oui,2021-10-15,Actif,Génie Civil,S4,24,2021,1
+1870,Hamidi,Omar,F,1998-12-26,Casablanca,Souss-Massa,Sciences Economiques,Bien,Non,2020-04-02,Diplômé,Finance & Comptabilité,S5,27,2020,0
+1871,Ouali,Hamza,M,2000-07-09,Agadir,Tanger-Tétouan,Sciences Math B,Très Bien,Non,2020-02-28,Abandon,Génie Civil,S3,25,2020,0
+1872,Douiri,Sanaa,M,2004-07-04,Agadir,Souss-Massa,Sciences Economiques,Assez Bien,Oui,2023-05-27,Actif,Droit des Affaires,S6,21,2023,1
+1873,Wahbi,Sara,F,2004-11-15,Marrakech,Tanger-Tétouan,Sciences Economiques,Assez Bien,Non,2018-10-25,Diplômé,Finance & Comptabilité,S6,21,2018,0
+1874,Idrissi,Sara,M,2000-08-20,Meknès,Rabat-Salé-Kénitra,Lettres,Assez Bien,Oui,2020-10-17,Actif,Marketing,S3,25,2020,1
+1875,El Fassi,Hind,M,2003-01-02,Tétouan,Souss-Massa,Lettres,Bien,Non,2018-10-12,Actif,Génie Electrique,S4,23,2018,0
+1876,Jabri,Meriem,M,2005-11-23,Meknès,Marrakech-Safi,Sciences Economiques,Bien,Non,2022-04-13,Actif,Finance & Comptabilité,S5,20,2022,0
+1877,El Fassi,Ghita,F,2002-06-02,Agadir,Tanger-Tétouan,Sciences Math B,Passable,Non,2019-04-19,Abandon,Finance & Comptabilité,S6,23,2019,0
+1878,Chraibi,Meriem,F,2002-06-29,Kenitra,Tanger-Tétouan,Sciences Physiques,Assez Bien,Non,2019-11-27,Diplômé,Droit des Affaires,S6,23,2019,0
+1879,Benali,Hind,M,2004-01-26,Marrakech,Souss-Massa,Sciences Physiques,Très Bien,Non,2022-11-24,Diplômé,Génie Informatique,S5,22,2022,0
+1880,Gharbi,Loubna,M,1998-08-05,Oujda,Souss-Massa,Sciences Physiques,Bien,Non,2022-06-13,Diplômé,Marketing,S5,27,2022,0
+1881,Karimi,Yassine,M,1999-01-13,Rabat,Tanger-Tétouan,Lettres,Très Bien,Non,2022-09-07,Diplômé,Génie Electrique,S4,27,2022,0
+1882,Bennani,Fatima,F,1998-04-29,Casablanca,Casablanca-Settat,Sciences Economiques,Bien,Oui,2021-10-26,Abandon,Marketing,S4,28,2021,1
+1883,Ziani,Rim,M,1998-07-09,Tétouan,Fès-Meknès,Sciences de la Vie,Assez Bien,Oui,2021-12-30,Diplômé,Droit des Affaires,S3,27,2021,1
+1884,Karimi,Mehdi,M,2005-09-15,Rabat,Souss-Massa,Lettres,Bien,Oui,2021-01-28,Abandon,Droit des Affaires,S5,20,2021,1
+1885,Rachidi,Amine,F,1999-01-05,Casablanca,Souss-Massa,Sciences de la Vie,Bien,Oui,2018-11-24,Actif,Génie Electrique,S2,27,2018,1
+1886,Douiri,Sanaa,M,2002-12-07,Tanger,Rabat-Salé-Kénitra,Sciences Math A,Passable,Non,2021-07-20,Actif,Marketing,S3,23,2021,0
+1887,Rachidi,Khalid,F,2004-01-06,Fès,Fès-Meknès,Sciences de la Vie,Assez Bien,Non,2018-10-19,Actif,Marketing,S2,22,2018,0
+1888,Karimi,Sanaa,M,1999-10-14,Casablanca,Marrakech-Safi,Sciences Economiques,Bien,Non,2021-11-12,Actif,Génie Informatique,S3,26,2021,0
+1889,Naciri,Sara,M,2003-02-26,Casablanca,Souss-Massa,Sciences Physiques,Passable,Oui,2018-11-08,Actif,Génie Civil,S2,23,2018,1
+1890,Jabri,Khalid,M,2002-02-20,Meknès,Souss-Massa,Sciences de la Vie,Bien,Non,2023-04-29,Actif,Marketing,S4,24,2023,0
+1891,Tazi,Sara,F,2000-02-09,Kenitra,Souss-Massa,Lettres,Bien,Oui,2023-01-16,Diplômé,Droit des Affaires,S3,26,2023,1
+1892,Wahbi,Hamza,F,2004-08-18,Tanger,Fès-Meknès,Sciences Math B,Très Bien,Non,2023-10-14,Actif,Génie Electrique,S3,21,2023,0
+1893,Saadi,Loubna,F,2000-02-20,Kenitra,Rabat-Salé-Kénitra,Sciences Math B,Passable,Non,2021-06-12,Actif,Génie Electrique,S1,26,2021,0
+1894,Rachidi,Omar,M,2002-09-13,Meknès,Tanger-Tétouan,Lettres,Assez Bien,Oui,2019-11-20,Actif,Génie Informatique,S2,23,2019,1
+1895,Chraibi,Sanaa,F,2004-01-17,Meknès,Tanger-Tétouan,Sciences Physiques,Bien,Oui,2022-07-03,Abandon,Génie Civil,S3,22,2022,1
+1896,Bennani,Loubna,M,2004-07-26,Meknès,Casablanca-Settat,Sciences de la Vie,Assez Bien,Oui,2024-07-13,Actif,Génie Electrique,S3,21,2024,1
+1897,Benali,Hind,M,2001-08-04,Rabat,Casablanca-Settat,Lettres,Bien,Non,2019-05-20,Actif,Génie Informatique,S4,24,2019,0
+1898,Ouali,Karim,F,2001-06-03,Kenitra,Souss-Massa,Sciences Economiques,Bien,Non,2023-09-23,Diplômé,Génie Electrique,S2,24,2023,0
+1899,Lamrani,Khalid,M,1999-06-07,Kenitra,Rabat-Salé-Kénitra,Sciences Economiques,Passable,Non,2021-02-13,Diplômé,Finance & Comptabilité,S5,26,2021,0
+1900,Bennani,Soufiane,M,1999-06-06,Tétouan,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Oui,2021-08-30,Actif,Droit des Affaires,S2,26,2021,1
+1901,Jabri,Ayoub,M,2000-02-22,Marrakech,Fès-Meknès,Sciences Math A,Assez Bien,Non,2022-12-05,Actif,Marketing,S6,26,2022,0
+1902,Alaoui,Loubna,M,2004-05-09,Tanger,Fès-Meknès,Sciences Math A,Assez Bien,Non,2018-12-01,Actif,Génie Civil,S5,22,2018,0
+1903,Chraibi,Amine,M,2000-07-24,Rabat,Rabat-Salé-Kénitra,Sciences Math B,Très Bien,Non,2019-01-05,Abandon,Marketing,S3,25,2019,0
+1904,Idrissi,Ghita,F,2004-02-09,Tanger,Casablanca-Settat,Sciences Physiques,Bien,Oui,2018-11-19,Actif,Marketing,S2,22,2018,1
+1905,Ziani,Ghita,M,2002-08-16,Rabat,Fès-Meknès,Sciences Math B,Bien,Oui,2023-09-22,Actif,Finance & Comptabilité,S2,23,2023,1
+1906,Ziani,Fatima,F,1999-05-03,Kenitra,Marrakech-Safi,Sciences Physiques,Bien,Non,2021-05-10,Actif,Génie Civil,S6,27,2021,0
+1907,Alaoui,Mehdi,F,2003-01-25,Fès,Rabat-Salé-Kénitra,Sciences Physiques,Assez Bien,Non,2021-03-04,Actif,Marketing,S6,23,2021,0
+1908,Jabri,Fatima,M,2000-04-25,Marrakech,Marrakech-Safi,Lettres,Très Bien,Oui,2020-07-25,Diplômé,Génie Informatique,S6,26,2020,1
+1909,Ziani,Khalid,M,2003-12-12,Kenitra,Marrakech-Safi,Sciences Physiques,Bien,Oui,2018-09-25,Actif,Génie Electrique,S2,22,2018,1
+1910,Benali,Sanaa,M,2005-10-08,Agadir,Casablanca-Settat,Lettres,Bien,Non,2019-02-03,Actif,Droit des Affaires,S2,20,2019,0
+1911,Gharbi,Rachid,F,2004-09-27,Meknès,Tanger-Tétouan,Sciences Physiques,Très Bien,Non,2023-08-18,Actif,Génie Electrique,S2,21,2023,0
+1912,Saadi,Loubna,M,2003-06-27,Tétouan,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2022-12-02,Actif,Droit des Affaires,S1,22,2022,0
+1913,Tazi,Sanaa,F,2002-10-15,Rabat,Tanger-Tétouan,Lettres,Bien,Non,2024-01-19,Actif,Génie Informatique,S1,23,2024,0
+1914,Rachidi,Mehdi,M,1999-11-17,Tanger,Souss-Massa,Sciences de la Vie,Passable,Non,2023-05-31,Diplômé,Génie Electrique,S3,26,2023,0
+1915,Jabri,Omar,F,2003-12-01,Meknès,Fès-Meknès,Sciences Physiques,Assez Bien,Oui,2021-08-16,Diplômé,Finance & Comptabilité,S5,22,2021,1
+1916,Gharbi,Ghita,M,2003-12-10,Fès,Fès-Meknès,Sciences de la Vie,Assez Bien,Non,2023-02-15,Abandon,Génie Informatique,S2,22,2023,0
+1917,Ziani,Soufiane,M,2002-04-17,Casablanca,Rabat-Salé-Kénitra,Sciences Physiques,Très Bien,Non,2018-09-19,Diplômé,Finance & Comptabilité,S4,24,2018,0
+1918,Ouali,Khalid,F,2001-05-30,Fès,Casablanca-Settat,Lettres,Très Bien,Non,2022-07-09,Diplômé,Génie Civil,S3,24,2022,0
+1919,Saadi,Soufiane,F,1998-02-08,Rabat,Fès-Meknès,Sciences Economiques,Bien,Non,2021-12-30,Actif,Génie Electrique,S3,28,2021,0
+1920,Chraibi,Sara,M,2004-12-19,Meknès,Fès-Meknès,Sciences Economiques,Bien,Oui,2022-07-12,Diplômé,Finance & Comptabilité,S2,21,2022,1
+1921,Saadi,Sara,F,2000-02-19,Rabat,Tanger-Tétouan,Sciences de la Vie,Bien,Oui,2019-06-04,Diplômé,Génie Electrique,S2,26,2019,1
+1922,Moussaoui,Sara,M,2001-06-10,Oujda,Fès-Meknès,Sciences de la Vie,Très Bien,Oui,2020-09-14,Diplômé,Génie Civil,S5,24,2020,1
+1923,Ouali,Mehdi,F,2004-01-06,Tétouan,Casablanca-Settat,Sciences Math B,Assez Bien,Oui,2020-03-05,Actif,Marketing,S6,22,2020,1
+1924,Lamrani,Rachid,F,2005-06-01,Tétouan,Fès-Meknès,Sciences Math B,Assez Bien,Oui,2021-11-20,Actif,Génie Electrique,S1,20,2021,1
+1925,Lamrani,Meriem,M,2003-04-12,Casablanca,Fès-Meknès,Sciences Math A,Passable,Non,2020-05-31,Diplômé,Génie Civil,S6,23,2020,0
+1926,Douiri,Soufiane,M,1998-10-29,Tanger,Marrakech-Safi,Sciences Math B,Bien,Non,2019-04-25,Diplômé,Génie Informatique,S3,27,2019,0
+1927,Gharbi,Ayoub,M,2004-04-04,Marrakech,Casablanca-Settat,Lettres,Bien,Non,2021-05-25,Abandon,Génie Electrique,S3,22,2021,0
+1928,Lamrani,Mehdi,M,1999-10-09,Rabat,Fès-Meknès,Sciences Math B,Assez Bien,Non,2024-06-03,Actif,Génie Informatique,S2,26,2024,0
+1929,Ouali,Ghita,F,1999-10-25,Casablanca,Souss-Massa,Lettres,Passable,Non,2024-02-25,Actif,Génie Civil,S3,26,2024,0
+1930,Saadi,Soufiane,M,2004-04-02,Marrakech,Souss-Massa,Sciences Physiques,Très Bien,Non,2022-08-30,Actif,Génie Informatique,S4,22,2022,0
+1931,Karimi,Mehdi,M,2002-10-26,Casablanca,Casablanca-Settat,Lettres,Passable,Non,2024-07-27,Diplômé,Finance & Comptabilité,S5,23,2024,0
+1932,Naciri,Rachid,F,2004-02-29,Marrakech,Casablanca-Settat,Lettres,Bien,Oui,2021-12-21,Actif,Marketing,S2,22,2021,1
+1933,Wahbi,Ghita,F,1998-09-13,Oujda,Fès-Meknès,Lettres,Très Bien,Oui,2022-06-23,Actif,Génie Informatique,S5,27,2022,1
+1934,Benali,Rachid,M,1999-08-21,Agadir,Fès-Meknès,Sciences Math A,Assez Bien,Non,2024-02-28,Abandon,Finance & Comptabilité,S3,26,2024,0
+1935,Rachidi,Amina,M,1999-10-24,Kenitra,Casablanca-Settat,Sciences Math B,Passable,Non,2022-01-04,Actif,Marketing,S1,26,2022,0
+1936,Chraibi,Khalid,M,1998-08-23,Kenitra,Tanger-Tétouan,Sciences Math B,Bien,Non,2022-06-26,Diplômé,Génie Civil,S1,27,2022,0
+1937,Lamrani,Ghita,M,2001-09-30,Tanger,Tanger-Tétouan,Sciences de la Vie,Bien,Oui,2019-09-08,Actif,Génie Civil,S4,24,2019,1
+1938,Jabri,Hind,F,2005-01-25,Marrakech,Casablanca-Settat,Sciences Math A,Assez Bien,Oui,2022-10-30,Diplômé,Génie Electrique,S4,21,2022,1
+1939,Lamrani,Hamza,M,2005-12-17,Agadir,Casablanca-Settat,Sciences Math A,Très Bien,Non,2020-12-27,Actif,Finance & Comptabilité,S2,20,2020,0
+1940,Douiri,Rachid,F,2000-02-09,Marrakech,Tanger-Tétouan,Sciences Math A,Passable,Oui,2022-05-08,Abandon,Droit des Affaires,S4,26,2022,1
+1941,Naciri,Soufiane,M,2005-02-01,Tanger,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Non,2020-01-17,Abandon,Marketing,S3,21,2020,0
+1942,Tazi,Soufiane,F,1998-08-01,Rabat,Souss-Massa,Sciences Economiques,Bien,Non,2020-08-03,Actif,Génie Electrique,S2,27,2020,0
+1943,Alaoui,Loubna,F,1999-04-08,Casablanca,Marrakech-Safi,Sciences Math A,Très Bien,Non,2024-05-21,Actif,Génie Electrique,S1,27,2024,0
+1944,Wahbi,Meriem,F,2004-10-19,Agadir,Tanger-Tétouan,Sciences Math A,Passable,Non,2019-07-12,Actif,Génie Civil,S6,21,2019,0
+1945,Rachidi,Hamza,M,1998-10-10,Meknès,Tanger-Tétouan,Sciences de la Vie,Bien,Non,2021-07-07,Diplômé,Génie Informatique,S5,27,2021,0
+1946,Ouali,Hind,M,2002-01-26,Tanger,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Non,2019-06-10,Diplômé,Marketing,S5,24,2019,0
+1947,Benali,Meriem,M,2001-12-01,Kenitra,Souss-Massa,Sciences Math A,Assez Bien,Non,2019-05-16,Actif,Droit des Affaires,S3,24,2019,0
+1948,Hamidi,Yassine,F,1998-03-29,Rabat,Souss-Massa,Sciences Math A,Passable,Non,2020-03-28,Diplômé,Génie Civil,S6,28,2020,0
+1949,Tazi,Sanaa,F,2000-12-03,Tanger,Fès-Meknès,Sciences Physiques,Très Bien,Oui,2020-03-27,Actif,Génie Civil,S6,25,2020,1
+1950,Moussaoui,Rachid,F,1999-04-06,Tétouan,Marrakech-Safi,Sciences Economiques,Passable,Oui,2021-07-09,Diplômé,Droit des Affaires,S3,27,2021,1
+1951,Bennani,Fatima,F,2004-05-14,Rabat,Marrakech-Safi,Sciences Math B,Assez Bien,Oui,2022-12-01,Abandon,Génie Informatique,S4,22,2022,1
+1952,Saadi,Rim,F,2004-10-04,Oujda,Casablanca-Settat,Sciences Math A,Assez Bien,Non,2019-10-28,Actif,Finance & Comptabilité,S3,21,2019,0
+1953,Rachidi,Hamza,M,2002-09-21,Oujda,Rabat-Salé-Kénitra,Lettres,Très Bien,Non,2022-09-29,Actif,Finance & Comptabilité,S5,23,2022,0
+1954,Benali,Hind,F,2001-10-08,Kenitra,Fès-Meknès,Sciences de la Vie,Bien,Non,2022-06-28,Actif,Droit des Affaires,S6,24,2022,0
+1955,Hamidi,Yassine,M,2005-07-06,Agadir,Marrakech-Safi,Sciences Physiques,Bien,Oui,2020-09-27,Actif,Marketing,S2,20,2020,1
+1956,Jabri,Ghita,M,1999-05-30,Casablanca,Tanger-Tétouan,Sciences Math B,Assez Bien,Oui,2021-09-09,Actif,Génie Informatique,S5,26,2021,1
+1957,Wahbi,Meriem,M,1999-12-04,Oujda,Tanger-Tétouan,Sciences Math B,Bien,Non,2022-12-23,Actif,Génie Informatique,S6,26,2022,0
+1958,El Fassi,Amine,M,2002-07-12,Tétouan,Tanger-Tétouan,Lettres,Bien,Oui,2019-11-03,Actif,Génie Electrique,S4,23,2019,1
+1959,Karimi,Hamza,M,2003-08-29,Marrakech,Fès-Meknès,Sciences Physiques,Très Bien,Non,2024-03-14,Actif,Génie Informatique,S3,22,2024,0
+1960,Rachidi,Hamza,F,1998-01-23,Agadir,Souss-Massa,Sciences de la Vie,Très Bien,Non,2019-03-23,Actif,Droit des Affaires,S6,28,2019,0
+1961,Saadi,Nadia,M,2004-09-26,Marrakech,Souss-Massa,Lettres,Passable,Non,2024-02-14,Actif,Marketing,S1,21,2024,0
+1962,Douiri,Sara,F,2000-11-19,Tanger,Marrakech-Safi,Sciences Math B,Bien,Oui,2019-07-04,Actif,Génie Informatique,S6,25,2019,1
+1963,Alaoui,Hamza,M,2003-01-05,Rabat,Souss-Massa,Sciences Math B,Passable,Oui,2023-04-15,Diplômé,Génie Electrique,S4,23,2023,1
+1964,Bennani,Meriem,M,2003-11-26,Tétouan,Fès-Meknès,Sciences Economiques,Assez Bien,Oui,2018-09-14,Diplômé,Finance & Comptabilité,S1,22,2018,1
+1965,Idrissi,Amina,M,2001-07-28,Rabat,Casablanca-Settat,Sciences Math B,Assez Bien,Non,2023-10-05,Actif,Génie Informatique,S2,24,2023,0
+1966,Gharbi,Soufiane,M,2001-02-08,Fès,Casablanca-Settat,Sciences Math A,Assez Bien,Non,2024-01-14,Actif,Génie Informatique,S6,25,2024,0
+1967,Karimi,Ghita,F,2003-12-24,Kenitra,Souss-Massa,Sciences Math A,Assez Bien,Oui,2021-08-16,Diplômé,Marketing,S5,22,2021,1
+1968,Wahbi,Khalid,M,1998-12-28,Casablanca,Rabat-Salé-Kénitra,Lettres,Bien,Non,2020-08-23,Abandon,Droit des Affaires,S1,27,2020,0
+1969,Alaoui,Mehdi,F,2003-12-17,Casablanca,Casablanca-Settat,Sciences Physiques,Assez Bien,Non,2020-10-19,Actif,Droit des Affaires,S3,22,2020,0
+1970,Wahbi,Nadia,M,2003-03-15,Casablanca,Marrakech-Safi,Sciences Physiques,Bien,Oui,2022-01-16,Actif,Génie Electrique,S1,23,2022,1
+1971,Ouali,Sara,F,2001-07-08,Fès,Marrakech-Safi,Sciences de la Vie,Assez Bien,Non,2020-02-11,Actif,Génie Informatique,S4,24,2020,0
+1972,Chraibi,Hamza,F,1999-05-30,Casablanca,Souss-Massa,Sciences de la Vie,Passable,Non,2020-11-06,Actif,Marketing,S5,26,2020,0
+1973,Idrissi,Fatima,F,1999-03-25,Oujda,Marrakech-Safi,Sciences Economiques,Bien,Oui,2019-08-10,Actif,Génie Electrique,S2,27,2019,1
+1974,Douiri,Omar,M,2003-04-08,Agadir,Tanger-Tétouan,Sciences Physiques,Assez Bien,Oui,2022-03-26,Actif,Droit des Affaires,S4,23,2022,1
+1975,Rachidi,Yassine,M,2002-02-15,Meknès,Tanger-Tétouan,Sciences Economiques,Assez Bien,Non,2019-03-28,Diplômé,Génie Civil,S3,24,2019,0
+1976,Douiri,Ayoub,M,2001-06-01,Marrakech,Marrakech-Safi,Sciences de la Vie,Bien,Non,2020-06-02,Actif,Génie Electrique,S1,24,2020,0
+1977,El Fassi,Rachid,F,2003-01-30,Marrakech,Souss-Massa,Sciences Math B,Assez Bien,Non,2022-04-04,Actif,Génie Civil,S3,23,2022,0
+1978,Saadi,Rim,M,2000-05-23,Casablanca,Casablanca-Settat,Lettres,Passable,Non,2023-12-31,Actif,Génie Civil,S1,25,2023,0
+1979,Karimi,Mehdi,M,2004-11-25,Kenitra,Casablanca-Settat,Sciences Economiques,Assez Bien,Non,2021-03-08,Actif,Génie Electrique,S5,21,2021,0
+1980,Tazi,Rim,F,2001-11-29,Meknès,Rabat-Salé-Kénitra,Sciences Math B,Très Bien,Non,2023-05-21,Actif,Génie Electrique,S6,24,2023,0
+1981,Jabri,Omar,M,2004-06-07,Fès,Fès-Meknès,Sciences Economiques,Bien,Non,2024-04-06,Actif,Marketing,S2,21,2024,0
+1982,Ouali,Rim,F,2004-03-28,Agadir,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Non,2019-10-24,Diplômé,Génie Electrique,S5,22,2019,0
+1983,Saadi,Soufiane,M,2002-10-21,Fès,Souss-Massa,Sciences de la Vie,Bien,Oui,2023-06-16,Actif,Finance & Comptabilité,S5,23,2023,1
+1984,Saadi,Ghita,M,2000-07-11,Meknès,Souss-Massa,Lettres,Passable,Non,2022-06-20,Diplômé,Droit des Affaires,S2,25,2022,0
+1985,Idrissi,Meriem,F,2003-11-30,Agadir,Souss-Massa,Lettres,Assez Bien,Non,2021-09-04,Abandon,Génie Informatique,S3,22,2021,0
+1986,Rachidi,Sara,M,2000-11-02,Tanger,Fès-Meknès,Lettres,Bien,Non,2024-07-27,Actif,Génie Electrique,S2,25,2024,0
+1987,Wahbi,Mehdi,F,2001-11-17,Rabat,Casablanca-Settat,Sciences Economiques,Passable,Non,2022-11-24,Actif,Génie Civil,S1,24,2022,0
+1988,El Fassi,Soufiane,M,2004-12-22,Tétouan,Marrakech-Safi,Sciences de la Vie,Assez Bien,Oui,2021-08-06,Actif,Génie Civil,S1,21,2021,1
+1989,Naciri,Omar,M,2005-03-30,Agadir,Tanger-Tétouan,Sciences Economiques,Assez Bien,Oui,2023-09-25,Diplômé,Génie Electrique,S5,21,2023,1
+1990,Hamidi,Loubna,F,2004-03-31,Rabat,Rabat-Salé-Kénitra,Lettres,Assez Bien,Oui,2021-09-24,Abandon,Génie Informatique,S4,22,2021,1
+1991,Bennani,Rachid,F,2005-04-03,Kenitra,Rabat-Salé-Kénitra,Lettres,Très Bien,Non,2021-04-15,Diplômé,Génie Informatique,S6,21,2021,0
+1992,Tazi,Meriem,F,1998-11-10,Casablanca,Casablanca-Settat,Sciences Economiques,Passable,Non,2018-12-12,Actif,Marketing,S6,27,2018,0
+1993,El Fassi,Soufiane,M,2005-02-26,Marrakech,Fès-Meknès,Sciences Physiques,Assez Bien,Oui,2021-11-13,Diplômé,Marketing,S1,21,2021,1
+1994,Chraibi,Khalid,F,2004-03-06,Fès,Rabat-Salé-Kénitra,Sciences Physiques,Passable,Non,2023-11-17,Actif,Marketing,S5,22,2023,0
+1995,Jabri,Rachid,M,2003-06-21,Kenitra,Fès-Meknès,Sciences de la Vie,Très Bien,Non,2023-06-22,Actif,Génie Informatique,S4,22,2023,0
+1996,Ouali,Amina,M,2000-11-03,Casablanca,Rabat-Salé-Kénitra,Sciences Economiques,Passable,Non,2020-07-10,Actif,Génie Civil,S2,25,2020,0
+1997,Lamrani,Ayoub,F,2002-07-15,Meknès,Souss-Massa,Sciences Math B,Assez Bien,Non,2024-01-21,Actif,Marketing,S4,23,2024,0
+1998,Tazi,Loubna,M,2005-03-19,Rabat,Marrakech-Safi,Sciences Math A,Bien,Non,2021-05-16,Diplômé,Génie Electrique,S3,21,2021,0
+1999,Jabri,Rachid,F,2002-11-14,Oujda,Casablanca-Settat,Sciences de la Vie,Bien,Non,2021-09-10,Actif,Marketing,S5,23,2021,0
+2000,Alaoui,Loubna,M,2000-10-11,Tanger,Fès-Meknès,Sciences Physiques,Assez Bien,Oui,2023-01-25,Actif,Génie Electrique,S5,25,2023,1
+2001,Karimi,Sanaa,M,2000-12-29,Tanger,Casablanca-Settat,Sciences Physiques,Assez Bien,Oui,2022-10-12,Actif,Génie Electrique,S5,25,2022,1
+2002,Karimi,Amine,M,2001-01-29,Agadir,Souss-Massa,Sciences de la Vie,Assez Bien,Non,2023-07-26,Diplômé,Génie Civil,S1,25,2023,0
+2003,Ziani,Ghita,F,1999-11-29,Rabat,Souss-Massa,Sciences Physiques,Assez Bien,Non,2021-11-29,Diplômé,Droit des Affaires,S6,26,2021,0
+2004,Ziani,Meriem,F,2003-12-20,Kenitra,Tanger-Tétouan,Sciences Math B,Passable,Non,2021-03-20,Actif,Génie Electrique,S3,22,2021,0
+2005,Saadi,Omar,F,2001-11-05,Oujda,Casablanca-Settat,Sciences Physiques,Assez Bien,Oui,2022-07-27,Actif,Marketing,S4,24,2022,1
+2006,El Fassi,Nadia,F,2001-03-01,Casablanca,Fès-Meknès,Sciences Math A,Assez Bien,Oui,2021-07-28,Actif,Génie Civil,S2,25,2021,1
+2007,Rachidi,Amine,F,2000-11-09,Agadir,Fès-Meknès,Sciences Math A,Assez Bien,Non,2024-01-31,Abandon,Génie Civil,S6,25,2024,0
+2008,Wahbi,Loubna,F,2003-04-14,Fès,Souss-Massa,Sciences Economiques,Bien,Oui,2024-04-04,Actif,Génie Informatique,S4,23,2024,1
+2009,Saadi,Hind,M,2005-01-27,Tanger,Tanger-Tétouan,Sciences Math B,Très Bien,Non,2022-03-02,Actif,Génie Electrique,S3,21,2022,0
+2010,Moussaoui,Nadia,M,2000-10-10,Tétouan,Tanger-Tétouan,Sciences Physiques,Bien,Non,2021-12-16,Actif,Marketing,S4,25,2021,0
+2011,Lamrani,Hind,M,1998-08-15,Tanger,Rabat-Salé-Kénitra,Sciences Physiques,Passable,Non,2020-04-16,Actif,Génie Electrique,S3,27,2020,0
+2012,Wahbi,Hind,F,2003-01-03,Tétouan,Fès-Meknès,Sciences de la Vie,Passable,Non,2022-07-23,Diplômé,Marketing,S1,23,2022,0
+2013,Wahbi,Omar,F,2002-02-01,Fès,Casablanca-Settat,Sciences Economiques,Très Bien,Non,2021-06-24,Actif,Finance & Comptabilité,S3,24,2021,0
+2014,Naciri,Meriem,M,2000-04-01,Oujda,Tanger-Tétouan,Sciences Math A,Assez Bien,Oui,2021-04-17,Actif,Génie Informatique,S3,26,2021,1
+2015,Rachidi,Rachid,F,2003-07-17,Agadir,Souss-Massa,Lettres,Passable,Non,2021-11-17,Actif,Génie Civil,S3,22,2021,0
+2016,Lamrani,Meriem,F,2000-05-20,Tétouan,Casablanca-Settat,Sciences de la Vie,Bien,Non,2020-11-24,Actif,Génie Informatique,S3,25,2020,0
+2017,Hamidi,Sanaa,M,2004-09-18,Oujda,Tanger-Tétouan,Sciences de la Vie,Bien,Non,2019-10-09,Abandon,Finance & Comptabilité,S4,21,2019,0
+2018,Idrissi,Loubna,F,2004-02-28,Fès,Fès-Meknès,Sciences Physiques,Bien,Non,2021-02-09,Actif,Droit des Affaires,S5,22,2021,0
+2019,Ziani,Amine,F,2003-09-17,Kenitra,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2018-11-07,Diplômé,Génie Informatique,S1,22,2018,0
+2020,Naciri,Hind,M,2002-12-01,Fès,Fès-Meknès,Sciences de la Vie,Passable,Non,2018-11-27,Diplômé,Génie Informatique,S2,23,2018,0
+2021,Idrissi,Fatima,F,1998-07-07,Marrakech,Tanger-Tétouan,Sciences Physiques,Très Bien,Oui,2024-04-10,Actif,Finance & Comptabilité,S6,27,2024,1
+2022,Ouali,Hamza,M,2000-12-16,Casablanca,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2021-11-02,Actif,Génie Informatique,S4,25,2021,0
+2023,Benali,Loubna,F,2000-07-29,Meknès,Souss-Massa,Sciences Math B,Bien,Non,2023-05-18,Actif,Génie Informatique,S6,25,2023,0
+2024,Lamrani,Khalid,F,2004-05-09,Casablanca,Tanger-Tétouan,Sciences Math A,Bien,Non,2022-06-06,Diplômé,Finance & Comptabilité,S4,22,2022,0
+2025,Saadi,Khalid,F,2005-03-15,Fès,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Non,2024-08-27,Actif,Finance & Comptabilité,S4,21,2024,0
+2026,Naciri,Sanaa,M,2005-01-07,Kenitra,Souss-Massa,Sciences Physiques,Assez Bien,Oui,2024-08-20,Actif,Génie Civil,S3,21,2024,1
+2027,Naciri,Mehdi,F,1999-06-10,Agadir,Rabat-Salé-Kénitra,Sciences Math B,Assez Bien,Non,2023-03-02,Actif,Droit des Affaires,S2,26,2023,0
+2028,El Fassi,Hind,F,1998-12-02,Casablanca,Casablanca-Settat,Sciences de la Vie,Bien,Non,2019-02-25,Diplômé,Marketing,S6,27,2019,0
+2029,Saadi,Sara,M,2005-07-08,Agadir,Fès-Meknès,Sciences Economiques,Très Bien,Non,2022-06-13,Actif,Marketing,S4,20,2022,0
+2030,Benali,Hind,F,2000-12-14,Casablanca,Souss-Massa,Sciences de la Vie,Très Bien,Non,2021-02-24,Actif,Droit des Affaires,S6,25,2021,0
+2031,El Fassi,Karim,M,2004-12-22,Meknès,Tanger-Tétouan,Sciences de la Vie,Passable,Oui,2020-04-08,Actif,Droit des Affaires,S4,21,2020,1
+2032,Tazi,Sanaa,F,2005-09-14,Tanger,Tanger-Tétouan,Sciences Math B,Passable,Oui,2021-05-17,Actif,Droit des Affaires,S2,20,2021,1
+2033,Ziani,Ayoub,M,2005-01-27,Rabat,Marrakech-Safi,Sciences Math B,Très Bien,Non,2021-10-06,Diplômé,Finance & Comptabilité,S5,21,2021,0
+2034,Lamrani,Amine,M,1998-06-11,Fès,Tanger-Tétouan,Lettres,Bien,Oui,2024-08-09,Actif,Marketing,S5,27,2024,1
+2035,Douiri,Meriem,M,1999-08-17,Kenitra,Fès-Meknès,Lettres,Très Bien,Non,2024-04-26,Diplômé,Génie Electrique,S1,26,2024,0
+2036,Rachidi,Omar,F,2003-04-23,Fès,Fès-Meknès,Lettres,Passable,Oui,2022-01-02,Diplômé,Génie Electrique,S2,23,2022,1
+2037,Douiri,Omar,M,2004-01-16,Meknès,Tanger-Tétouan,Sciences de la Vie,Bien,Oui,2019-07-15,Actif,Génie Electrique,S2,22,2019,1
+2038,Tazi,Loubna,F,1998-03-01,Oujda,Souss-Massa,Sciences de la Vie,Bien,Non,2022-10-12,Diplômé,Génie Civil,S3,28,2022,0
+2039,Rachidi,Amine,M,2003-03-17,Casablanca,Rabat-Salé-Kénitra,Sciences Math B,Bien,Non,2024-03-27,Actif,Droit des Affaires,S4,23,2024,0
+2040,Alaoui,Loubna,M,2004-03-08,Marrakech,Marrakech-Safi,Sciences Physiques,Assez Bien,Non,2024-04-04,Actif,Droit des Affaires,S5,22,2024,0
+2041,El Fassi,Amine,M,1999-02-10,Tanger,Fès-Meknès,Sciences Math A,Passable,Non,2020-01-16,Diplômé,Marketing,S3,27,2020,0
+2042,Ouali,Mehdi,F,1999-10-26,Rabat,Marrakech-Safi,Sciences de la Vie,Bien,Oui,2024-03-15,Actif,Génie Informatique,S1,26,2024,1
+2043,El Fassi,Fatima,M,2001-02-06,Casablanca,Marrakech-Safi,Lettres,Assez Bien,Non,2018-12-28,Diplômé,Finance & Comptabilité,S5,25,2018,0
+2044,Chraibi,Ghita,F,2001-01-04,Fès,Fès-Meknès,Sciences Math B,Assez Bien,Non,2020-08-10,Actif,Marketing,S4,25,2020,0
+2045,Saadi,Hamza,F,1999-06-26,Kenitra,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Oui,2018-10-15,Abandon,Génie Civil,S1,26,2018,1
+2046,Jabri,Nadia,F,2001-08-30,Meknès,Rabat-Salé-Kénitra,Sciences Economiques,Assez Bien,Non,2019-07-11,Actif,Génie Informatique,S1,24,2019,0
+2047,Lamrani,Nadia,M,2000-09-24,Agadir,Fès-Meknès,Lettres,Très Bien,Non,2019-10-23,Actif,Droit des Affaires,S4,25,2019,0
+2048,Bennani,Sara,M,2001-02-14,Oujda,Tanger-Tétouan,Lettres,Passable,Non,2021-09-06,Actif,Finance & Comptabilité,S6,25,2021,0
+2049,Naciri,Soufiane,F,2000-05-17,Rabat,Souss-Massa,Sciences Physiques,Bien,Oui,2019-07-23,Diplômé,Génie Informatique,S3,26,2019,1
+2050,Chraibi,Nadia,M,2003-08-29,Tétouan,Souss-Massa,Sciences Physiques,Très Bien,Oui,2022-08-10,Diplômé,Finance & Comptabilité,S4,22,2022,1
+2051,Lamrani,Nadia,F,1999-03-08,Rabat,Tanger-Tétouan,Lettres,Passable,Oui,2024-02-08,Actif,Génie Electrique,S2,27,2024,1
+2052,Wahbi,Sara,M,2000-01-10,Kenitra,Marrakech-Safi,Lettres,Passable,Non,2018-11-13,Diplômé,Droit des Affaires,S5,26,2018,0
+2053,Naciri,Fatima,F,2001-10-05,Marrakech,Souss-Massa,Sciences Economiques,Assez Bien,Non,2023-01-20,Actif,Droit des Affaires,S4,24,2023,0
+2054,Lamrani,Rim,F,1998-07-02,Meknès,Tanger-Tétouan,Sciences Physiques,Passable,Oui,2020-01-22,Actif,Droit des Affaires,S6,27,2020,1
+2055,Saadi,Rachid,F,2003-12-01,Rabat,Marrakech-Safi,Sciences de la Vie,Bien,Non,2020-07-19,Diplômé,Finance & Comptabilité,S5,22,2020,0
+2056,Wahbi,Meriem,M,2001-04-21,Tétouan,Souss-Massa,Sciences Math B,Très Bien,Non,2020-06-18,Diplômé,Finance & Comptabilité,S2,25,2020,0
+2057,Benali,Fatima,F,2004-12-03,Tétouan,Souss-Massa,Sciences Math A,Assez Bien,Non,2022-11-21,Diplômé,Génie Civil,S2,21,2022,0
+2058,Bennani,Mehdi,M,2001-03-15,Casablanca,Tanger-Tétouan,Sciences Math B,Assez Bien,Non,2022-03-16,Diplômé,Génie Civil,S2,25,2022,0
+2059,Chraibi,Yassine,M,2000-04-10,Meknès,Souss-Massa,Sciences Math B,Assez Bien,Oui,2022-07-01,Actif,Génie Civil,S4,26,2022,1
+2060,Idrissi,Loubna,F,2002-07-10,Marrakech,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Non,2022-12-01,Diplômé,Marketing,S3,23,2022,0
+2061,Karimi,Amina,F,2001-02-10,Fès,Rabat-Salé-Kénitra,Sciences Math A,Passable,Non,2021-08-11,Actif,Génie Electrique,S5,25,2021,0
+2062,Idrissi,Rim,F,2005-09-11,Tanger,Rabat-Salé-Kénitra,Lettres,Bien,Non,2019-07-22,Actif,Génie Electrique,S4,20,2019,0
+2063,Chraibi,Meriem,F,1999-04-21,Tanger,Tanger-Tétouan,Sciences de la Vie,Bien,Non,2021-05-19,Actif,Finance & Comptabilité,S1,27,2021,0
+2064,Ouali,Meriem,M,2005-09-11,Agadir,Souss-Massa,Sciences Economiques,Bien,Oui,2024-02-15,Actif,Génie Civil,S3,20,2024,1
+2065,Douiri,Omar,M,2001-08-19,Meknès,Marrakech-Safi,Sciences de la Vie,Passable,Non,2020-08-17,Actif,Droit des Affaires,S5,24,2020,0
+2066,Douiri,Hind,F,2000-08-28,Agadir,Souss-Massa,Sciences Physiques,Bien,Oui,2019-06-04,Actif,Droit des Affaires,S3,25,2019,1
+2067,Rachidi,Rachid,M,2000-10-16,Agadir,Marrakech-Safi,Lettres,Passable,Non,2019-01-30,Actif,Génie Electrique,S4,25,2019,0
+2068,Gharbi,Hind,M,2001-02-15,Oujda,Souss-Massa,Sciences Economiques,Passable,Non,2021-04-12,Actif,Génie Electrique,S5,25,2021,0
+2069,Karimi,Sara,M,2003-01-11,Tanger,Rabat-Salé-Kénitra,Sciences de la Vie,Très Bien,Oui,2022-10-16,Actif,Finance & Comptabilité,S6,23,2022,1
+2070,Alaoui,Karim,M,1998-06-10,Fès,Souss-Massa,Sciences Math B,Bien,Non,2019-05-17,Actif,Finance & Comptabilité,S4,27,2019,0
+2071,Benali,Hamza,M,2004-09-14,Rabat,Souss-Massa,Sciences Physiques,Passable,Oui,2021-01-16,Actif,Génie Informatique,S2,21,2021,1
+2072,Lamrani,Nadia,M,1998-07-17,Fès,Rabat-Salé-Kénitra,Sciences Math A,Passable,Non,2021-12-05,Diplômé,Génie Informatique,S1,27,2021,0
+2073,Benali,Loubna,M,2001-07-07,Marrakech,Tanger-Tétouan,Sciences Math B,Passable,Non,2020-07-19,Diplômé,Finance & Comptabilité,S1,24,2020,0
+2074,Karimi,Sara,M,1999-10-22,Tétouan,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2019-07-07,Diplômé,Génie Informatique,S2,26,2019,0
+2075,Moussaoui,Amina,F,2002-11-11,Rabat,Souss-Massa,Sciences Economiques,Passable,Non,2022-10-12,Actif,Génie Electrique,S3,23,2022,0
+2076,Moussaoui,Rim,M,2000-12-06,Marrakech,Souss-Massa,Sciences Math A,Passable,Non,2019-12-17,Diplômé,Finance & Comptabilité,S3,25,2019,0
+2077,Ouali,Amina,M,2003-07-04,Rabat,Marrakech-Safi,Sciences Math B,Assez Bien,Non,2020-11-22,Actif,Finance & Comptabilité,S6,22,2020,0
+2078,El Fassi,Sara,F,1999-02-03,Marrakech,Souss-Massa,Sciences Math A,Bien,Non,2020-12-24,Actif,Génie Civil,S6,27,2020,0
+2079,Idrissi,Khalid,M,2002-09-30,Oujda,Casablanca-Settat,Sciences Physiques,Bien,Non,2021-11-08,Actif,Génie Electrique,S4,23,2021,0
+2080,Tazi,Meriem,F,2002-05-02,Oujda,Marrakech-Safi,Sciences Physiques,Bien,Oui,2020-06-28,Diplômé,Génie Electrique,S1,24,2020,1
+2081,Ouali,Amina,F,2003-10-27,Agadir,Tanger-Tétouan,Sciences Math B,Passable,Non,2023-08-14,Actif,Marketing,S6,22,2023,0
+2082,Ziani,Hind,M,2003-12-12,Meknès,Fès-Meknès,Lettres,Très Bien,Oui,2022-08-14,Actif,Marketing,S6,22,2022,1
+2083,Gharbi,Sara,M,1998-03-16,Rabat,Tanger-Tétouan,Sciences de la Vie,Très Bien,Non,2023-07-04,Actif,Génie Civil,S3,28,2023,0
+2084,Gharbi,Yassine,F,2003-12-25,Kenitra,Tanger-Tétouan,Lettres,Bien,Oui,2022-02-16,Diplômé,Marketing,S4,22,2022,1
+2085,Gharbi,Hind,F,1999-08-25,Agadir,Souss-Massa,Sciences Math A,Bien,Oui,2019-08-21,Diplômé,Génie Informatique,S2,26,2019,1
+2086,Chraibi,Hamza,M,2000-04-16,Fès,Souss-Massa,Sciences Math B,Très Bien,Non,2023-10-17,Actif,Finance & Comptabilité,S4,26,2023,0
+2087,Bennani,Ghita,F,2002-03-09,Oujda,Fès-Meknès,Sciences Math A,Assez Bien,Non,2024-03-17,Actif,Droit des Affaires,S6,24,2024,0
+2088,Naciri,Fatima,M,1999-05-15,Tanger,Souss-Massa,Sciences Math B,Passable,Non,2019-02-27,Actif,Génie Informatique,S6,27,2019,0
+2089,Bennani,Rachid,F,2002-05-16,Oujda,Souss-Massa,Sciences Math A,Bien,Oui,2018-11-05,Diplômé,Génie Electrique,S2,24,2018,1
+2090,Idrissi,Hind,M,1998-05-18,Tanger,Tanger-Tétouan,Sciences de la Vie,Bien,Non,2020-11-28,Actif,Marketing,S1,28,2020,0
+2091,Saadi,Ayoub,F,2003-09-29,Rabat,Marrakech-Safi,Sciences Math B,Bien,Non,2022-06-03,Diplômé,Droit des Affaires,S1,22,2022,0
+2092,Ziani,Loubna,F,2002-11-30,Rabat,Fès-Meknès,Sciences Physiques,Assez Bien,Non,2019-02-18,Actif,Génie Informatique,S3,23,2019,0
+2093,El Fassi,Soufiane,F,2000-08-30,Marrakech,Casablanca-Settat,Sciences de la Vie,Passable,Oui,2022-06-22,Diplômé,Génie Electrique,S4,25,2022,1
+2094,Idrissi,Meriem,M,2002-07-01,Tanger,Tanger-Tétouan,Sciences Physiques,Assez Bien,Non,2021-10-05,Actif,Marketing,S1,23,2021,0
+2095,Rachidi,Mehdi,M,2003-03-01,Tétouan,Casablanca-Settat,Sciences de la Vie,Très Bien,Oui,2020-12-13,Actif,Finance & Comptabilité,S5,23,2020,1
+2096,Jabri,Soufiane,M,2004-04-20,Casablanca,Casablanca-Settat,Sciences Physiques,Bien,Non,2019-04-15,Actif,Finance & Comptabilité,S6,22,2019,0
+2097,Rachidi,Ayoub,M,2003-07-22,Fès,Fès-Meknès,Sciences de la Vie,Assez Bien,Non,2019-11-16,Actif,Marketing,S3,22,2019,0
+2098,Jabri,Amine,M,2005-07-20,Agadir,Rabat-Salé-Kénitra,Lettres,Assez Bien,Non,2020-08-28,Actif,Finance & Comptabilité,S5,20,2020,0
+2099,Alaoui,Omar,F,2003-03-16,Marrakech,Casablanca-Settat,Sciences Math A,Assez Bien,Non,2023-01-22,Diplômé,Génie Civil,S4,23,2023,0
+2100,Rachidi,Fatima,M,2005-02-23,Rabat,Souss-Massa,Sciences Physiques,Très Bien,Non,2024-07-02,Actif,Marketing,S5,21,2024,0
+2101,Karimi,Rachid,M,2005-09-05,Fès,Casablanca-Settat,Sciences Math A,Bien,Non,2021-07-03,Diplômé,Génie Civil,S4,20,2021,0
+2102,Wahbi,Amina,F,2001-12-20,Agadir,Rabat-Salé-Kénitra,Sciences Math B,Bien,Non,2023-09-07,Diplômé,Marketing,S3,24,2023,0
+2103,Gharbi,Ayoub,F,1999-07-01,Meknès,Marrakech-Safi,Sciences Math A,Assez Bien,Non,2023-09-23,Actif,Génie Civil,S6,26,2023,0
+2104,Chraibi,Amine,F,2000-07-10,Kenitra,Rabat-Salé-Kénitra,Sciences Physiques,Bien,Non,2020-01-06,Diplômé,Finance & Comptabilité,S6,25,2020,0
+2105,Rachidi,Amina,F,1999-08-04,Casablanca,Marrakech-Safi,Sciences de la Vie,Passable,Non,2022-11-27,Diplômé,Finance & Comptabilité,S4,26,2022,0
+2106,Moussaoui,Yassine,M,2001-10-04,Tanger,Souss-Massa,Sciences Math A,Bien,Non,2021-10-18,Actif,Génie Informatique,S6,24,2021,0
+2107,Ziani,Rachid,M,2003-05-11,Tanger,Marrakech-Safi,Sciences Economiques,Assez Bien,Non,2021-04-27,Diplômé,Génie Electrique,S1,23,2021,0
+2108,Karimi,Hind,F,2003-06-27,Marrakech,Rabat-Salé-Kénitra,Sciences de la Vie,Assez Bien,Non,2024-05-19,Actif,Génie Civil,S3,22,2024,0
+2109,Ouali,Hamza,F,2003-09-28,Casablanca,Casablanca-Settat,Sciences Math B,Bien,Non,2020-06-01,Actif,Droit des Affaires,S5,22,2020,0
+2110,Jabri,Omar,M,1999-12-05,Meknès,Souss-Massa,Sciences Math B,Très Bien,Oui,2019-02-20,Diplômé,Marketing,S6,26,2019,1
+2111,Rachidi,Amina,F,2004-04-27,Oujda,Marrakech-Safi,Sciences Physiques,Passable,Non,2022-12-19,Actif,Finance & Comptabilité,S5,22,2022,0
+2112,Karimi,Ghita,M,2004-07-31,Kenitra,Rabat-Salé-Kénitra,Sciences de la Vie,Bien,Non,2019-05-17,Actif,Finance & Comptabilité,S1,21,2019,0
+2113,Hamidi,Khalid,M,2002-06-14,Kenitra,Tanger-Tétouan,Sciences Math A,Assez Bien,Oui,2020-01-30,Actif,Marketing,S3,23,2020,1
+2114,Naciri,Rim,M,1999-09-30,Fès,Casablanca-Settat,Sciences Math A,Assez Bien,Oui,2020-02-05,Diplômé,Génie Electrique,S2,26,2020,1
+2115,Saadi,Soufiane,F,2005-08-22,Rabat,Marrakech-Safi,Lettres,Passable,Non,2023-12-01,Abandon,Marketing,S5,20,2023,0
+2116,Douiri,Rachid,F,2000-10-06,Oujda,Fès-Meknès,Sciences Math B,Assez Bien,Non,2024-08-04,Actif,Droit des Affaires,S1,25,2024,0
+2117,Idrissi,Karim,M,1999-10-03,Rabat,Casablanca-Settat,Sciences de la Vie,Assez Bien,Non,2023-12-13,Diplômé,Génie Civil,S2,26,2023,0
+2118,Naciri,Khalid,F,2005-10-10,Marrakech,Tanger-Tétouan,Sciences de la Vie,Passable,Oui,2021-10-14,Abandon,Génie Civil,S3,20,2021,1
+2119,Ziani,Fatima,M,2005-04-13,Rabat,Souss-Massa,Sciences Math B,Assez Bien,Non,2020-12-17,Actif,Droit des Affaires,S4,21,2020,0
+2120,Moussaoui,Amina,M,2003-02-05,Casablanca,Souss-Massa,Lettres,Très Bien,Oui,2021-08-25,Actif,Droit des Affaires,S6,23,2021,1
+2121,Ziani,Mehdi,F,2005-10-27,Casablanca,Tanger-Tétouan,Sciences Math A,Passable,Non,2021-08-29,Diplômé,Génie Informatique,S2,20,2021,0
+2122,Karimi,Meriem,F,2001-04-20,Fès,Rabat-Salé-Kénitra,Sciences Math B,Bien,Oui,2024-01-22,Diplômé,Droit des Affaires,S3,25,2024,1
+2123,Karimi,Rachid,F,1999-11-17,Marrakech,Souss-Massa,Sciences de la Vie,Assez Bien,Oui,2022-12-23,Diplômé,Droit des Affaires,S2,26,2022,1
+2124,Alaoui,Nadia,F,2003-01-26,Fès,Souss-Massa,Lettres,Bien,Oui,2022-12-29,Actif,Marketing,S1,23,2022,1
+2125,Naciri,Yassine,F,1998-07-07,Meknès,Tanger-Tétouan,Sciences Math A,Assez Bien,Non,2021-09-19,Actif,Finance & Comptabilité,S3,27,2021,0
+2126,Jabri,Amine,F,2002-06-08,Agadir,Fès-Meknès,Sciences Economiques,Passable,Oui,2020-09-19,Actif,Génie Informatique,S3,23,2020,1
+2127,Alaoui,Khalid,M,2002-08-15,Rabat,Rabat-Salé-Kénitra,Lettres,Passable,Non,2021-08-29,Actif,Marketing,S4,23,2021,0
+2128,Ziani,Nadia,M,2000-09-11,Tétouan,Tanger-Tétouan,Sciences Math B,Passable,Non,2021-12-03,Actif,Marketing,S6,25,2021,0
+2129,Benali,Ayoub,M,1999-07-02,Tétouan,Souss-Massa,Sciences de la Vie,Passable,Non,2023-10-20,Diplômé,Finance & Comptabilité,S3,26,2023,0
+2130,Bennani,Amine,M,2005-08-04,Tanger,Marrakech-Safi,Sciences de la Vie,Bien,Non,2023-07-24,Actif,Génie Electrique,S1,20,2023,0
+2131,Saadi,Rachid,F,2001-12-02,Rabat,Souss-Massa,Lettres,Très Bien,Non,2023-01-25,Diplômé,Marketing,S3,24,2023,0
+2132,Karimi,Hind,M,2000-05-25,Casablanca,Souss-Massa,Sciences Physiques,Bien,Oui,2018-10-19,Actif,Génie Informatique,S3,25,2018,1
+2133,Idrissi,Hamza,M,1999-09-10,Rabat,Casablanca-Settat,Sciences Physiques,Bien,Non,2021-08-11,Actif,Finance & Comptabilité,S5,26,2021,0
+2134,Bennani,Hamza,M,2004-09-27,Fès,Fès-Meknès,Sciences Math B,Passable,Oui,2022-04-05,Actif,Génie Civil,S6,21,2022,1
+2135,Moussaoui,Yassine,F,2001-09-27,Oujda,Fès-Meknès,Lettres,Assez Bien,Oui,2023-03-08,Actif,Génie Electrique,S1,24,2023,1
+2136,Idrissi,Amine,M,2001-05-28,Marrakech,Fès-Meknès,Lettres,Assez Bien,Non,2024-08-20,Actif,Finance & Comptabilité,S5,24,2024,0
+2137,Hamidi,Sanaa,F,2000-06-21,Rabat,Souss-Massa,Sciences Math A,Passable,Non,2021-12-03,Abandon,Génie Informatique,S2,25,2021,0
+2138,Bennani,Nadia,M,1998-06-12,Agadir,Marrakech-Safi,Lettres,Assez Bien,Non,2022-06-29,Diplômé,Marketing,S6,27,2022,0
+2139,Jabri,Sara,M,2003-05-29,Rabat,Tanger-Tétouan,Sciences Economiques,Assez Bien,Non,2023-09-03,Actif,Génie Informatique,S2,22,2023,0
+2140,El Fassi,Fatima,F,1998-09-27,Casablanca,Casablanca-Settat,Sciences Economiques,Assez Bien,Non,2019-12-23,Actif,Droit des Affaires,S1,27,2019,0
+2141,Douiri,Ayoub,F,1999-09-24,Oujda,Casablanca-Settat,Sciences Math A,Assez Bien,Oui,2020-12-10,Abandon,Marketing,S5,26,2020,1
+2142,Benali,Hind,M,2000-06-24,Casablanca,Souss-Massa,Sciences Physiques,Bien,Oui,2023-02-01,Actif,Finance & Comptabilité,S2,25,2023,1
+2143,Karimi,Amina,F,2003-07-08,Marrakech,Marrakech-Safi,Sciences de la Vie,Bien,Oui,2020-07-13,Actif,Génie Electrique,S5,22,2020,1
+2144,Rachidi,Khalid,F,2002-06-30,Tétouan,Rabat-Salé-Kénitra,Lettres,Assez Bien,Oui,2022-04-16,Actif,Finance & Comptabilité,S3,23,2022,1
+2145,Benali,Soufiane,M,1998-07-24,Meknès,Tanger-Tétouan,Sciences Physiques,Très Bien,Non,2018-11-21,Abandon,Droit des Affaires,S3,27,2018,0
+2146,Ziani,Hind,F,1999-08-05,Meknès,Fès-Meknès,Sciences Math B,Très Bien,Non,2018-11-26,Actif,Droit des Affaires,S6,26,2018,0
+2147,Moussaoui,Fatima,F,2002-04-29,Oujda,Rabat-Salé-Kénitra,Sciences Physiques,Assez Bien,Oui,2024-04-25,Actif,Génie Informatique,S3,24,2024,1
+2148,El Fassi,Hind,F,2000-04-20,Casablanca,Souss-Massa,Sciences Math A,Assez Bien,Non,2020-11-30,Abandon,Génie Informatique,S3,26,2020,0
+2149,Chraibi,Sanaa,F,2003-01-11,Meknès,Souss-Massa,Lettres,Assez Bien,Non,2019-02-10,Actif,Génie Civil,S6,23,2019,0
+2150,Karimi,Ghita,F,2001-06-05,Meknès,Souss-Massa,Sciences Math B,Très Bien,Oui,2023-12-16,Actif,Génie Civil,S6,24,2023,1
+2151,Lamrani,Nadia,F,2002-09-16,Marrakech,Souss-Massa,Sciences Math A,Très Bien,Oui,2023-09-25,Actif,Marketing,S6,23,2023,1
+2152,Ouali,Nadia,F,2002-07-01,Agadir,Marrakech-Safi,Sciences Math B,Passable,Oui,2023-10-05,Diplômé,Droit des Affaires,S3,23,2023,1
+2153,Gharbi,Mehdi,F,2005-03-28,Fès,Tanger-Tétouan,Lettres,Assez Bien,Oui,2021-09-20,Actif,Génie Informatique,S1,21,2021,1
+2154,Hamidi,Meriem,F,2004-04-16,Marrakech,Tanger-Tétouan,Sciences de la Vie,Bien,Oui,2023-10-27,Abandon,Génie Civil,S5,22,2023,1
+2155,El Fassi,Mehdi,F,2000-05-24,Tanger,Souss-Massa,Sciences Physiques,Assez Bien,Non,2021-03-11,Diplômé,Droit des Affaires,S5,25,2021,0
+2156,Wahbi,Ayoub,F,2002-01-04,Tanger,Tanger-Tétouan,Sciences Math A,Passable,Oui,2024-08-15,Actif,Génie Civil,S3,24,2024,1
+2157,Moussaoui,Ghita,M,2004-02-22,Oujda,Rabat-Salé-Kénitra,Sciences Math B,Très Bien,Non,2022-08-20,Abandon,Finance & Comptabilité,S2,22,2022,0
+2158,Tazi,Sanaa,F,1999-11-21,Marrakech,Souss-Massa,Sciences Physiques,Bien,Non,2022-12-31,Actif,Marketing,S1,26,2022,0
+2159,Tazi,Rim,F,2003-07-04,Casablanca,Rabat-Salé-Kénitra,Sciences Economiques,Très Bien,Non,2020-03-18,Actif,Génie Electrique,S2,22,2020,0
+2160,Jabri,Loubna,M,2005-05-10,Tétouan,Marrakech-Safi,Sciences Math A,Très Bien,Non,2019-12-15,Actif,Finance & Comptabilité,S5,21,2019,0
+2161,Gharbi,Meriem,F,2001-11-23,Tétouan,Fès-Meknès,Sciences de la Vie,Bien,Oui,2021-05-15,Actif,Marketing,S3,24,2021,1
+2162,Jabri,Loubna,M,2003-06-25,Tétouan,Rabat-Salé-Kénitra,Sciences Math B,Assez Bien,Non,2023-12-18,Actif,Marketing,S3,22,2023,0
+2163,Saadi,Omar,M,1999-11-03,Fès,Souss-Massa,Sciences Math A,Bien,Non,2019-04-12,Actif,Finance & Comptabilité,S4,26,2019,0
+2164,Karimi,Nadia,F,2001-03-17,Tanger,Casablanca-Settat,Sciences Math A,Passable,Oui,2019-08-17,Actif,Génie Civil,S4,25,2019,1
+2165,Lamrani,Ghita,M,2002-02-04,Oujda,Rabat-Salé-Kénitra,Sciences Economiques,Bien,Oui,2023-12-12,Diplômé,Génie Civil,S3,24,2023,1
+2166,Douiri,Karim,F,2000-08-01,Meknès,Rabat-Salé-Kénitra,Lettres,Passable,Non,2019-08-15,Actif,Droit des Affaires,S2,25,2019,0
+2167,Rachidi,Soufiane,F,2004-02-25,Kenitra,Souss-Massa,Sciences de la Vie,Bien,Non,2019-03-01,Abandon,Génie Electrique,S1,22,2019,0
+2168,Chraibi,Ayoub,M,2001-12-20,Oujda,Tanger-Tétouan,Lettres,Passable,Non,2020-05-29,Actif,Génie Electrique,S2,24,2020,0
+2169,El Fassi,Soufiane,M,2004-12-14,Casablanca,Casablanca-Settat,Sciences Economiques,Passable,Non,2021-06-14,Actif,Marketing,S2,21,2021,0
+2170,Idrissi,Sanaa,M,2000-06-14,Rabat,Fès-Meknès,Sciences Math B,Passable,Non,2020-10-11,Actif,Droit des Affaires,S5,25,2020,0
+2171,Naciri,Karim,F,2003-12-30,Tanger,Casablanca-Settat,Sciences Physiques,Passable,Oui,2021-06-12,Actif,Génie Electrique,S2,22,2021,1
+2172,Wahbi,Hamza,F,2001-08-29,Meknès,Fès-Meknès,Sciences Math A,Bien,Oui,2024-06-12,Actif,Finance & Comptabilité,S2,24,2024,1
+2173,Moussaoui,Fatima,F,1998-06-14,Marrakech,Marrakech-Safi,Sciences Math B,Bien,Oui,2018-09-29,Diplômé,Droit des Affaires,S5,27,2018,1
+2174,Chraibi,Sara,M,2004-06-19,Meknès,Tanger-Tétouan,Sciences Math B,Assez Bien,Oui,2024-07-15,Abandon,Génie Electrique,S5,21,2024,1
+2175,Naciri,Loubna,F,2003-08-31,Fès,Marrakech-Safi,Sciences de la Vie,Passable,Non,2023-11-07,Abandon,Génie Informatique,S6,22,2023,0
+2176,Alaoui,Soufiane,M,2001-01-10,Kenitra,Rabat-Salé-Kénitra,Sciences Math A,Passable,Non,2022-09-05,Actif,Marketing,S5,25,2022,0
+2177,Jabri,Omar,F,2002-10-20,Fès,Rabat-Salé-Kénitra,Lettres,Passable,Non,2022-01-09,Diplômé,Génie Informatique,S5,23,2022,0
+2178,Wahbi,Hamza,M,2004-06-10,Kenitra,Tanger-Tétouan,Sciences Economiques,Passable,Oui,2024-04-30,Actif,Marketing,S6,21,2024,1
+2179,Douiri,Loubna,F,2003-04-23,Casablanca,Marrakech-Safi,Sciences Physiques,Très Bien,Non,2021-09-30,Actif,Marketing,S5,23,2021,0
+2180,Rachidi,Mehdi,M,1999-01-06,Meknès,Casablanca-Settat,Lettres,Passable,Oui,2018-11-05,Diplômé,Finance & Comptabilité,S6,27,2018,1
+2181,Moussaoui,Amina,F,2003-02-24,Agadir,Marrakech-Safi,Sciences Math A,Assez Bien,Oui,2021-10-09,Diplômé,Génie Civil,S1,23,2021,1
+2182,Jabri,Rachid,M,2000-05-02,Oujda,Fès-Meknès,Sciences Math A,Passable,Oui,2019-08-04,Actif,Génie Electrique,S4,26,2019,1
+2183,Ziani,Soufiane,F,1999-01-19,Kenitra,Souss-Massa,Sciences Physiques,Passable,Non,2024-08-10,Actif,Génie Informatique,S4,27,2024,0
+2184,Naciri,Ayoub,F,2003-04-16,Oujda,Rabat-Salé-Kénitra,Lettres,Assez Bien,Non,2023-05-26,Actif,Génie Electrique,S1,23,2023,0
+2185,Moussaoui,Fatima,M,2004-10-28,Agadir,Casablanca-Settat,Sciences Math B,Bien,Non,2019-11-21,Diplômé,Marketing,S1,21,2019,0
+2186,Douiri,Omar,F,1999-03-01,Tétouan,Rabat-Salé-Kénitra,Lettres,Passable,Non,2019-06-08,Actif,Génie Informatique,S2,27,2019,0
+2187,Idrissi,Hamza,F,2004-01-18,Kenitra,Marrakech-Safi,Sciences Economiques,Passable,Non,2020-04-18,Abandon,Génie Informatique,S1,22,2020,0
+2188,Saadi,Meriem,M,1999-09-21,Agadir,Tanger-Tétouan,Sciences Math A,Assez Bien,Oui,2024-02-08,Actif,Droit des Affaires,S4,26,2024,1
+2189,Alaoui,Karim,M,2000-06-13,Meknès,Casablanca-Settat,Sciences Math B,Passable,Oui,2021-08-10,Actif,Marketing,S3,25,2021,1
+2190,Bennani,Soufiane,F,2004-12-12,Tanger,Souss-Massa,Sciences de la Vie,Passable,Oui,2019-03-29,Actif,Génie Electrique,S3,21,2019,1
+2191,Wahbi,Ayoub,M,2004-07-02,Marrakech,Tanger-Tétouan,Sciences Math B,Très Bien,Non,2019-01-04,Actif,Génie Informatique,S6,21,2019,0
+2192,Lamrani,Sara,F,1999-08-21,Casablanca,Souss-Massa,Sciences Physiques,Bien,Non,2020-01-05,Actif,Génie Electrique,S3,26,2020,0
+2193,Bennani,Ayoub,M,2004-05-25,Agadir,Marrakech-Safi,Sciences Economiques,Bien,Oui,2021-04-27,Diplômé,Génie Informatique,S2,21,2021,1
+2194,Idrissi,Mehdi,F,1999-08-16,Tétouan,Fès-Meknès,Lettres,Assez Bien,Non,2020-04-03,Diplômé,Génie Civil,S4,26,2020,0
+2195,Chraibi,Soufiane,M,2002-08-15,Fès,Tanger-Tétouan,Sciences Physiques,Assez Bien,Non,2021-12-25,Abandon,Finance & Comptabilité,S5,23,2021,0
+2196,Rachidi,Rim,F,1999-07-27,Casablanca,Tanger-Tétouan,Sciences de la Vie,Assez Bien,Oui,2019-04-18,Diplômé,Droit des Affaires,S5,26,2019,1
+2197,Karimi,Ayoub,F,2003-09-07,Tanger,Marrakech-Safi,Lettres,Bien,Non,2019-03-08,Diplômé,Marketing,S3,22,2019,0
+2198,Ouali,Hamza,F,2003-09-22,Casablanca,Casablanca-Settat,Sciences Math B,Bien,Non,2024-04-19,Actif,Finance & Comptabilité,S2,22,2024,0
+2199,Douiri,Sara,F,2002-09-01,Oujda,Souss-Massa,Sciences Math A,Passable,Non,2020-01-15,Diplômé,Droit des Affaires,S6,23,2020,0
+2200,El Fassi,Loubna,M,2004-10-06,Kenitra,Marrakech-Safi,Lettres,Assez Bien,Oui,2024-07-03,Actif,Génie Electrique,S3,21,2024,1

@@ -1,0 +1,101 @@
+id_financement,source,type,annee,montant_mad,departement_beneficiaire
+22001,UE,Don,2021,213999,Informatique
+22002,AFD,Don,2024,279370,Management
+22003,Banque Populaire,Partenariat,2022,271732,Electrotechnique
+22004,Ministère,Partenariat,2023,277542,Management
+22005,Fondation BMCE,Don,2021,223919,Juridique
+22006,UE,Don,2020,87479,Juridique
+22007,AFD,Don,2020,234746,Juridique
+22008,Maroc Telecom,Partenariat,2023,226840,Juridique
+22009,Banque Populaire,Subvention,2023,243651,Juridique
+22010,UE,Don,2020,280811,Génie Civil
+22011,Ministère,Partenariat,2024,419668,Economie
+22012,Fondation BMCE,Don,2021,181744,Management
+22013,UE,Partenariat,2024,429684,Informatique
+22014,Fondation BMCE,Partenariat,2021,471368,Economie
+22015,Banque Populaire,Partenariat,2023,402518,Electrotechnique
+22016,UE,Don,2022,198532,Electrotechnique
+22017,OCP Group,Partenariat,2022,403444,Economie
+22018,Ministère,Subvention,2021,104081,Electrotechnique
+22019,Banque Populaire,Subvention,2022,260333,Juridique
+22020,Banque Populaire,Don,2020,439591,Génie Civil
+22021,Fondation BMCE,Subvention,2022,199436,Electrotechnique
+22022,OCP Group,Subvention,2023,475467,Informatique
+22023,AFD,Subvention,2022,150704,Informatique
+22024,AFD,Don,2022,287883,Juridique
+22025,Banque Populaire,Subvention,2023,324300,Informatique
+22026,UE,Partenariat,2021,223188,Juridique
+22027,Fondation BMCE,Subvention,2021,220723,Economie
+22028,Fondation BMCE,Subvention,2022,331338,Management
+22029,Maroc Telecom,Subvention,2024,196420,Génie Civil
+22030,Ministère,Partenariat,2024,53218,Juridique
+22031,UE,Subvention,2021,61552,Génie Civil
+22032,UE,Subvention,2023,381287,Economie
+22033,Ministère,Partenariat,2022,396913,Economie
+22034,Maroc Telecom,Don,2021,84745,Informatique
+22035,Fondation BMCE,Partenariat,2024,427389,Informatique
+22036,Banque Populaire,Don,2020,439357,Electrotechnique
+22037,Ministère,Subvention,2024,59568,Génie Civil
+22038,OCP Group,Partenariat,2022,410741,Informatique
+22039,Fondation BMCE,Partenariat,2020,124254,Informatique
+22040,Maroc Telecom,Don,2021,411988,Juridique
+22041,AFD,Don,2020,408419,Management
+22042,Banque Populaire,Partenariat,2020,95223,Economie
+22043,Fondation BMCE,Don,2021,207773,Informatique
+22044,Banque Populaire,Subvention,2020,313258,Electrotechnique
+22045,Ministère,Subvention,2020,335200,Juridique
+22046,OCP Group,Don,2022,138638,Juridique
+22047,Banque Populaire,Don,2020,159678,Génie Civil
+22048,AFD,Don,2022,492273,Informatique
+22049,UE,Don,2020,280839,Economie
+22050,Banque Populaire,Partenariat,2022,128288,Management
+22051,Banque Populaire,Subvention,2020,259300,Economie
+22052,AFD,Subvention,2021,244339,Génie Civil
+22053,AFD,Subvention,2020,213413,Economie
+22054,UE,Don,2022,332181,Electrotechnique
+22055,Ministère,Don,2020,380498,Economie
+22056,Ministère,Subvention,2024,299453,Electrotechnique
+22057,Fondation BMCE,Partenariat,2021,167776,Juridique
+22058,UE,Partenariat,2021,217871,Informatique
+22059,Fondation BMCE,Partenariat,2020,341416,Juridique
+22060,Banque Populaire,Partenariat,2021,308236,Informatique
+22061,UE,Partenariat,2022,371031,Juridique
+22062,Fondation BMCE,Partenariat,2020,352660,Management
+22063,AFD,Don,2023,59275,Juridique
+22064,UE,Subvention,2023,266092,Management
+22065,AFD,Subvention,2022,166578,Electrotechnique
+22066,AFD,Subvention,2020,264273,Informatique
+22067,Banque Populaire,Partenariat,2023,457246,Génie Civil
+22068,OCP Group,Don,2023,350098,Management
+22069,UE,Partenariat,2021,292974,Economie
+22070,Ministère,Subvention,2023,203116,Informatique
+22071,AFD,Don,2021,85437,Génie Civil
+22072,Banque Populaire,Partenariat,2022,280900,Juridique
+22073,Banque Populaire,Partenariat,2023,120459,Génie Civil
+22074,Ministère,Partenariat,2023,100738,Génie Civil
+22075,Banque Populaire,Subvention,2024,197680,Informatique
+22076,Banque Populaire,Subvention,2022,201474,Electrotechnique
+22077,Banque Populaire,Subvention,2021,456443,Management
+22078,AFD,Don,2021,472071,Electrotechnique
+22079,Ministère,Don,2020,482839,Electrotechnique
+22080,UE,Subvention,2024,377941,Electrotechnique
+22081,OCP Group,Don,2023,483413,Management
+22082,Fondation BMCE,Subvention,2021,278651,Informatique
+22083,OCP Group,Don,2024,310589,Management
+22084,UE,Don,2023,53719,Management
+22085,Ministère,Don,2022,71856,Informatique
+22086,Banque Populaire,Don,2024,425871,Management
+22087,OCP Group,Subvention,2021,107843,Informatique
+22088,Banque Populaire,Partenariat,2020,303209,Informatique
+22089,Banque Populaire,Subvention,2023,174158,Economie
+22090,AFD,Subvention,2021,230879,Informatique
+22091,Fondation BMCE,Subvention,2024,77142,Economie
+22092,Ministère,Subvention,2022,426983,Economie
+22093,Ministère,Partenariat,2024,50990,Management
+22094,OCP Group,Subvention,2021,147260,Management
+22095,AFD,Subvention,2023,311508,Juridique
+22096,UE,Don,2024,465384,Informatique
+22097,Maroc Telecom,Partenariat,2023,50937,Economie
+22098,Ministère,Subvention,2024,460415,Management
+22099,Banque Populaire,Subvention,2022,328647,Juridique
+22100,UE,Subvention,2020,129669,Génie Civil

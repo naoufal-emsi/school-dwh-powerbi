@@ -50,4 +50,3 @@ dbt_env/
 
 # Large files
 *.xlsx
-*.csv

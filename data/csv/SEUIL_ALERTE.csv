@@ -1,0 +1,8 @@
+id_seuil,kpi,seuil_alerte,niveau,message
+1,taux_echec_module,0.3,Critique,Module à risque détecté
+2,taux_absenteisme,0.25,Avertissement,Absentéisme élevé
+3,taux_abandon,0.1,Critique,Taux d'abandon critique
+4,taux_recouvrement,0.8,Avertissement,Recouvrement insuffisant
+5,score_satisfaction,3.0,Critique,Satisfaction faible
+6,taux_emploi_6mois,0.7,Avertissement,Insertion insuffisante
+7,taux_retard_prof,0.2,Info,Retards fréquents

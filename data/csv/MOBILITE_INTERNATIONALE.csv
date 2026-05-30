@@ -1,0 +1,181 @@
+id_mobilite,id_etudiant,type,pays_destination,universite_partenaire,date_debut,date_fin,programme
+20001,1135,Entrant,Italie,TU Berlin,2024-11-22,2025-09-04,Interne
+20002,1805,Sortant,Canada,ULB,2023-01-12,2023-10-28,Campus France
+20003,1138,Sortant,Belgique,MIT,2024-12-08,2025-04-02,Erasmus+
+20004,1241,Entrant,USA,ULB,2024-12-07,2025-03-07,Fulbright
+20005,1329,Sortant,Italie,Univ. Paris-Saclay,2022-12-24,2023-12-14,Interne
+20006,1254,Entrant,Allemagne,ULB,2023-08-29,2023-12-29,Interne
+20007,1420,Sortant,Allemagne,Politecnico,2024-05-30,2025-05-24,Fulbright
+20008,1926,Sortant,Belgique,Univ. Paris-Saclay,2021-11-05,2022-09-23,Fulbright
+20009,1595,Entrant,Allemagne,Politecnico,2023-06-03,2023-09-10,Fulbright
+20010,1811,Sortant,USA,ULB,2023-09-14,2024-07-18,Interne
+20011,1604,Sortant,Italie,McGill,2021-10-25,2022-10-04,Interne
+20012,1119,Sortant,France,Politecnico,2021-12-19,2022-06-24,Interne
+20013,1744,Entrant,USA,McGill,2024-08-27,2025-07-18,Erasmus+
+20014,1186,Sortant,Espagne,MIT,2024-11-28,2025-06-01,Erasmus+
+20015,2000,Entrant,France,ULB,2022-04-29,2023-01-10,Interne
+20016,1798,Sortant,Canada,MIT,2023-04-25,2024-02-08,Erasmus+
+20017,1972,Sortant,USA,Politecnico,2023-02-12,2024-01-01,Interne
+20018,2045,Sortant,USA,INSA Lyon,2022-10-13,2023-07-30,Interne
+20019,2075,Entrant,France,INSA Lyon,2023-03-01,2023-10-03,DAAD
+20020,1728,Sortant,Belgique,Politecnico,2022-05-22,2023-01-09,Erasmus+
+20021,1716,Sortant,Belgique,TU Berlin,2021-10-31,2022-07-17,Campus France
+20022,1634,Sortant,Espagne,Univ. Paris-Saclay,2021-10-27,2022-06-20,Campus France
+20023,1858,Sortant,Belgique,McGill,2022-02-22,2022-11-17,Erasmus+
+20024,1522,Entrant,France,INSA Lyon,2024-10-18,2025-08-07,DAAD
+20025,1286,Sortant,USA,MIT,2021-12-02,2022-04-17,Fulbright
+20026,1999,Sortant,Italie,Politecnico,2024-07-03,2025-01-20,Campus France
+20027,1778,Entrant,Espagne,Univ. Paris-Saclay,2022-09-18,2022-12-26,Erasmus+
+20028,2106,Sortant,Allemagne,MIT,2022-12-06,2023-07-20,Fulbright
+20029,2159,Entrant,France,Politecnico,2022-05-24,2023-02-07,DAAD
+20030,1658,Sortant,Belgique,INSA Lyon,2022-03-25,2022-08-15,Interne
+20031,1400,Sortant,Canada,ULB,2024-08-19,2025-01-28,Campus France
+20032,2098,Sortant,France,Politecnico,2021-10-27,2022-09-18,Campus France
+20033,1036,Entrant,Canada,McGill,2023-11-25,2024-04-08,Campus France
+20034,1264,Sortant,France,TU Berlin,2023-03-20,2023-10-28,Erasmus+
+20035,1808,Sortant,USA,ULB,2023-07-14,2023-12-20,Erasmus+
+20036,1317,Entrant,Canada,ULB,2024-04-23,2024-12-19,Interne
+20037,1114,Sortant,Italie,Politecnico,2023-03-24,2023-08-22,Interne
+20038,2183,Entrant,Italie,INSA Lyon,2024-08-03,2025-05-17,Fulbright
+20039,2180,Sortant,Espagne,Politecnico,2022-09-07,2023-06-19,Fulbright
+20040,1116,Sortant,USA,ULB,2023-01-29,2023-11-27,DAAD
+20041,1080,Sortant,France,Politecnico,2023-12-19,2024-06-10,Campus France
+20042,1701,Sortant,Italie,ULB,2024-12-07,2025-11-13,Erasmus+
+20043,1612,Sortant,USA,INSA Lyon,2022-12-02,2023-08-26,DAAD
+20044,1554,Sortant,France,McGill,2022-11-09,2023-08-25,Erasmus+
+20045,2069,Sortant,Canada,McGill,2024-05-11,2025-04-09,Interne
+20046,1858,Sortant,Belgique,MIT,2023-01-11,2023-06-13,Interne
+20047,1384,Sortant,France,MIT,2023-09-04,2024-08-30,DAAD
+20048,1502,Entrant,Allemagne,McGill,2023-10-11,2024-08-23,Fulbright
+20049,1215,Sortant,Allemagne,Politecnico,2023-02-10,2023-10-11,Fulbright
+20050,1447,Sortant,Allemagne,ULB,2022-10-07,2023-06-06,Erasmus+
+20051,1180,Entrant,Espagne,MIT,2021-11-14,2022-02-26,Campus France
+20052,1136,Sortant,Allemagne,INSA Lyon,2024-12-01,2025-07-11,Campus France
+20053,1909,Entrant,Allemagne,MIT,2021-12-20,2022-04-18,Erasmus+
+20054,1737,Sortant,USA,McGill,2023-07-20,2024-01-10,Erasmus+
+20055,1789,Sortant,Allemagne,INSA Lyon,2023-08-12,2024-02-05,Fulbright
+20056,1284,Sortant,Belgique,McGill,2022-02-09,2022-05-19,Fulbright
+20057,1073,Sortant,Belgique,Univ. Paris-Saclay,2023-10-02,2024-07-16,Fulbright
+20058,2051,Sortant,Espagne,INSA Lyon,2021-09-09,2022-08-31,Interne
+20059,1019,Entrant,Canada,MIT,2024-08-15,2025-07-06,Campus France
+20060,2085,Sortant,Espagne,MIT,2022-10-12,2023-09-14,Interne
+20061,1906,Sortant,Espagne,INSA Lyon,2022-02-11,2022-11-01,Campus France
+20062,2102,Entrant,France,TU Berlin,2024-10-18,2025-03-06,Campus France
+20063,1348,Entrant,USA,McGill,2024-02-04,2024-06-23,Erasmus+
+20064,1368,Sortant,Espagne,Politecnico,2021-10-19,2022-09-15,Fulbright
+20065,1551,Entrant,Espagne,Univ. Paris-Saclay,2021-10-03,2022-04-17,DAAD
+20066,1760,Sortant,France,McGill,2023-08-28,2024-03-10,Interne
+20067,2034,Entrant,Italie,INSA Lyon,2024-07-17,2025-01-14,Interne
+20068,1236,Sortant,France,TU Berlin,2024-02-23,2025-01-15,DAAD
+20069,2118,Sortant,Italie,Univ. Paris-Saclay,2023-02-26,2023-07-25,Erasmus+
+20070,1029,Entrant,USA,MIT,2024-08-30,2025-01-13,Fulbright
+20071,1019,Sortant,Belgique,Politecnico,2024-02-11,2024-07-05,Erasmus+
+20072,2042,Sortant,France,TU Berlin,2022-07-16,2023-06-18,Erasmus+
+20073,1487,Sortant,USA,ULB,2023-02-28,2023-10-27,Erasmus+
+20074,1185,Sortant,Allemagne,Politecnico,2022-04-08,2022-11-29,Erasmus+
+20075,1404,Sortant,Allemagne,MIT,2022-10-19,2023-08-22,Interne
+20076,1125,Entrant,Italie,McGill,2021-12-22,2022-04-11,DAAD
+20077,1417,Sortant,France,MIT,2023-06-05,2024-04-09,Campus France
+20078,1916,Sortant,France,MIT,2024-06-03,2025-04-03,Interne
+20079,1841,Sortant,USA,INSA Lyon,2024-07-25,2024-11-22,Erasmus+
+20080,2013,Entrant,Canada,INSA Lyon,2024-02-28,2024-12-21,Erasmus+
+20081,1299,Sortant,Belgique,McGill,2023-02-02,2023-10-07,DAAD
+20082,1963,Entrant,USA,TU Berlin,2023-01-17,2023-11-08,Interne
+20083,2127,Entrant,Espagne,McGill,2024-01-02,2024-04-30,Fulbright
+20084,2149,Sortant,Italie,Politecnico,2022-06-23,2022-09-30,DAAD
+20085,1921,Entrant,USA,ULB,2022-05-01,2023-02-06,Interne
+20086,1448,Sortant,France,INSA Lyon,2024-09-03,2025-03-26,DAAD
+20087,1056,Sortant,Espagne,McGill,2021-12-14,2022-09-26,Fulbright
+20088,1070,Entrant,Espagne,Politecnico,2021-11-20,2022-11-10,DAAD
+20089,1124,Sortant,Espagne,MIT,2023-07-04,2024-02-22,Fulbright
+20090,1014,Entrant,Canada,MIT,2022-02-12,2023-01-20,Campus France
+20091,1959,Entrant,Espagne,McGill,2022-01-31,2022-12-16,Campus France
+20092,1162,Sortant,France,ULB,2023-01-24,2023-06-24,Erasmus+
+20093,1724,Entrant,Italie,MIT,2023-04-16,2024-03-08,DAAD
+20094,1511,Sortant,France,Univ. Paris-Saclay,2022-04-01,2022-09-22,Erasmus+
+20095,1458,Sortant,France,Politecnico,2024-06-19,2024-10-26,Fulbright
+20096,1592,Entrant,USA,Univ. Paris-Saclay,2022-10-16,2023-02-25,Erasmus+
+20097,1042,Sortant,Espagne,Politecnico,2023-07-27,2024-06-17,Campus France
+20098,1898,Sortant,Italie,McGill,2023-07-09,2024-01-03,Fulbright
+20099,1652,Sortant,USA,ULB,2022-02-18,2022-10-24,Campus France
+20100,1231,Entrant,Belgique,INSA Lyon,2023-11-02,2024-10-11,Campus France
+20101,2150,Sortant,Allemagne,Politecnico,2023-08-19,2024-01-31,DAAD
+20102,1611,Sortant,USA,Politecnico,2022-10-04,2023-03-21,Campus France
+20103,1015,Sortant,Italie,Politecnico,2024-08-10,2025-07-26,DAAD
+20104,1780,Entrant,Espagne,ULB,2024-03-06,2024-09-20,Fulbright
+20105,1486,Sortant,USA,Univ. Paris-Saclay,2022-08-16,2023-06-11,Erasmus+
+20106,1695,Sortant,Italie,Univ. Paris-Saclay,2023-01-25,2023-07-07,DAAD
+20107,1704,Sortant,Italie,TU Berlin,2024-08-28,2025-02-24,DAAD
+20108,2053,Sortant,Canada,ULB,2023-11-10,2024-03-05,Interne
+20109,1083,Sortant,Canada,ULB,2024-09-02,2025-03-16,DAAD
+20110,1292,Sortant,Italie,MIT,2024-05-10,2025-04-22,Interne
+20111,1302,Entrant,France,Politecnico,2024-09-30,2025-06-23,DAAD
+20112,1491,Sortant,Canada,Politecnico,2022-03-11,2022-09-05,Interne
+20113,1198,Sortant,Espagne,McGill,2022-08-31,2023-01-10,Fulbright
+20114,1475,Sortant,France,ULB,2023-04-04,2024-01-24,Interne
+20115,2124,Sortant,France,Univ. Paris-Saclay,2023-07-17,2024-05-12,Interne
+20116,1153,Entrant,Italie,ULB,2023-02-25,2023-07-04,Fulbright
+20117,1338,Sortant,Belgique,Univ. Paris-Saclay,2021-11-09,2022-03-11,Campus France
+20118,1218,Sortant,Italie,INSA Lyon,2022-06-24,2023-03-22,Interne
+20119,2006,Sortant,Italie,INSA Lyon,2023-05-24,2023-12-21,Interne
+20120,1638,Entrant,USA,Politecnico,2024-04-01,2024-11-23,Interne
+20121,1466,Entrant,Italie,ULB,2024-11-13,2025-09-08,Interne
+20122,1032,Sortant,Belgique,INSA Lyon,2024-07-03,2024-12-25,DAAD
+20123,2153,Sortant,France,INSA Lyon,2021-12-04,2022-09-11,Fulbright
+20124,1188,Sortant,Espagne,McGill,2024-10-25,2025-06-08,Campus France
+20125,1624,Sortant,Italie,Univ. Paris-Saclay,2022-04-06,2022-12-14,Fulbright
+20126,2163,Sortant,USA,TU Berlin,2021-10-17,2022-03-23,Erasmus+
+20127,1545,Entrant,Canada,Politecnico,2022-01-03,2022-04-05,DAAD
+20128,2160,Sortant,Espagne,McGill,2024-09-03,2025-02-01,Erasmus+
+20129,1611,Sortant,Italie,TU Berlin,2021-10-20,2022-09-23,Fulbright
+20130,1586,Entrant,USA,Politecnico,2022-04-12,2022-11-24,Campus France
+20131,1027,Sortant,Allemagne,Univ. Paris-Saclay,2023-04-28,2023-09-05,Campus France
+20132,2025,Sortant,France,Politecnico,2023-12-30,2024-09-01,DAAD
+20133,1645,Sortant,Italie,TU Berlin,2024-03-19,2024-12-19,Campus France
+20134,1648,Sortant,Allemagne,Politecnico,2022-11-25,2023-11-12,Interne
+20135,1258,Sortant,USA,Politecnico,2024-04-14,2024-12-21,DAAD
+20136,1718,Sortant,Italie,TU Berlin,2021-09-07,2022-02-19,DAAD
+20137,1204,Sortant,France,MIT,2022-01-19,2022-12-24,Erasmus+
+20138,1626,Sortant,France,Politecnico,2023-06-27,2023-12-20,Campus France
+20139,1593,Sortant,Canada,McGill,2022-10-05,2023-03-29,Interne
+20140,1327,Entrant,Allemagne,ULB,2024-03-11,2024-11-06,Interne
+20141,1723,Sortant,Allemagne,Politecnico,2022-12-03,2023-09-08,Interne
+20142,1649,Entrant,Canada,INSA Lyon,2024-12-27,2025-11-02,Campus France
+20143,2064,Sortant,Belgique,TU Berlin,2023-05-09,2024-01-25,Erasmus+
+20144,1317,Entrant,Espagne,ULB,2021-12-08,2022-03-23,Interne
+20145,1325,Entrant,USA,McGill,2024-04-03,2025-02-20,Interne
+20146,2110,Sortant,Canada,McGill,2022-07-21,2022-11-28,Interne
+20147,1281,Sortant,USA,TU Berlin,2024-07-05,2024-10-15,DAAD
+20148,1858,Entrant,Espagne,Univ. Paris-Saclay,2021-11-24,2022-07-28,Campus France
+20149,1236,Entrant,France,INSA Lyon,2023-04-02,2023-10-28,Erasmus+
+20150,1402,Sortant,France,ULB,2022-04-05,2022-08-29,Erasmus+
+20151,1285,Sortant,Canada,INSA Lyon,2023-01-14,2023-08-18,Interne
+20152,2132,Entrant,Canada,MIT,2024-09-07,2025-05-07,Interne
+20153,1873,Sortant,Canada,MIT,2023-12-15,2024-10-07,Fulbright
+20154,1565,Sortant,Belgique,MIT,2022-10-17,2023-03-19,DAAD
+20155,2172,Sortant,Italie,Politecnico,2023-01-04,2023-05-18,Campus France
+20156,1168,Entrant,USA,Univ. Paris-Saclay,2022-08-11,2023-03-19,Campus France
+20157,1067,Sortant,Allemagne,McGill,2023-11-30,2024-03-27,DAAD
+20158,1846,Sortant,Italie,ULB,2022-12-31,2023-09-02,DAAD
+20159,1780,Sortant,Italie,MIT,2023-02-09,2023-09-20,DAAD
+20160,1136,Sortant,Belgique,Univ. Paris-Saclay,2022-06-09,2022-09-14,Fulbright
+20161,1030,Entrant,USA,MIT,2024-02-25,2024-06-16,DAAD
+20162,1077,Sortant,Espagne,INSA Lyon,2022-11-02,2023-08-28,Erasmus+
+20163,1193,Sortant,Belgique,MIT,2023-07-26,2024-06-16,Erasmus+
+20164,1527,Sortant,France,ULB,2021-11-07,2022-07-11,DAAD
+20165,1536,Sortant,Italie,Politecnico,2024-01-25,2024-11-15,Campus France
+20166,2182,Sortant,USA,MIT,2024-08-24,2025-02-07,Campus France
+20167,1633,Sortant,France,Univ. Paris-Saclay,2024-07-26,2025-03-30,DAAD
+20168,2171,Sortant,France,ULB,2024-05-21,2025-02-08,Fulbright
+20169,1668,Sortant,USA,Univ. Paris-Saclay,2022-11-24,2023-08-11,DAAD
+20170,1884,Sortant,Espagne,Univ. Paris-Saclay,2022-04-13,2023-03-30,Interne
+20171,1909,Sortant,Allemagne,Univ. Paris-Saclay,2022-07-25,2022-10-23,Fulbright
+20172,1325,Entrant,France,TU Berlin,2024-11-02,2025-05-08,Interne
+20173,1031,Sortant,Allemagne,Univ. Paris-Saclay,2021-10-21,2022-08-20,Fulbright
+20174,2032,Entrant,Belgique,Politecnico,2023-04-08,2023-09-08,Fulbright
+20175,2164,Sortant,France,INSA Lyon,2024-09-05,2025-04-02,Erasmus+
+20176,1482,Sortant,Canada,TU Berlin,2023-01-07,2023-12-24,Erasmus+
+20177,1003,Entrant,Belgique,Univ. Paris-Saclay,2022-11-15,2023-04-23,Erasmus+
+20178,1048,Entrant,USA,MIT,2024-03-29,2024-11-19,DAAD
+20179,1662,Entrant,Canada,Univ. Paris-Saclay,2024-12-19,2025-12-19,Erasmus+
+20180,1522,Sortant,France,Univ. Paris-Saclay,2022-10-29,2023-05-01,Interne

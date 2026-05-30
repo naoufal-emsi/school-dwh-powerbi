@@ -1,0 +1,151 @@
+id_signalement,id_etudiant,date_signalement,type,gravite,statut
+19001,1926,2022-09-06,Retard chronique,Mineure,En cours
+19002,1753,2023-05-11,Fraude,Mineure,Traité
+19003,1663,2024-07-20,Retard chronique,Mineure,Traité
+19004,1805,2021-09-07,Absence injustifiée,Mineure,Traité
+19005,2168,2023-02-22,Retard chronique,Mineure,En cours
+19006,1211,2022-05-06,Retard chronique,Mineure,Traité
+19007,1002,2024-09-07,Absence injustifiée,Mineure,Traité
+19008,1038,2024-05-20,Comportement,Mineure,Traité
+19009,1690,2022-07-24,Comportement,Majeure,En cours
+19010,1624,2025-04-02,Retard chronique,Mineure,En cours
+19011,1242,2025-04-13,Comportement,Mineure,Traité
+19012,1086,2024-08-22,Comportement,Mineure,Traité
+19013,1669,2022-04-16,Absence injustifiée,Mineure,En cours
+19014,1101,2025-03-20,Absence injustifiée,Majeure,Traité
+19015,1399,2021-10-01,Retard chronique,Majeure,Traité
+19016,1238,2023-08-12,Comportement,Majeure,Traité
+19017,1980,2022-03-11,Absence injustifiée,Majeure,Traité
+19018,1654,2024-04-06,Retard chronique,Mineure,Traité
+19019,1125,2023-01-21,Retard chronique,Majeure,Traité
+19020,1215,2022-10-27,Absence injustifiée,Majeure,Traité
+19021,1181,2024-12-13,Comportement,Majeure,En cours
+19022,1274,2024-03-22,Absence injustifiée,Mineure,Traité
+19023,1092,2022-01-04,Fraude,Mineure,Traité
+19024,1858,2023-10-30,Retard chronique,Mineure,Traité
+19025,1019,2024-02-07,Fraude,Mineure,Traité
+19026,1312,2024-10-12,Retard chronique,Mineure,Traité
+19027,2073,2024-10-16,Absence injustifiée,Mineure,Traité
+19028,1720,2024-12-10,Comportement,Mineure,Traité
+19029,1690,2024-01-26,Absence injustifiée,Mineure,En cours
+19030,1808,2024-11-15,Comportement,Majeure,Traité
+19031,1664,2025-04-23,Absence injustifiée,Majeure,Traité
+19032,1677,2022-08-30,Comportement,Mineure,Traité
+19033,1370,2024-04-28,Comportement,Majeure,Traité
+19034,1121,2025-01-27,Absence injustifiée,Mineure,Traité
+19035,1209,2023-10-11,Absence injustifiée,Majeure,En cours
+19036,1690,2022-10-09,Retard chronique,Majeure,Traité
+19037,1525,2023-03-26,Fraude,Mineure,Traité
+19038,1136,2023-10-21,Fraude,Mineure,Traité
+19039,1453,2021-10-01,Absence injustifiée,Mineure,Traité
+19040,1509,2021-09-14,Absence injustifiée,Majeure,Traité
+19041,1631,2023-08-20,Fraude,Mineure,Traité
+19042,1089,2024-08-14,Fraude,Mineure,Traité
+19043,1416,2023-06-03,Absence injustifiée,Mineure,Traité
+19044,1776,2024-07-17,Fraude,Mineure,Traité
+19045,1137,2022-02-27,Comportement,Majeure,Traité
+19046,1832,2022-10-11,Retard chronique,Mineure,Traité
+19047,2015,2023-12-15,Comportement,Majeure,Traité
+19048,1544,2023-03-16,Absence injustifiée,Mineure,Traité
+19049,1308,2022-04-19,Absence injustifiée,Majeure,Traité
+19050,1990,2021-12-14,Retard chronique,Mineure,Traité
+19051,1303,2022-06-23,Absence injustifiée,Majeure,Traité
+19052,2024,2024-09-16,Comportement,Majeure,En cours
+19053,1259,2023-12-25,Absence injustifiée,Mineure,Traité
+19054,1403,2022-07-07,Absence injustifiée,Mineure,Traité
+19055,1015,2022-11-08,Absence injustifiée,Mineure,En cours
+19056,1327,2025-03-01,Absence injustifiée,Mineure,Traité
+19057,1685,2023-05-27,Fraude,Mineure,Traité
+19058,1721,2025-01-29,Comportement,Mineure,En cours
+19059,1313,2024-07-05,Fraude,Majeure,Traité
+19060,2199,2024-10-17,Absence injustifiée,Majeure,Traité
+19061,1226,2022-06-19,Absence injustifiée,Mineure,Traité
+19062,1068,2023-07-19,Retard chronique,Majeure,Traité
+19063,1028,2022-02-23,Fraude,Mineure,En cours
+19064,1535,2023-03-29,Fraude,Mineure,Traité
+19065,1405,2023-11-22,Absence injustifiée,Mineure,Traité
+19066,1292,2023-06-16,Retard chronique,Mineure,Traité
+19067,2004,2022-12-26,Fraude,Majeure,Traité
+19068,1346,2025-01-04,Absence injustifiée,Mineure,Traité
+19069,1925,2022-03-31,Fraude,Majeure,En cours
+19070,1512,2022-09-18,Absence injustifiée,Majeure,Traité
+19071,1663,2023-07-09,Comportement,Mineure,En cours
+19072,1004,2025-02-23,Fraude,Mineure,Traité
+19073,1573,2022-12-14,Retard chronique,Majeure,Traité
+19074,2046,2025-04-04,Retard chronique,Mineure,Traité
+19075,2174,2022-04-05,Comportement,Majeure,Traité
+19076,2128,2021-12-23,Fraude,Mineure,En cours
+19077,1057,2023-11-13,Retard chronique,Majeure,Traité
+19078,1763,2023-11-22,Fraude,Mineure,Traité
+19079,1041,2021-10-26,Absence injustifiée,Mineure,Traité
+19080,1508,2024-07-07,Retard chronique,Mineure,Traité
+19081,1656,2025-04-06,Comportement,Mineure,Traité
+19082,1851,2024-03-09,Retard chronique,Majeure,Traité
+19083,1165,2022-12-24,Comportement,Mineure,Traité
+19084,1373,2024-10-14,Fraude,Majeure,Traité
+19085,1474,2022-10-01,Comportement,Majeure,Traité
+19086,1554,2022-12-26,Absence injustifiée,Mineure,Traité
+19087,1515,2024-04-30,Absence injustifiée,Mineure,En cours
+19088,1631,2022-08-19,Retard chronique,Mineure,Traité
+19089,1273,2021-09-24,Comportement,Majeure,Traité
+19090,1166,2022-10-01,Comportement,Mineure,Traité
+19091,1584,2022-03-20,Comportement,Majeure,En cours
+19092,2166,2022-04-16,Retard chronique,Majeure,Traité
+19093,1241,2025-04-11,Absence injustifiée,Majeure,En cours
+19094,1163,2022-07-04,Comportement,Mineure,Traité
+19095,1302,2023-06-15,Retard chronique,Mineure,Traité
+19096,1185,2025-01-06,Retard chronique,Mineure,Traité
+19097,1355,2023-01-08,Fraude,Mineure,Traité
+19098,1825,2024-08-27,Retard chronique,Mineure,Traité
+19099,1292,2023-09-23,Absence injustifiée,Mineure,Traité
+19100,1395,2024-04-16,Retard chronique,Mineure,Traité
+19101,1293,2024-04-28,Retard chronique,Majeure,Traité
+19102,1009,2023-08-29,Comportement,Mineure,Traité
+19103,1733,2025-01-13,Absence injustifiée,Mineure,Traité
+19104,2051,2023-04-01,Fraude,Majeure,Traité
+19105,1221,2021-10-01,Fraude,Mineure,Traité
+19106,1545,2023-05-28,Retard chronique,Majeure,Traité
+19107,1547,2022-11-16,Absence injustifiée,Majeure,En cours
+19108,1923,2023-04-01,Fraude,Mineure,Traité
+19109,1097,2025-01-23,Retard chronique,Mineure,Traité
+19110,1831,2024-06-25,Absence injustifiée,Majeure,Traité
+19111,1298,2024-04-17,Absence injustifiée,Mineure,Traité
+19112,1139,2025-04-07,Fraude,Majeure,Traité
+19113,1301,2023-12-10,Comportement,Majeure,Traité
+19114,1181,2025-01-28,Absence injustifiée,Majeure,Traité
+19115,1860,2022-08-14,Comportement,Mineure,En cours
+19116,1620,2022-06-19,Absence injustifiée,Majeure,Traité
+19117,1759,2022-08-22,Absence injustifiée,Mineure,Traité
+19118,1412,2021-11-16,Retard chronique,Mineure,Traité
+19119,1691,2024-05-24,Absence injustifiée,Mineure,Traité
+19120,1297,2024-10-21,Retard chronique,Mineure,Traité
+19121,1726,2022-10-30,Fraude,Mineure,Traité
+19122,1592,2024-07-03,Absence injustifiée,Mineure,Traité
+19123,2148,2021-10-10,Absence injustifiée,Mineure,En cours
+19124,1403,2024-02-13,Absence injustifiée,Mineure,Traité
+19125,1632,2024-10-28,Comportement,Mineure,Traité
+19126,2015,2023-02-12,Fraude,Mineure,Traité
+19127,1246,2023-03-21,Fraude,Majeure,Traité
+19128,1690,2023-02-20,Fraude,Mineure,En cours
+19129,1930,2022-03-23,Absence injustifiée,Mineure,Traité
+19130,1603,2023-06-17,Retard chronique,Mineure,Traité
+19131,1808,2024-12-09,Fraude,Majeure,Traité
+19132,1348,2024-11-01,Retard chronique,Mineure,Traité
+19133,1321,2023-08-31,Comportement,Mineure,Traité
+19134,1974,2025-03-29,Absence injustifiée,Mineure,Traité
+19135,1986,2022-07-17,Absence injustifiée,Mineure,Traité
+19136,1963,2024-01-24,Comportement,Majeure,En cours
+19137,1116,2023-08-22,Fraude,Mineure,Traité
+19138,1094,2023-02-20,Comportement,Mineure,En cours
+19139,1456,2022-02-25,Retard chronique,Mineure,Traité
+19140,1616,2021-12-25,Retard chronique,Mineure,Traité
+19141,1507,2025-04-14,Comportement,Mineure,Traité
+19142,1103,2024-05-10,Absence injustifiée,Mineure,Traité
+19143,1086,2025-03-02,Retard chronique,Majeure,Traité
+19144,1588,2022-01-05,Retard chronique,Mineure,En cours
+19145,1501,2023-01-04,Retard chronique,Majeure,Traité
+19146,1446,2023-07-01,Absence injustifiée,Mineure,Traité
+19147,1051,2024-12-01,Absence injustifiée,Mineure,Traité
+19148,2189,2022-10-15,Fraude,Majeure,En cours
+19149,1184,2024-08-02,Retard chronique,Mineure,Traité
+19150,2052,2023-01-06,Comportement,Mineure,Traité

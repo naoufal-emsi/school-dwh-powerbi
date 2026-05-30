@@ -1,0 +1,23 @@
+Page,KPI,Valeur
+P0 - Executive,Effectif total,1200.0
+P0 - Executive,Satisfaction globale moy,3.0
+P0 - Executive,NPS étudiant,-45.6
+P0 - Executive,Taux emploi 6 mois,39.0
+P0 - Executive,Budget exécuté total (MAD),32317135.0
+P1 - Inscriptions,Taux abandon,10.1
+P2 - Performance,Moyenne générale GPA,12.43
+P2 - Performance,Taux réussite global,75.6
+P2 - Performance,Modules à risque (>30% échec),9.0
+P3 - Insertion,Taux emploi 6 mois,39.0
+P3 - Insertion,Salaire médian embauche (MAD),12690.0
+P4 - Professeurs,Taux retard profs,19.2
+P4 - Professeurs,Retard moyen (min),10.6
+P5 - Admin,Délai traitement (jours),8.1
+P5 - Admin,Résolution 1er contact,65.3
+P5 - Admin,Satisfaction admin,2.88
+P6 - Charge,Charge totale moy (h/sem),30.0
+P6 - Charge,Taux surcharge (>40h),2.3
+P7 - Vie étudiante,Taux absentéisme,20.9
+P7 - Vie étudiante,Taux participation clubs,41.7
+P8 - Finance,Taux exécution budgétaire global,89.3
+P8 - Finance,Taux recouvrement frais scol.,87.3

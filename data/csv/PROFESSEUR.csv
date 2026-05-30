@@ -1,0 +1,81 @@
+id_professeur,nom,prenom,grade,departement,specialite,charge_prevue_h,nb_publications,date_recrutement
+401,Douiri,Siham,PH,Génie Civil,Fiscalité,189,17,2018-04-22
+402,El Amrani,Fatima,PH,Génie Civil,Marketing,196,14,2018-08-09
+403,Hajji,Widad,PH,Génie Civil,Réseaux,193,8,2015-09-26
+404,Benali,Youssef,PA,Informatique,Structures,197,17,2006-06-16
+405,El Amrani,Karim,PES,Management,IA,201,2,2009-07-11
+406,Idrissi,Nadia,PH,Management,Réseaux,217,9,2005-09-14
+407,Hajji,Fatima,PA,Management,Marketing,160,16,2006-05-15
+408,Jalal,Laila,PH,Informatique,Marketing,153,6,2010-05-19
+409,Chraibi,Hassan,PA,Génie Civil,Réseaux,197,14,2009-07-25
+410,Chraibi,Mounir,PA,Management,Circuits,175,0,2020-04-01
+411,Jalal,Youssef,PA,Management,Fiscalité,188,10,2019-03-25
+412,Idrissi,Nadia,PH,Informatique,IA,207,16,2013-11-08
+413,Douiri,Youssef,PH,Electrotechnique,IA,168,4,2008-12-09
+414,El Amrani,Siham,PES,Management,IA,207,6,2018-02-24
+415,El Amrani,Mounir,PES,Management,Réseaux,177,18,2017-08-14
+416,El Amrani,Karim,PH,Informatique,Droit,215,14,2009-01-27
+417,Ghali,Youssef,PH,Electrotechnique,Circuits,159,2,2014-06-29
+418,Chraibi,Laila,PH,Electrotechnique,Structures,207,14,2020-03-08
+419,Benali,Karim,PES,Electrotechnique,Marketing,163,4,2015-03-03
+420,Fassi,Adil,PA,Management,Réseaux,164,11,2017-01-28
+421,Benali,Youssef,PA,Génie Civil,Droit,182,19,2016-07-14
+422,Kabbaj,Mounir,PES,Génie Civil,Structures,166,4,2009-03-30
+423,Hajji,Nadia,PH,Informatique,Marketing,173,2,2011-06-23
+424,Chraibi,Nadia,PA,Economie,Marketing,179,8,2012-03-30
+425,Fassi,Youssef,PA,Economie,Circuits,211,8,2021-09-03
+426,Kabbaj,Fatima,PES,Génie Civil,Fiscalité,162,6,2007-01-10
+427,Idrissi,Nadia,PES,Génie Civil,IA,211,1,2014-12-22
+428,El Amrani,Youssef,PES,Génie Civil,Structures,196,15,2019-08-02
+429,Chraibi,Mounir,PH,Juridique,Réseaux,165,8,2015-07-17
+430,Ghali,Nadia,PH,Juridique,Structures,215,12,2008-02-27
+431,El Amrani,Mounir,PES,Informatique,Fiscalité,192,18,2006-09-08
+432,Kabbaj,Fatima,PES,Management,IA,157,19,2017-11-14
+433,Chraibi,Youssef,PA,Génie Civil,Structures,152,16,2009-05-07
+434,Chraibi,Hassan,PES,Management,Fiscalité,161,5,2006-07-21
+435,Fassi,Adil,PA,Economie,Réseaux,165,3,2012-04-28
+436,Kabbaj,Adil,PA,Informatique,Circuits,208,0,2018-06-15
+437,Jalal,Adil,PH,Economie,Droit,198,17,2018-11-23
+438,El Amrani,Widad,PH,Juridique,Marketing,212,18,2013-04-16
+439,Benali,Widad,PES,Juridique,Réseaux,211,8,2012-03-21
+440,Idrissi,Laila,PA,Management,IA,198,12,2016-05-26
+441,Fassi,Siham,PH,Informatique,Marketing,200,7,2008-12-29
+442,Jalal,Youssef,PES,Juridique,Droit,182,12,2010-04-23
+443,Douiri,Widad,PES,Electrotechnique,Réseaux,179,14,2010-11-21
+444,Benali,Adil,PA,Economie,Réseaux,208,10,2018-11-06
+445,Idrissi,Widad,PH,Génie Civil,Réseaux,164,11,2007-10-21
+446,El Amrani,Fatima,PH,Juridique,Réseaux,172,13,2008-06-16
+447,Hajji,Siham,PA,Electrotechnique,Marketing,194,3,2014-08-10
+448,Ghali,Mounir,PES,Electrotechnique,IA,211,0,2009-07-05
+449,Chraibi,Youssef,PES,Informatique,Droit,164,3,2009-07-28
+450,Chraibi,Widad,PA,Informatique,Fiscalité,195,18,2007-06-26
+451,Jalal,Siham,PA,Informatique,Structures,213,8,2021-09-25
+452,Kabbaj,Hassan,PA,Informatique,Circuits,195,9,2012-11-30
+453,El Amrani,Laila,PES,Juridique,Droit,205,3,2005-09-11
+454,Kabbaj,Hassan,PA,Juridique,Structures,193,19,2008-07-05
+455,Fassi,Widad,PH,Informatique,Structures,178,8,2013-05-27
+456,Benali,Fatima,PH,Juridique,Circuits,211,12,2013-11-21
+457,Hajji,Karim,PH,Informatique,Droit,201,11,2018-06-25
+458,Ghali,Fatima,PA,Informatique,Marketing,203,10,2008-08-11
+459,Ghali,Mounir,PA,Electrotechnique,IA,206,11,2014-02-14
+460,Idrissi,Hassan,PES,Génie Civil,Circuits,215,17,2020-08-23
+461,Jalal,Mounir,PES,Juridique,IA,171,11,2020-11-08
+462,Douiri,Adil,PES,Juridique,Marketing,169,15,2021-12-16
+463,Benali,Siham,PA,Management,Structures,182,4,2010-07-26
+464,Chraibi,Nadia,PH,Informatique,IA,174,19,2013-12-24
+465,Kabbaj,Widad,PH,Informatique,Marketing,195,11,2018-11-30
+466,Benali,Nadia,PA,Juridique,Marketing,206,10,2021-09-29
+467,Fassi,Youssef,PES,Génie Civil,Fiscalité,154,8,2015-09-02
+468,El Amrani,Karim,PH,Economie,Circuits,204,17,2014-05-12
+469,Douiri,Fatima,PA,Informatique,Fiscalité,210,2,2017-06-09
+470,Douiri,Adil,PES,Economie,Structures,157,19,2008-08-12
+471,El Amrani,Nadia,PES,Management,Circuits,165,16,2008-05-01
+472,Benali,Adil,PA,Juridique,Structures,197,13,2020-09-16
+473,Douiri,Siham,PH,Electrotechnique,Fiscalité,210,0,2010-10-10
+474,El Amrani,Mounir,PH,Informatique,Droit,164,16,2014-03-23
+475,El Amrani,Widad,PH,Juridique,Marketing,214,7,2009-03-23
+476,El Amrani,Youssef,PA,Juridique,Structures,171,4,2014-12-29
+477,Douiri,Karim,PH,Management,Circuits,152,4,2019-10-08
+478,Fassi,Adil,PES,Informatique,Circuits,203,8,2008-11-02
+479,Idrissi,Youssef,PH,Juridique,Structures,163,2,2014-03-27
+480,Benali,Adil,PA,Génie Civil,Circuits,185,18,2005-12-14

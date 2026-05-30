@@ -1,0 +1,61 @@
+id_module,nom_module,filiere,niveau,departement,credits_ects,heures_prevues,id_professeur
+301,Bases de Données,Génie Electrique,S4,Génie Civil,3,45,452
+302,Algorithmique,Génie Electrique,S2,Management,3,40,430
+303,Réseaux,Finance & Comptabilité,S3,Génie Civil,6,25,448
+304,IA,Droit des Affaires,S5,Economie,5,25,444
+305,POO,Génie Informatique,S2,Juridique,6,25,470
+306,Analyse,Marketing,S3,Génie Civil,4,40,424
+307,Algèbre,Droit des Affaires,S3,Management,3,45,438
+308,Statistiques,Génie Electrique,S6,Juridique,4,30,425
+309,Résistance des Matériaux,Génie Electrique,S1,Informatique,6,20,403
+310,Béton Armé,Génie Electrique,S3,Economie,5,30,411
+311,Électronique,Génie Civil,S3,Electrotechnique,6,45,461
+312,Thermodynamique,Génie Informatique,S2,Génie Civil,5,30,449
+313,Comptabilité,Marketing,S5,Génie Civil,5,40,440
+314,Fiscalité,Génie Civil,S4,Juridique,2,25,453
+315,Marketing Digital,Marketing,S6,Informatique,3,45,436
+316,Management,Droit des Affaires,S1,Génie Civil,6,45,438
+317,Droit Commercial,Marketing,S5,Juridique,5,30,466
+318,Procédure Civile,Marketing,S6,Economie,6,40,474
+319,Bases de Données 2,Finance & Comptabilité,S1,Management,6,30,468
+320,Algorithmique 2,Génie Electrique,S6,Juridique,5,30,465
+321,Réseaux 2,Finance & Comptabilité,S4,Electrotechnique,4,45,403
+322,IA 2,Marketing,S1,Juridique,3,30,429
+323,POO 2,Génie Informatique,S4,Génie Civil,3,25,414
+324,Analyse 2,Génie Civil,S2,Management,2,30,448
+325,Algèbre 2,Génie Civil,S2,Management,2,25,431
+326,Statistiques 2,Génie Electrique,S4,Juridique,2,45,472
+327,Résistance des Matériaux 2,Marketing,S5,Juridique,3,40,465
+328,Béton Armé 2,Marketing,S5,Juridique,4,25,467
+329,Électronique 2,Génie Informatique,S5,Juridique,3,40,423
+330,Thermodynamique 2,Génie Electrique,S4,Electrotechnique,3,40,436
+331,Comptabilité 2,Finance & Comptabilité,S5,Economie,3,25,443
+332,Fiscalité 2,Finance & Comptabilité,S3,Electrotechnique,3,45,418
+333,Marketing Digital 2,Génie Informatique,S1,Génie Civil,4,20,460
+334,Management 2,Marketing,S5,Informatique,2,40,479
+335,Droit Commercial 2,Finance & Comptabilité,S6,Génie Civil,6,40,408
+336,Procédure Civile 2,Finance & Comptabilité,S5,Economie,2,45,444
+337,Bases de Données 3,Génie Informatique,S2,Juridique,2,45,405
+338,Algorithmique 3,Génie Informatique,S2,Génie Civil,6,30,438
+339,Réseaux 3,Marketing,S1,Electrotechnique,3,45,408
+340,IA 3,Génie Informatique,S1,Juridique,4,40,438
+341,POO 3,Génie Informatique,S3,Juridique,4,25,431
+342,Analyse 3,Droit des Affaires,S1,Management,2,20,427
+343,Algèbre 3,Génie Electrique,S1,Economie,6,30,428
+344,Statistiques 3,Génie Civil,S4,Génie Civil,5,25,427
+345,Résistance des Matériaux 3,Finance & Comptabilité,S3,Informatique,3,20,446
+346,Béton Armé 3,Génie Electrique,S5,Electrotechnique,2,20,425
+347,Électronique 3,Droit des Affaires,S1,Electrotechnique,4,20,468
+348,Thermodynamique 3,Génie Electrique,S5,Informatique,6,25,433
+349,Comptabilité 3,Génie Informatique,S5,Economie,6,30,476
+350,Fiscalité 3,Génie Electrique,S6,Informatique,2,30,441
+351,Marketing Digital 3,Droit des Affaires,S1,Economie,5,20,416
+352,Management 3,Marketing,S3,Electrotechnique,4,25,451
+353,Droit Commercial 3,Génie Electrique,S6,Juridique,2,20,429
+354,Procédure Civile 3,Marketing,S6,Economie,5,45,419
+355,Bases de Données 4,Génie Civil,S3,Génie Civil,6,30,414
+356,Algorithmique 4,Finance & Comptabilité,S6,Electrotechnique,3,40,412
+357,Réseaux 4,Finance & Comptabilité,S2,Electrotechnique,4,20,413
+358,IA 4,Marketing,S5,Electrotechnique,4,45,477
+359,POO 4,Génie Informatique,S4,Informatique,5,30,459
+360,Analyse 4,Génie Civil,S4,Génie Civil,2,25,468

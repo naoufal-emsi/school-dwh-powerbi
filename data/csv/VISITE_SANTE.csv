@@ -1,0 +1,301 @@
+id_visite,id_etudiant,date_visite,type_service,motif
+21001,1056,2024-02-10,Médecin,Maladie
+21002,2162,2022-03-21,Soutien scolaire,Orientation
+21003,1682,2022-11-10,Psychologue,Stress
+21004,1117,2023-12-28,Psychologue,Stress
+21005,1960,2023-11-21,Soutien scolaire,Maladie
+21006,1986,2021-09-14,Médecin,Anxiété
+21007,2084,2025-02-25,Médecin,Fatigue
+21008,1973,2022-04-04,Psychologue,Maladie
+21009,1497,2022-07-21,Psychologue,Orientation
+21010,1670,2025-04-10,Psychologue,Orientation
+21011,1146,2022-01-02,Psychologue,Autre
+21012,1264,2024-06-26,Soutien scolaire,Anxiété
+21013,1129,2023-12-18,Soutien scolaire,Autre
+21014,2130,2024-01-17,Médecin,Stress
+21015,2025,2023-08-30,Psychologue,Fatigue
+21016,1650,2023-12-30,Psychologue,Maladie
+21017,1993,2024-09-10,Psychologue,Orientation
+21018,1006,2023-06-21,Soutien scolaire,Anxiété
+21019,1252,2022-02-13,Psychologue,Autre
+21020,1780,2025-01-03,Médecin,Stress
+21021,1733,2022-10-30,Psychologue,Stress
+21022,1649,2022-06-24,Psychologue,Fatigue
+21023,1870,2025-01-15,Soutien scolaire,Maladie
+21024,2200,2024-01-31,Soutien scolaire,Maladie
+21025,1843,2024-07-24,Psychologue,Orientation
+21026,2169,2021-09-21,Médecin,Maladie
+21027,2143,2022-08-24,Soutien scolaire,Stress
+21028,1820,2021-09-25,Psychologue,Stress
+21029,1500,2024-06-12,Soutien scolaire,Autre
+21030,1869,2023-03-09,Soutien scolaire,Stress
+21031,1595,2024-11-02,Psychologue,Stress
+21032,1432,2024-10-04,Médecin,Anxiété
+21033,1195,2021-09-06,Médecin,Stress
+21034,1207,2022-01-27,Psychologue,Anxiété
+21035,1993,2025-03-29,Psychologue,Stress
+21036,1143,2024-09-08,Médecin,Stress
+21037,1968,2024-07-06,Psychologue,Orientation
+21038,1042,2024-06-29,Médecin,Anxiété
+21039,1710,2023-10-13,Médecin,Autre
+21040,1594,2022-12-18,Médecin,Stress
+21041,1245,2022-10-09,Médecin,Fatigue
+21042,1263,2022-10-08,Soutien scolaire,Autre
+21043,1512,2025-04-23,Psychologue,Anxiété
+21044,1106,2023-01-19,Psychologue,Maladie
+21045,1168,2022-12-22,Médecin,Orientation
+21046,1534,2023-01-29,Psychologue,Fatigue
+21047,1957,2024-10-05,Médecin,Fatigue
+21048,1228,2025-01-03,Psychologue,Autre
+21049,1642,2025-04-04,Soutien scolaire,Maladie
+21050,1476,2023-09-28,Médecin,Anxiété
+21051,1590,2024-11-05,Psychologue,Stress
+21052,1790,2024-02-05,Médecin,Maladie
+21053,1891,2023-12-19,Psychologue,Maladie
+21054,1185,2022-06-29,Psychologue,Fatigue
+21055,1593,2023-12-09,Soutien scolaire,Orientation
+21056,1452,2023-02-20,Soutien scolaire,Anxiété
+21057,1607,2024-12-28,Psychologue,Anxiété
+21058,1220,2023-07-05,Psychologue,Orientation
+21059,2072,2021-11-25,Médecin,Anxiété
+21060,2044,2022-12-20,Médecin,Maladie
+21061,2197,2024-04-23,Soutien scolaire,Fatigue
+21062,1830,2021-12-17,Psychologue,Fatigue
+21063,1121,2022-01-23,Psychologue,Orientation
+21064,2065,2025-03-17,Médecin,Autre
+21065,1186,2021-11-23,Soutien scolaire,Anxiété
+21066,1364,2024-06-19,Soutien scolaire,Fatigue
+21067,1478,2022-09-03,Soutien scolaire,Anxiété
+21068,1769,2024-10-23,Médecin,Anxiété
+21069,1652,2022-04-27,Médecin,Maladie
+21070,1159,2021-12-23,Psychologue,Anxiété
+21071,1188,2023-06-05,Soutien scolaire,Stress
+21072,1444,2024-07-22,Médecin,Fatigue
+21073,1338,2023-12-30,Médecin,Orientation
+21074,1404,2023-10-17,Psychologue,Orientation
+21075,2123,2022-12-14,Psychologue,Autre
+21076,1792,2021-12-07,Psychologue,Fatigue
+21077,1069,2023-05-13,Soutien scolaire,Orientation
+21078,1290,2023-06-11,Médecin,Maladie
+21079,1956,2025-01-14,Médecin,Autre
+21080,1395,2024-07-02,Soutien scolaire,Anxiété
+21081,1187,2023-08-28,Soutien scolaire,Maladie
+21082,2182,2023-04-07,Médecin,Orientation
+21083,1612,2024-07-21,Psychologue,Stress
+21084,2083,2024-08-23,Médecin,Orientation
+21085,1166,2025-03-24,Psychologue,Orientation
+21086,1013,2024-06-14,Psychologue,Maladie
+21087,1203,2023-09-13,Psychologue,Anxiété
+21088,2063,2021-09-17,Soutien scolaire,Autre
+21089,1876,2022-04-04,Soutien scolaire,Maladie
+21090,1108,2021-10-26,Médecin,Fatigue
+21091,1847,2023-06-05,Médecin,Fatigue
+21092,1379,2021-09-18,Médecin,Maladie
+21093,1415,2023-09-10,Psychologue,Maladie
+21094,1216,2023-01-04,Psychologue,Anxiété
+21095,1913,2022-09-09,Soutien scolaire,Anxiété
+21096,2122,2023-08-31,Psychologue,Orientation
+21097,1554,2022-08-29,Médecin,Autre
+21098,1352,2022-05-24,Soutien scolaire,Orientation
+21099,2085,2023-06-12,Médecin,Anxiété
+21100,1515,2022-03-29,Psychologue,Fatigue
+21101,1076,2022-03-13,Soutien scolaire,Orientation
+21102,1513,2022-09-01,Psychologue,Maladie
+21103,1477,2023-11-28,Médecin,Fatigue
+21104,1668,2022-04-07,Psychologue,Fatigue
+21105,1187,2021-11-29,Soutien scolaire,Anxiété
+21106,1459,2021-10-18,Soutien scolaire,Stress
+21107,1597,2023-06-19,Médecin,Stress
+21108,1069,2021-11-14,Médecin,Anxiété
+21109,1093,2023-04-28,Psychologue,Anxiété
+21110,1602,2024-05-12,Psychologue,Orientation
+21111,1180,2024-04-11,Médecin,Fatigue
+21112,1707,2024-10-31,Psychologue,Stress
+21113,2040,2023-03-27,Psychologue,Orientation
+21114,1212,2024-04-27,Médecin,Orientation
+21115,1617,2024-04-26,Médecin,Fatigue
+21116,1926,2022-04-17,Soutien scolaire,Orientation
+21117,1311,2024-05-29,Médecin,Anxiété
+21118,1176,2025-01-21,Soutien scolaire,Autre
+21119,1997,2024-09-07,Médecin,Fatigue
+21120,1480,2022-11-07,Médecin,Maladie
+21121,1746,2023-08-09,Soutien scolaire,Orientation
+21122,1923,2023-11-23,Médecin,Fatigue
+21123,1729,2023-08-04,Médecin,Autre
+21124,1285,2021-09-10,Soutien scolaire,Fatigue
+21125,1265,2024-02-26,Soutien scolaire,Maladie
+21126,1204,2024-05-31,Psychologue,Autre
+21127,1057,2021-11-09,Médecin,Fatigue
+21128,2094,2021-12-03,Soutien scolaire,Anxiété
+21129,1702,2022-01-18,Psychologue,Fatigue
+21130,1555,2024-09-23,Soutien scolaire,Autre
+21131,2128,2023-01-20,Médecin,Autre
+21132,1236,2022-03-08,Soutien scolaire,Orientation
+21133,2172,2024-02-04,Soutien scolaire,Fatigue
+21134,1743,2023-05-13,Médecin,Anxiété
+21135,1284,2023-06-26,Soutien scolaire,Maladie
+21136,1521,2021-10-13,Soutien scolaire,Maladie
+21137,1050,2025-03-18,Psychologue,Maladie
+21138,1630,2022-11-01,Médecin,Orientation
+21139,1023,2021-12-11,Soutien scolaire,Orientation
+21140,1690,2021-09-21,Soutien scolaire,Stress
+21141,1685,2024-06-19,Soutien scolaire,Fatigue
+21142,2022,2023-06-30,Médecin,Maladie
+21143,1507,2023-12-25,Médecin,Fatigue
+21144,2100,2022-08-28,Médecin,Anxiété
+21145,1025,2023-08-09,Médecin,Orientation
+21146,1802,2023-06-17,Médecin,Stress
+21147,1265,2022-10-06,Psychologue,Orientation
+21148,1545,2024-07-29,Soutien scolaire,Anxiété
+21149,1316,2022-01-03,Soutien scolaire,Anxiété
+21150,1192,2024-08-08,Psychologue,Anxiété
+21151,1566,2024-02-01,Soutien scolaire,Fatigue
+21152,1091,2023-03-03,Médecin,Anxiété
+21153,1691,2024-06-20,Soutien scolaire,Orientation
+21154,1960,2022-09-18,Psychologue,Fatigue
+21155,1179,2023-01-10,Soutien scolaire,Orientation
+21156,1333,2022-02-28,Médecin,Autre
+21157,2044,2021-11-08,Soutien scolaire,Autre
+21158,1328,2024-12-24,Médecin,Orientation
+21159,1074,2024-03-26,Psychologue,Fatigue
+21160,2083,2023-08-05,Soutien scolaire,Maladie
+21161,1353,2025-01-28,Médecin,Fatigue
+21162,1279,2022-02-20,Soutien scolaire,Maladie
+21163,1685,2022-05-09,Psychologue,Anxiété
+21164,1875,2025-04-04,Psychologue,Fatigue
+21165,1389,2024-02-16,Psychologue,Stress
+21166,1100,2024-03-19,Médecin,Maladie
+21167,1959,2024-10-15,Soutien scolaire,Autre
+21168,1993,2024-01-04,Soutien scolaire,Anxiété
+21169,2002,2022-12-26,Médecin,Anxiété
+21170,1860,2021-10-26,Psychologue,Autre
+21171,1976,2021-11-12,Psychologue,Stress
+21172,1279,2022-03-05,Médecin,Orientation
+21173,1281,2023-07-10,Médecin,Autre
+21174,1758,2024-07-13,Soutien scolaire,Fatigue
+21175,1812,2024-08-03,Médecin,Anxiété
+21176,1134,2024-03-28,Médecin,Autre
+21177,1304,2023-03-27,Soutien scolaire,Anxiété
+21178,1759,2025-04-22,Médecin,Maladie
+21179,1930,2023-02-06,Psychologue,Orientation
+21180,1484,2023-04-08,Psychologue,Fatigue
+21181,1366,2022-05-28,Médecin,Orientation
+21182,1394,2024-03-01,Médecin,Stress
+21183,1403,2021-09-17,Médecin,Autre
+21184,2013,2022-11-05,Médecin,Fatigue
+21185,1063,2023-05-10,Psychologue,Orientation
+21186,1591,2021-09-20,Soutien scolaire,Stress
+21187,1025,2023-03-14,Psychologue,Fatigue
+21188,1615,2023-04-15,Psychologue,Maladie
+21189,1379,2022-08-13,Psychologue,Autre
+21190,1274,2024-06-21,Médecin,Maladie
+21191,1315,2024-05-19,Médecin,Anxiété
+21192,1497,2022-10-10,Psychologue,Maladie
+21193,1918,2022-08-09,Soutien scolaire,Stress
+21194,1544,2024-08-26,Soutien scolaire,Anxiété
+21195,1588,2023-01-04,Psychologue,Maladie
+21196,1299,2025-03-30,Soutien scolaire,Fatigue
+21197,1690,2023-09-23,Soutien scolaire,Orientation
+21198,1630,2024-10-16,Psychologue,Orientation
+21199,1334,2024-06-13,Psychologue,Orientation
+21200,1793,2023-09-17,Psychologue,Orientation
+21201,2130,2024-06-05,Psychologue,Autre
+21202,2184,2023-01-26,Médecin,Fatigue
+21203,1051,2021-09-07,Soutien scolaire,Autre
+21204,1899,2022-03-11,Médecin,Maladie
+21205,1301,2022-11-25,Psychologue,Orientation
+21206,1225,2023-11-17,Soutien scolaire,Fatigue
+21207,1222,2024-07-01,Médecin,Autre
+21208,1541,2023-03-21,Psychologue,Autre
+21209,1589,2024-12-03,Psychologue,Maladie
+21210,1786,2023-07-16,Psychologue,Autre
+21211,1850,2021-09-24,Médecin,Autre
+21212,1058,2024-06-08,Psychologue,Autre
+21213,1290,2023-03-27,Soutien scolaire,Anxiété
+21214,1163,2022-12-31,Soutien scolaire,Stress
+21215,2192,2023-12-15,Médecin,Fatigue
+21216,1943,2022-12-07,Psychologue,Autre
+21217,2069,2023-07-15,Psychologue,Orientation
+21218,1634,2025-03-03,Psychologue,Stress
+21219,2141,2023-04-15,Soutien scolaire,Anxiété
+21220,1340,2024-02-10,Psychologue,Autre
+21221,1568,2024-12-04,Soutien scolaire,Anxiété
+21222,1457,2024-02-19,Médecin,Anxiété
+21223,1966,2023-08-21,Psychologue,Orientation
+21224,1606,2022-02-16,Psychologue,Orientation
+21225,1946,2023-05-23,Psychologue,Orientation
+21226,1251,2023-07-31,Soutien scolaire,Stress
+21227,1355,2022-06-16,Médecin,Autre
+21228,1675,2022-01-16,Soutien scolaire,Orientation
+21229,1764,2024-10-26,Soutien scolaire,Maladie
+21230,1771,2024-07-21,Médecin,Stress
+21231,1779,2023-06-09,Psychologue,Stress
+21232,2070,2025-01-27,Médecin,Anxiété
+21233,1127,2024-08-09,Psychologue,Maladie
+21234,2156,2022-04-29,Psychologue,Maladie
+21235,1571,2024-10-10,Médecin,Stress
+21236,1619,2024-06-30,Soutien scolaire,Maladie
+21237,2182,2021-11-29,Soutien scolaire,Autre
+21238,1028,2022-07-15,Psychologue,Maladie
+21239,2054,2022-06-23,Médecin,Anxiété
+21240,2174,2021-10-02,Soutien scolaire,Orientation
+21241,1487,2023-05-29,Médecin,Maladie
+21242,1551,2025-01-16,Psychologue,Orientation
+21243,1606,2024-03-25,Psychologue,Fatigue
+21244,1337,2024-06-29,Médecin,Anxiété
+21245,1692,2022-02-06,Psychologue,Maladie
+21246,1381,2025-03-29,Psychologue,Orientation
+21247,1480,2024-05-30,Médecin,Orientation
+21248,1647,2022-06-05,Médecin,Anxiété
+21249,1424,2021-11-09,Médecin,Maladie
+21250,1118,2023-04-14,Médecin,Maladie
+21251,1472,2024-06-09,Psychologue,Orientation
+21252,1983,2022-09-10,Soutien scolaire,Orientation
+21253,1627,2023-11-09,Soutien scolaire,Orientation
+21254,1743,2024-07-08,Psychologue,Maladie
+21255,1842,2021-11-01,Psychologue,Stress
+21256,1660,2024-04-20,Psychologue,Orientation
+21257,2179,2024-04-23,Psychologue,Autre
+21258,1404,2025-02-21,Médecin,Orientation
+21259,1170,2024-08-27,Soutien scolaire,Autre
+21260,1220,2025-02-25,Psychologue,Stress
+21261,1705,2023-03-29,Soutien scolaire,Anxiété
+21262,1848,2023-09-04,Médecin,Orientation
+21263,1167,2024-08-30,Soutien scolaire,Fatigue
+21264,1740,2024-08-05,Médecin,Anxiété
+21265,2119,2022-10-10,Médecin,Maladie
+21266,1790,2024-09-20,Médecin,Autre
+21267,1004,2023-06-14,Psychologue,Fatigue
+21268,1817,2021-10-19,Médecin,Anxiété
+21269,1565,2022-05-16,Soutien scolaire,Stress
+21270,1191,2024-05-18,Soutien scolaire,Fatigue
+21271,2031,2023-03-31,Soutien scolaire,Maladie
+21272,1316,2024-03-11,Psychologue,Fatigue
+21273,1843,2024-10-21,Soutien scolaire,Anxiété
+21274,2110,2023-09-15,Médecin,Maladie
+21275,1046,2022-01-15,Médecin,Autre
+21276,1620,2022-06-12,Médecin,Fatigue
+21277,1665,2023-06-12,Soutien scolaire,Stress
+21278,1567,2023-05-21,Soutien scolaire,Autre
+21279,1052,2023-10-01,Psychologue,Autre
+21280,1227,2021-12-17,Soutien scolaire,Maladie
+21281,1265,2021-11-06,Soutien scolaire,Autre
+21282,1068,2022-07-10,Médecin,Stress
+21283,1211,2021-12-14,Psychologue,Stress
+21284,1296,2023-09-11,Soutien scolaire,Orientation
+21285,1842,2021-11-30,Psychologue,Orientation
+21286,1805,2021-09-01,Médecin,Autre
+21287,1331,2023-06-04,Médecin,Orientation
+21288,1343,2021-11-03,Médecin,Stress
+21289,2110,2024-06-25,Psychologue,Anxiété
+21290,1335,2023-11-18,Médecin,Maladie
+21291,1287,2024-07-24,Soutien scolaire,Fatigue
+21292,2003,2021-11-22,Médecin,Autre
+21293,1772,2022-05-03,Médecin,Anxiété
+21294,2156,2022-05-19,Psychologue,Orientation
+21295,2007,2023-12-11,Médecin,Anxiété
+21296,1094,2022-09-09,Psychologue,Stress
+21297,2092,2022-11-07,Médecin,Stress
+21298,1023,2021-12-11,Soutien scolaire,Autre
+21299,1557,2024-12-08,Psychologue,Fatigue
+21300,1701,2023-02-17,Médecin,Stress
