@@ -7,7 +7,9 @@ with i as (select * from {{ ref('stg_inscription') }}),
      )
 select
     r.id_inscription, r.id_etudiant, r.annee_universitaire,
-    r.type_inscription, r.date_inscription, r.filiere, r.niveau,
+    r.type_inscription, r.date_inscription,
+    cast(to_char(r.date_inscription, 'YYYYMMDD') as integer) as id_date,
+    r.filiere, r.niveau,
     case when r.rang = 1 then true else false end                        as is_nouvel_inscrit,
     case when r.type_inscription = 'Réinscrit' then true else false end  as is_reinscrit,
     case when e.statut = 'Abandon' then true else false end              as is_abandon,

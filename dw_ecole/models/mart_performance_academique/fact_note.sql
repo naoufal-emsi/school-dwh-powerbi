@@ -8,6 +8,7 @@ with n as (select * from {{ ref('stg_note') }}),
      )
 select
     n.id_note, n.id_etudiant, n.id_module, n.annee_universitaire,
+    cast(left(n.annee_universitaire, 4) || '0901' as integer) as id_date,
     n.note, n.mention, n.session, n.resultat,
     t.taux_reussite                                         as taux_reussite_module,
     t.taux_echec                                            as taux_echec_module,

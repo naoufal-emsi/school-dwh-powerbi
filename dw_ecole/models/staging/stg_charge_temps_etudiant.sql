@@ -3,6 +3,7 @@ select
     cast(ID_CHARGE as integer)          as id_charge,
     cast(ID_ETUDIANT as integer)        as id_etudiant,
     trim(SEMAINE)                       as semaine,
+    cast(split_part(trim(SEMAINE), '-S', 2) as integer) as semaine_num,
     cast(HEURES_COURS as float)         as heures_cours,
     cast(HEURES_DEVOIRS as float)       as heures_devoirs,
     cast(HEURES_PROJETS as float)       as heures_projets,

@@ -3,6 +3,7 @@ with seance as (select * from {{ ref('stg_seance_cours') }}),
      salle as (select * from {{ ref('stg_salle') }})
 select
     s.id_seance, s.id_module, s.id_professeur, s.id_salle, s.date_seance,
+    cast(to_char(s.date_seance, 'YYYYMMDD') as integer) as id_date,
     s.heure_debut, s.heure_fin, s.effectuee, s.retard_minutes, s.nb_etudiants_presents,
     case when s.heure_fin is not null and s.heure_debut is not null
          then datediff('hour', s.heure_debut::time, s.heure_fin::time)
